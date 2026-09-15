@@ -141,3 +141,61 @@ dist
 vite.config.js.timestamp-*
 vite.config.ts.timestamp-*
 .vite/
+
+# Arquivo .gitignore
+*.pem
+*.key
+.env
+.env.*
+!.env.example
+/var/log/
+
+# ==========================================
+# ADIÇÕES PARA O PROJETO (IA, AWS, OS & IDE)
+# ==========================================
+
+# Python & Ambientes Virtuais (Backend / Machine Learning)
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+venv/
+ENV/
+env/
+*.venv
+
+# Jupyter Notebooks & Modelos de IA
+.ipynb_checkpoints/
+*-checkpoint.ipynb
+*.pkl
+*.joblib
+*.h5
+*.pth
+*.onnx
+
+# Dados Sensíveis & Conjuntos de Dados Locais
+*.csv
+*.pcap
+data/raw/
+
+# Arquivos de Sistema Operacional (Windows / macOS)
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+Desktop.ini
+
+# IDEs & Editores de Código
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# AWS & Ferramentas de Infraestrutura
+.aws/
+docker-compose.override.yml
+*.tfstate
+*.tfstate.*
