@@ -6,7 +6,7 @@
 
 # Projeto Integrador - Inteligência Artificial e Aprendizado de Máquina
 
-## Nome do grupo: ArregASA
+## Nome do grupo: SISA - Sistema Inteligente do Sucesso Alvarista
 
 ## Integrantes:
 
