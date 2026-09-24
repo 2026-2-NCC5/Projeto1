@@ -199,3 +199,8 @@ Desktop.ini
 docker-compose.override.yml
 *.tfstate
 *.tfstate.*
+
+# Expo (React Native Mobile)
+.expo/
+.expo-shared/
+

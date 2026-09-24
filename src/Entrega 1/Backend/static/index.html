@@ -1,0 +1,199 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>SISA - Assistente Virtual FECAP</title>
+  <link rel="stylesheet" href="/static/style.css">
+  <!-- CDN do Marked.js para renderização de Markdown rápida e segura -->
+  <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
+</head>
+<body>
+
+  <!-- Menu Lateral Drawer (Hamburger Menu) -->
+  <div class="menu-overlay" id="menuOverlay"></div>
+  <aside class="menu-drawer" id="menuDrawer">
+    <div class="drawer-header">
+      <div class="drawer-title">
+        <span>⚡</span>
+        <h3>Perguntas Rápidas</h3>
+      </div>
+      <button class="close-drawer-btn" id="closeDrawerBtn" title="Fechar menu">✕</button>
+    </div>
+
+    <div class="drawer-content">
+      <!-- Seção Requerimentos -->
+      <div class="drawer-section">
+        <div class="section-title">📋 Requerimentos Acadêmicos</div>
+        <button class="drawer-item" data-query="Como solicitar o Passe Escolar / SPTrans?">
+          🎫 Passe Escolar / SPTrans
+        </button>
+        <button class="drawer-item" data-query="Como pedir trancamento de curso e qual o prazo?">
+          ⏸️ Trancamento de Curso
+        </button>
+        <button class="drawer-item" data-query="Como emitir a 2ª via do histórico escolar?">
+          📄 2ª Via do Histórico Escolar
+        </button>
+        <button class="drawer-item" data-query="Como solicitar a revisão de nota/prova (PEDP)?">
+          📝 Revisão de Nota (PEDP)
+        </button>
+        <button class="drawer-item" data-query="Como obter o certificado de conclusão de curso?">
+          🎓 Certificado de Conclusão
+        </button>
+        <button class="drawer-item" data-query="Como abrir requerimento de transferência de curso?">
+          🔄 Transferência de Curso
+        </button>
+        <button class="drawer-item" data-query="Como solicitar boleto no portal?">
+          💳 Solicitação de Boleto
+        </button>
+      </div>
+
+      <!-- Seção Ciência da Computação -->
+      <div class="drawer-section">
+        <div class="section-title">💻 Horários - Ciência da Computação (CCOMP)</div>
+        <button class="drawer-item" data-query="Quero os horários de CCOMP 2NA">
+          🖥️ CCOMP 2º Semestre (2NA)
+        </button>
+        <button class="drawer-item" data-query="Quero os horários de CCOMP 3NA">
+          🖥️ CCOMP 3º Semestre (3NA)
+        </button>
+        <button class="drawer-item" data-query="Quero os horários de CCOMP 4">
+          🖥️ CCOMP 4º Semestre (4NA)
+        </button>
+        <button class="drawer-item" data-query="Quero os horários de CCOMP 5NA">
+          🖥️ CCOMP 5º Semestre (5NA)
+        </button>
+        <button class="drawer-item" data-query="Quero os horários de CCOMP 6NA">
+          🖥️ CCOMP 6º Semestre (6NA)
+        </button>
+        <button class="drawer-item" data-query="Quero os horários de CCOMP 7NA">
+          🖥️ CCOMP 7º Semestre (7NA)
+        </button>
+        <button class="drawer-item" data-query="Quero os horários de CCOMP 8NA">
+          🖥️ CCOMP 8º Semestre (8NA)
+        </button>
+      </div>
+
+      <!-- Seção ADS -->
+      <div class="drawer-section">
+        <div class="section-title">⚙️ Horários - ADS</div>
+        <button class="drawer-item" data-query="Quero os horários de ADS 1NA">
+          📱 ADS 1º Semestre (1NA)
+        </button>
+        <button class="drawer-item" data-query="Quero os horários de ADS 2NA">
+          📱 ADS 2º Semestre (2NA)
+        </button>
+        <button class="drawer-item" data-query="Quero os horários de ADS 3NA">
+          📱 ADS 3º Semestre (3NA)
+        </button>
+        <button class="drawer-item" data-query="Quero os horários de ADS 4NA">
+          📱 ADS 4º Semestre (4NA)
+        </button>
+      </div>
+
+      <!-- Seção Administração -->
+      <div class="drawer-section">
+        <div class="section-title">📈 Horários - Administração (ADM)</div>
+        <button class="drawer-item" data-query="Quais os horários de 1NA de Administração?">
+          📊 ADM 1º Semestre (1NA Eixo Comum)
+        </button>
+        <button class="drawer-item" data-query="Quais os horários de 2NA de Administração?">
+          📊 ADM 2º Semestre (2NA)
+        </button>
+        <button class="drawer-item" data-query="Quais os horários de 3NA de Administração?">
+          📊 ADM 3º Semestre (3NA)
+        </button>
+        <button class="drawer-item" data-query="Quais os horários de 4NA de Administração?">
+          📊 ADM 4º Semestre (4NA)
+        </button>
+        <button class="drawer-item" data-query="Quais os horários de 5NA de Administração?">
+          📊 ADM 5º Semestre (5NA)
+        </button>
+        <button class="drawer-item" data-query="Quais os horários de 6NA de Administração?">
+          📊 ADM 6º Semestre (6NA)
+        </button>
+        <button class="drawer-item" data-query="Quais os horários de 7NA de Administração?">
+          📊 ADM 7º Semestre (7NA)
+        </button>
+        <button class="drawer-item" data-query="Quais os horários de 8NA de Administração?">
+          📊 ADM 8º Semestre (8NA)
+        </button>
+      </div>
+
+      <!-- Seção Contábeis e Economia -->
+      <div class="drawer-section">
+        <div class="section-title">📑 Horários - Contábeis & Economia</div>
+        <button class="drawer-item" data-query="Quero os horários de 5NA de Ciências Contábeis">
+          💼 Contábeis 5º Semestre (5NA CC)
+        </button>
+        <button class="drawer-item" data-query="Quero os horários de 6NA de Ciências Contábeis">
+          💼 Contábeis 6º Semestre (6NA CC)
+        </button>
+        <button class="drawer-item" data-query="Quero os horários de 3NA de Economia">
+          📉 Economia 3º Semestre (3NA CE)
+        </button>
+        <button class="drawer-item" data-query="Quero os horários de 4NA de Economia">
+          📉 Economia 4º Semestre (4NA CE)
+        </button>
+      </div>
+    </div>
+  </aside>
+
+  <div class="chat-container">
+    <!-- Header -->
+    <header class="chat-header">
+      <div class="header-left">
+        <!-- Botão Menu Hamburguer -->
+        <button class="hamburger-btn" id="openDrawerBtn" title="Abrir menu de perguntas rápidas">
+          <span>☰</span>
+        </button>
+        <div class="bot-avatar">🎓</div>
+        <div class="header-info">
+          <h1>SISA - Assistente FECAP</h1>
+          <p>Requerimentos acadêmicos & Horários de aulas</p>
+        </div>
+      </div>
+      <button class="header-menu-pill" id="openDrawerPillBtn">
+        ⚡ Perguntas Rápidas
+      </button>
+    </header>
+
+    <!-- Área de Mensagens -->
+    <main class="chat-messages" id="chatMessages">
+      <!-- Mensagem Inicial de Boas-Vindas -->
+      <div class="message-row bot">
+        <div class="msg-avatar">🎓</div>
+        <div class="msg-bubble">
+          <p>Olá! Eu sou o <strong>SISA</strong>, assistente virtual oficial da FECAP.</p>
+          <p>Estou preparado para te ajudar com:</p>
+          <ul>
+            <li>📋 <strong>Requerimentos Acadêmicos</strong> (Passe Escolar / SPTrans, Trancamento, Histórico, Boleto, PEDP, etc.)</li>
+            <li>📅 <strong>Grades de Horários e Salas</strong> (CCOMP, ADS, ADM, Contábeis e Economia)</li>
+          </ul>
+          <p>Clique no menu <strong>☰ Perguntas Rápidas</strong> ou digite sua dúvida abaixo!</p>
+        </div>
+      </div>
+    </main>
+
+    <!-- Barra de Sugestões / Chips Rápidos -->
+    <div class="suggestions-bar" id="suggestionsContainer">
+      <!-- Inserido dinamicamente via JS -->
+    </div>
+
+    <!-- Barra de Entrada de Mensagem -->
+    <footer class="chat-input-area">
+      <textarea 
+        id="chatInput" 
+        class="chat-input" 
+        placeholder="Ex: 'Quero os horários de CCOMP 4' ou 'Como pedir o passe escolar?'..." 
+        rows="1"
+      ></textarea>
+      <button id="sendBtn" class="send-btn" title="Enviar mensagem" disabled>
+        ➤
+      </button>
+    </footer>
+  </div>
+
+  <script src="/static/app.js"></script>
+</body>
+</html>

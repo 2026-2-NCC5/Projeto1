@@ -1,0 +1,2317 @@
+[
+  {
+    "titulo": "Abatimento de Valores de Disciplinas em Inglês",
+    "grupo_de_atendimento": "Serviços Financeiros",
+    "valor": "R$0,00",
+    "tipo_de_requerimento": "Abatimento de Valores de Disciplinas em Inglês",
+    "descricao": "Você decidiu realizar alguma disciplina em inglês através dos nossos cursos de extensão e foi aprovado. Isso é maravilhoso! Você pode solicitar a sua restituição em forma de abatimento de mensalidades ou até mesmo realizar outro curso de extensão. Basta abrir a sua solicitação. Estaremos disponíveis para te ajudar!",
+    "procedimentos": "",
+    "anexos_obrigatorios": [],
+    "campos_extras": [
+      {
+        "campo": "Confirma o desejo de abrir a solicitação? (Caso não seja retornada a opção \"Sim\", indica que já existe solicitação em andamento desse tipo)",
+        "tipo": "Seleção / Dropdown",
+        "obrigatorio": true
+      },
+      {
+        "campo": "Solicitação",
+        "tipo": "Texto livre",
+        "obrigatorio": true
+      }
+    ],
+    "id": "abatimento_de_valores_de_disciplinas_em_ingles",
+    "caminho_sistema": "Portal do Aluno > Aba Acadêmico > Requerimentos > Abatimento de Valores de Disciplinas em Inglês",
+    "tags": [
+      "abatimento",
+      "disciplinas",
+      "financeiros",
+      "inglês",
+      "serviços",
+      "valores"
+    ]
+  },
+  {
+    "titulo": "Abono ou Compensação de Faltas",
+    "grupo_de_atendimento": "Serviços Acadêmicos",
+    "valor": "R$0,00",
+    "tipo_de_requerimento": "Abono ou Compensação de Faltas",
+    "descricao": "Faltou nas aulas por motivo de saúde, alistamento militar ou outras razões previstas em lei? Calma, nós podemos te ajudar. Se você se enquadra nas condições descritas, envie seu atestado para análise do abono.\nCondições para a compensação:\n1. Não há abono de faltas. Em casos previstos em lei (doença infectocontagiosa, afastamento superior a 15 (quinze) dias ininterruptos, licença maternidade, serviço militar obrigatório, serviço eleitoral, guarda religiosa).\n2. O(a) estudante pode solicitar tratamento excepcional para fins de compensação de faltas.\n3. O(a) estudante deve estar regularmente matriculado(a) (situação de matrícula na disciplina como \"Cursando\").\n4. Em casos de problemas de saúde, deve ser entregue laudo médico contendo CID e relatório médico que ateste a impossibilidade de frequência às aulas. A entrega deverá ocorrer em até 5 dias consecutivos, a contar do início da data de afastamento.\n5. O laudo médico deve ser encaminhado em papel timbrado com dados do emissor e contatos para verificação de autenticidade.\nObs: Para mais informações acesse o Manual do Aluno.",
+    "procedimentos": "",
+    "anexos_obrigatorios": [],
+    "campos_extras": [
+      {
+        "campo": "Solicitação",
+        "tipo": "Texto livre",
+        "obrigatorio": true
+      }
+    ],
+    "id": "abono_ou_compensacao_de_faltas",
+    "caminho_sistema": "Portal do Aluno > Aba Acadêmico > Requerimentos > Abono ou Compensação de Faltas",
+    "tags": [
+      "abono",
+      "acadêmicos",
+      "compensação",
+      "faltas",
+      "serviços"
+    ]
+  },
+  {
+    "titulo": "Acesso ao e-mail FECAP",
+    "grupo_de_atendimento": "Plataformas Digitais",
+    "valor": "R$0,00",
+    "tipo_de_requerimento": "Acesso ao e-mail FECAP",
+    "descricao": "Por algum motivo está com dificuldades para acessar o seu e-mail FECAP? Vamos te ajudar a resolver isso! Abra este requerimento e descreva o problema enfrentado.",
+    "procedimentos": "",
+    "anexos_obrigatorios": [],
+    "campos_extras": [
+      {
+        "campo": "Solicitação",
+        "tipo": "Texto livre",
+        "obrigatorio": true
+      }
+    ],
+    "id": "acesso_ao_e_mail_fecap",
+    "caminho_sistema": "Portal do Aluno > Aba Acadêmico > Requerimentos > Acesso ao e-mail FECAP",
+    "tags": [
+      "acesso",
+      "digitais",
+      "fecap",
+      "mail",
+      "plataformas"
+    ]
+  },
+  {
+    "titulo": "Acesso ao VPN da FECAP",
+    "grupo_de_atendimento": "Plataformas Digitais",
+    "valor": "R$0,00",
+    "tipo_de_requerimento": "Acesso ao VPN da FECAP",
+    "descricao": "Por algum motivo está com dificuldades para acessar a VPN da FECAP? Vamos te ajudar a resolver isso! Abra este requerimento e descreva o problema enfrentado.",
+    "procedimentos": "",
+    "anexos_obrigatorios": [],
+    "campos_extras": [
+      {
+        "campo": "Solicitação",
+        "tipo": "Texto / Área de texto",
+        "obrigatorio": true
+      }
+    ],
+    "id": "acesso_ao_vpn_da_fecap",
+    "caminho_sistema": "Portal do Aluno > Aba Acadêmico > Requerimentos > Acesso ao VPN da FECAP",
+    "tags": [
+      "acesso",
+      "digitais",
+      "fecap",
+      "plataformas",
+      "vpn"
+    ]
+  },
+  {
+    "titulo": "Adesão ao Programa de Assistência Financeira",
+    "grupo_de_atendimento": "Bolsas e Financiamentos",
+    "valor": "R$0,00",
+    "tipo_de_requerimento": "Adesão ao Programa de Assistência Financeira",
+    "descricao": "Sabemos que imprevistos acontecem, como desemprego, invalidez por acidente ou perda de renda por afastamento médico do responsável financeiro. Mas não desanime, a FECAP vai te ajudar a realizar o seu sonho!\nPara incentivar a continuidade do seu curso, a Fundação conta com o Programa de Assistência Financeira.\nSe esse é o seu caso, preencha a solicitação e faça o upload da documentação necessária.\nCaso seja elegível, terá direito a isenção de até 3 mensalidades.",
+    "procedimentos": "",
+    "anexos_obrigatorios": [],
+    "campos_extras": [
+      {
+        "campo": "Curso / Sigla",
+        "tipo": "Seleção / Dropdown",
+        "obrigatorio": false
+      },
+      {
+        "campo": "Preencha o nº do Nível de Ensino (1 - Graduação, 2 - Pós-Graduação, 3 - Mestrado, 5 - Colégio)",
+        "tipo": "Texto livre",
+        "obrigatorio": false
+      },
+      {
+        "campo": "Confirma o desejo de abrir a solicitação? (Caso não seja retornada a opção \"Sim\", indica que já existe solicitação em andamento desse tipo)",
+        "tipo": "Seleção / Dropdown",
+        "obrigatorio": true
+      }
+    ],
+    "id": "adesao_ao_programa_de_assistencia_financeira",
+    "caminho_sistema": "Portal do Aluno > Aba Acadêmico > Requerimentos > Adesão ao Programa de Assistência Financeira",
+    "tags": [
+      "adesão",
+      "assistência",
+      "bolsas",
+      "financeira",
+      "financiamentos",
+      "programa"
+    ]
+  },
+  {
+    "titulo": "Adicionar Crédito de Impressão",
+    "grupo_de_atendimento": "Serviços Acadêmicos",
+    "valor": "R$0,00",
+    "tipo_de_requerimento": "Adicionar Crédito de Impressão",
+    "descricao": "Sabia que você pode realizar a impressão de materiais e documentos na FECAP? Para isso você precisa creditar o seu Centro de Impressão através deste requerimento e depois seguir o passo a passo abaixo para realizar a impressão do(s) seu(s) documento(s). Você conta com a facilidade de pagamento podendo escolher pagar por boleto, cartão de crédito ou PIX.\n\nObs: O pagamento por cartão de crédito garante o cadastro dos créditos imediatamente. Os pagamentos por boleto ou PIX devem aguardar o período de faturamento (24 a 48 horas úteis).\n\nOs custos das impressões são os seguintes:\n- Preto e branco: R$0,30 (por folha)\n- Colorido: R$2,00 (por folha)",
+    "procedimentos": "- Credite o seu Centro de Impressão através deste requerimento;\n- Após a baixa do pagamento, abra o Menu > URLs Externas > selecione a opção \"Portal de Impressão\";\n- Realize o seu login para acesso (o mesmo login de acesso ao Portal do Aluno);\n- Clique em \"Impressão WEB > Submeter um trabalho\";\n- Selecione a opção de impressão que deseja (preto e branco ou colorida) e avance;\n- Indique a quantidade de cópias que deseja imprimir e avance;\n- Realize o upload do(s) documento(s) para impressão;\n- Clique em \"Envio e Finalização\".\n\nProntinho! Você realizou o envio do(s) seu(s) arquivo(s) e já pode logar em algum totem na FECAP para realizar a impressão do(s) documento(s).\n\nObs: Caso você esteja utilizando algum dos nossos laboratórios, não é necessário realizar o passo a passo acima de upload do(s) documento(s). Você deve apenas selecionar a impressora que deseja.",
+    "anexos_obrigatorios": [],
+    "campos_extras": [
+      {
+        "campo": "Valor de crédito para Impressão",
+        "tipo": "Texto / Numérico",
+        "obrigatorio": true
+      },
+      {
+        "campo": "Solicitação",
+        "tipo": "Texto / Área de texto",
+        "obrigatorio": true
+      }
+    ],
+    "id": "adicionar_credito_de_impressao",
+    "caminho_sistema": "Portal do Aluno > Aba Acadêmico > Requerimentos > Adicionar Crédito de Impressão",
+    "tags": [
+      "acadêmicos",
+      "adicionar",
+      "crédito",
+      "impressão",
+      "serviços"
+    ]
+  },
+  {
+    "titulo": "Afastamento - Licença Maternidade",
+    "grupo_de_atendimento": "Serviços Acadêmicos",
+    "valor": "R$0,00",
+    "tipo_de_requerimento": "Afastamento - Licença Maternidade",
+    "descricao": "",
+    "procedimentos": "",
+    "anexos_obrigatorios": [],
+    "campos_extras": [
+      {
+        "campo": "Solicitação",
+        "tipo": "Área de texto",
+        "obrigatorio": true
+      }
+    ],
+    "id": "afastamento_licenca_maternidade",
+    "caminho_sistema": "Portal do Aluno > Aba Acadêmico > Requerimentos > Afastamento - Licença Maternidade",
+    "tags": [
+      "acadêmicos",
+      "afastamento",
+      "licença",
+      "maternidade",
+      "serviços"
+    ]
+  },
+  {
+    "titulo": "Ajuste de Ponderação",
+    "grupo_de_atendimento": "Serviços Acadêmicos",
+    "valor": "R$0,00",
+    "tipo_de_requerimento": "Ajuste de Ponderação",
+    "descricao": "Precisa de alteração na ponderação de algumas disciplinas em virtude de não cursar o PEDP? Solicite por meio do portal. Caso prefira, entre em contato com os canais de atendimento do ASA. Estamos prontos para te ajudar!",
+    "procedimentos": "",
+    "anexos_obrigatorios": [],
+    "campos_extras": [
+      {
+        "campo": "Solicitação",
+        "tipo": "Área de texto",
+        "obrigatorio": true
+      }
+    ],
+    "id": "ajuste_de_ponderacao",
+    "caminho_sistema": "Portal do Aluno > Aba Acadêmico > Requerimentos > Ajuste de Ponderação",
+    "tags": [
+      "acadêmicos",
+      "ajuste",
+      "ponderação",
+      "serviços"
+    ]
+  },
+  {
+    "titulo": "Ajustes por Sobreposições de Disciplinas",
+    "grupo_de_atendimento": "Serviços Acadêmicos",
+    "valor": "R$0,00",
+    "tipo_de_requerimento": "Ajustes por Sobreposições de Disciplinas",
+    "descricao": "Possui disciplinas de semestres anteriores, DP ou adaptações, com horários conflitantes? Não se preocupe, nós podemos te ajudar. Abra essa solicitação e informe qual disciplina deseja cursar e qual deseja alterar o status para \"A Cursar\". Se preferir, procure pelo atendimento ASA em um de nossos canais.",
+    "procedimentos": "",
+    "anexos_obrigatorios": [],
+    "campos_extras": [
+      {
+        "campo": "Solicitação",
+        "tipo": "Área de texto",
+        "obrigatorio": true
+      }
+    ],
+    "id": "ajustes_por_sobreposicoes_de_disciplinas",
+    "caminho_sistema": "Portal do Aluno > Aba Acadêmico > Requerimentos > Ajustes por Sobreposições de Disciplinas",
+    "tags": [
+      "acadêmicos",
+      "ajustes",
+      "disciplinas",
+      "por",
+      "serviços",
+      "sobreposições"
+    ]
+  },
+  {
+    "titulo": "Alteração de Dados Cadastrais",
+    "grupo_de_atendimento": "Serviços Acadêmicos",
+    "valor": "R$0,00",
+    "tipo_de_requerimento": "Alteração de Dados Cadastrais",
+    "descricao": "Deseja alterar os seus dados cadastrais, como nome, endereço ou e-mail? Abra a solicitação informando qual dado deseja alterar e, se necessário, encaminhe a relação de documentos necessários.\n\nImportante: Você deverá anexar a(s) cópia(s) atualizada(s) do(s) seu(s) documento(s) para que possamos realizar as atualizações, como RG e CPF, Comprovante de Residência, etc.\n\nObs: Todos os documentos devem ser digitalizados e enviados no formato PDF.\n\nPara mais informações acesse o Manual do Aluno.",
+    "procedimentos": "",
+    "anexos_obrigatorios": [],
+    "campos_extras": [
+      {
+        "campo": "Solicitação",
+        "tipo": "Texto / Área de texto",
+        "obrigatorio": true
+      }
+    ],
+    "id": "alteracao_de_dados_cadastrais",
+    "caminho_sistema": "Portal do Aluno > Aba Acadêmico > Requerimentos > Alteração de Dados Cadastrais",
+    "tags": [
+      "acadêmicos",
+      "alteração",
+      "cadastrais",
+      "dados",
+      "serviços"
+    ]
+  },
+  {
+    "titulo": "Alteração de Gênero no Registro de Matrícula",
+    "grupo_de_atendimento": "Dados Cadastrais",
+    "valor": "R$0,00",
+    "tipo_de_requerimento": "Alteração de Gênero no Registro de Matrícula",
+    "descricao": "Para alteração de gênero é necessário enviar a cópia da Certidão de nascimento.",
+    "procedimentos": "",
+    "anexos_obrigatorios": [],
+    "campos_extras": [
+      {
+        "campo": "Solicitação",
+        "tipo": "Texto / Área de texto",
+        "obrigatorio": true
+      }
+    ],
+    "id": "alteracao_de_genero_no_registro_de_matricula",
+    "caminho_sistema": "Portal do Aluno > Aba Acadêmico > Requerimentos > Alteração de Gênero no Registro de Matrícula",
+    "tags": [
+      "alteração",
+      "cadastrais",
+      "dados",
+      "gênero",
+      "matrícula",
+      "registro"
+    ]
+  },
+  {
+    "titulo": "Alteração de Horário de Provas (oficial e exame)",
+    "grupo_de_atendimento": "Serviços Acadêmicos",
+    "valor": "R$0,00",
+    "tipo_de_requerimento": "Alteração de Horário de Provas (oficial e exame)",
+    "descricao": "Imprevistos acontecem e se você não conseguiu realizar alguma de suas provas (oficiais e/ou exames), na data e horários pré-estabelecidos por um motivo previsto em lei, solicite a análise para aplicação de nova prova por meio deste requerimento. Informe no campo de \"solicitação\" o nome da disciplina e anexe o atestado/comprovante para análise.\n\nImportante: De acordo com o Manual do Aluno, poderá solicitar a remarcação de prova (oficial e/ou exame) o(a) estudante que não compareceu no dia da prova por razões de:\n\n- doenças infectocontagiosas;\n- por motivo de saúde que exija afastamento superior a 15 (quinze) dias ininterruptos;\n- por internação;\n- por licença maternidade;\n- por prestação de serviço militar obrigatório;\n- por convocação para integrar o Conselho de Sentença em Tribunal de Júri, para o serviço eleitoral e para participar de conclaves oficiais.\n\nOBS: Se deferida, a remarcação da(s) prova(s) poderá ocorrer em qualquer dia da semana inclusive aos finais de semana e mais de uma prova por dia.",
+    "procedimentos": "",
+    "anexos_obrigatorios": [],
+    "campos_extras": [
+      {
+        "campo": "Solicitação",
+        "tipo": "Texto / Área de texto",
+        "obrigatorio": true
+      }
+    ],
+    "id": "alteracao_de_horario_de_provas_oficial_e_exame",
+    "caminho_sistema": "Portal do Aluno > Aba Acadêmico > Requerimentos > Alteração de Horário de Provas (oficial e exame)",
+    "tags": [
+      "acadêmicos",
+      "alteração",
+      "exame",
+      "horário",
+      "oficial",
+      "provas",
+      "serviços"
+    ]
+  },
+  {
+    "titulo": "Alteração de Responsável Financeiro",
+    "grupo_de_atendimento": "Dados Cadastrais",
+    "valor": "R$0,00",
+    "tipo_de_requerimento": "Alteração de Responsável Financeiro",
+    "descricao": "Necessita alterar o responsável financeiro? Sem problemas: abra esta solicitação anexando a relação de documentos necessária.",
+    "procedimentos": "Atenção: Para solicitar a alteração de Responsável Financeiro - Pessoa Física é necessário encaminhar a seguinte relação de documentos: RG, CPF, comprovante de endereço e e-mail do(a) atual responsável; Carta de próprio punho do(a) atual responsável TRANSFERINDO a responsabilidade financeira; RG, CPF, comprovante de endereço e e-mail do(a) novo responsável; Carta de próprio punho do(a) novo responsável ACEITANDO a responsabilidade financeira. Obs: Todos os documentos devem ser digitalizados e enviados no formato PDF.",
+    "anexos_obrigatorios": [
+      "RG, CPF, comprovante de endereço e e-mail do(a) atual responsável (PDF)",
+      "Carta de próprio punho do(a) atual responsável TRANSFERINDO a responsabilidade financeira (PDF)",
+      "RG, CPF, comprovante de endereço e e-mail do(a) novo responsável (PDF)",
+      "Carta de próprio punho do(a) novo responsável ACEITANDO a responsabilidade financeira (PDF)"
+    ],
+    "campos_extras": [
+      {
+        "campo": "Solicitação",
+        "tipo": "Área de texto",
+        "obrigatorio": true
+      }
+    ],
+    "id": "alteracao_de_responsavel_financeiro",
+    "caminho_sistema": "Portal do Aluno > Aba Acadêmico > Requerimentos > Alteração de Responsável Financeiro",
+    "tags": [
+      "alteração",
+      "cadastrais",
+      "dados",
+      "financeiro",
+      "responsável"
+    ]
+  },
+  {
+    "titulo": "Alteração do Responsável Financeiro para Empresa",
+    "grupo_de_atendimento": "Dados Cadastrais",
+    "valor": "R$0,00",
+    "tipo_de_requerimento": "Alteração do Responsável Financeiro para Empresa",
+    "descricao": "Necessita alterar o responsável financeiro para pessoa jurídica (PJ)? Vamos te explicar como: cumpra os critérios necessários e abra esta solicitação anexando a relação de documentos necessária.",
+    "procedimentos": "Critérios: O(a) estudante deve estar regularmente matriculado(a) e adimplente em todas as mensalidades até o momento da solicitação; O(a) responsável financeiro(a) atual deve autorizar a transferência, por meio de carta assinada e datada.\n\nRelação de Documentos:\n- Carta de próprio punho do(a) atual responsável TRANSFERINDO a responsabilidade financeira;\n\nEmpresa Pública:\n- Contrato ou Estatuto Social;\n- CNPJ;\n- Inscrição Estadual;\n- Ata de Eleição dos Dirigentes;\n- Procuração que Outorga poderes para quem assinar o contrato;\n- RG, CPF e e-mail do(a) representante que assinará o contrato.\n\nEmpresa Privada:\n- Contrato ou Estatuto Social;\n- CNPJ;\n- Inscrição Estadual;\n- Procuração que Outorga poderes para quem assinar o contrato;\n- RG, CPF e e-mail do(a) representante que assinará o contrato.\n\nImportante: Os documentos deverão ser digitalizados e anexados no formato PDF. Não aceitamos foto/imagens de documentos.",
+    "anexos_obrigatorios": [
+      "Carta de próprio punho do(a) atual responsável TRANSFERINDO a responsabilidade financeira (PDF)",
+      "Documentos da Empresa (Contrato/Estatuto Social, CNPJ, Inscrição Estadual, Procuração, RG, CPF e e-mail do representante) (PDF)"
+    ],
+    "campos_extras": [
+      {
+        "campo": "Solicitação",
+        "tipo": "Área de texto",
+        "obrigatorio": true
+      }
+    ],
+    "id": "alteracao_do_responsavel_financeiro_para_empresa",
+    "caminho_sistema": "Portal do Aluno > Aba Acadêmico > Requerimentos > Alteração do Responsável Financeiro para Empresa",
+    "tags": [
+      "alteração",
+      "cadastrais",
+      "dados",
+      "empresa",
+      "financeiro",
+      "para",
+      "responsável"
+    ]
+  },
+  {
+    "titulo": "Antecipação da Assinatura do Termo de Colação",
+    "grupo_de_atendimento": "Documentos Acadêmicos",
+    "valor": "R$0,00",
+    "tipo_de_requerimento": "Antecipação da Assinatura do Termo de Colação",
+    "descricao": "Precisa da antecipação da assinatura do termo de colação de grau por algum motivo profissional ou acadêmico? Sem problemas, vamos te ajudar! Abra a solicitação informando os motivos e explicando a necessidade da antecipação.",
+    "procedimentos": "",
+    "anexos_obrigatorios": [],
+    "campos_extras": [
+      {
+        "campo": "Solicitação",
+        "tipo": "Área de texto",
+        "obrigatorio": true
+      }
+    ],
+    "id": "antecipacao_da_assinatura_do_termo_de_colacao",
+    "caminho_sistema": "Portal do Aluno > Aba Acadêmico > Requerimentos > Antecipação da Assinatura do Termo de Colação",
+    "tags": [
+      "acadêmicos",
+      "antecipação",
+      "assinatura",
+      "colação",
+      "documentos",
+      "termo"
+    ]
+  },
+  {
+    "titulo": "Atestado de Comparecimento",
+    "grupo_de_atendimento": "Documentos Acadêmicos",
+    "valor": "R$0,00",
+    "tipo_de_requerimento": "Atestado de Comparecimento",
+    "descricao": "Sabemos que você gosta de participar das aulas e atividades, não é mesmo?! Caso precise de um Atestado de Comparecimento, fique tranquilo, é só solicitar por meio deste requerimento, informando para a gente qual dia e horário você deseja comprovar sua presença.",
+    "procedimentos": "",
+    "anexos_obrigatorios": [],
+    "campos_extras": [
+      {
+        "campo": "Curso / Sigla do Curso (GR0038 ADM, GR0861 A. e Desenv. Sistemas, etc.)",
+        "tipo": "Seleção / Dropdown",
+        "obrigatorio": false
+      },
+      {
+        "campo": "Preencha o nº do Nível de Ensino (1 - Graduação, 2 - Pós-Graduação, 3 - Mestrado, 5 - Colégio)",
+        "tipo": "Texto livre",
+        "obrigatorio": false
+      },
+      {
+        "campo": "Solicitação",
+        "tipo": "Texto / Área de texto",
+        "obrigatorio": true
+      }
+    ],
+    "id": "atestado_de_comparecimento",
+    "caminho_sistema": "Portal do Aluno > Aba Acadêmico > Requerimentos > Atestado de Comparecimento",
+    "tags": [
+      "acadêmicos",
+      "atestado",
+      "comparecimento",
+      "documentos"
+    ]
+  },
+  {
+    "titulo": "Atestado Personalizado",
+    "grupo_de_atendimento": "Documentos Acadêmicos",
+    "valor": "R$5,00",
+    "tipo_de_requerimento": "Atestado Personalizado",
+    "descricao": "Você baixou seu Atestado de Matrícula pelo Portal do Aluno > Menu > Relatórios e precisa de mais alguma informação que não consta nele?\n\nVocê pode pedir para incluir exatamente o que precisa em um Atestado Personalizado. É muito fácil solicitar! Basta abrir esta solicitação com as informações que deseja incluir no seu Atestado de Matrícula.",
+    "procedimentos": "",
+    "anexos_obrigatorios": [],
+    "campos_extras": [
+      {
+        "campo": "Confirma o desejo de abrir a solicitação? (Caso não seja retornada a opção \"Sim\", indica que já existe solicitação em andamento desse tipo)",
+        "tipo": "Seleção / Dropdown",
+        "obrigatorio": false
+      },
+      {
+        "campo": "Solicitação",
+        "tipo": "Texto / Área de texto",
+        "obrigatorio": true
+      }
+    ],
+    "id": "atestado_personalizado",
+    "caminho_sistema": "Portal do Aluno > Aba Acadêmico > Requerimentos > Atestado Personalizado",
+    "tags": [
+      "acadêmicos",
+      "atestado",
+      "documentos",
+      "personalizado"
+    ]
+  },
+  {
+    "titulo": "Autorização para Assistir Aulas Como Ouvinte",
+    "grupo_de_atendimento": "Serviços Acadêmicos",
+    "valor": "R$0,00",
+    "tipo_de_requerimento": "Autorização para Assistir Aulas Como Ouvinte",
+    "descricao": "Tem curiosidade ou interesse em assistir aulas de alguma disciplina que não está na sua grade? Você pode participar como ouvinte. Bacana, não é?! Faça a sua solicitação ou entre em contato pelos canais de atendimento ASA. Será um prazer te ajudar nesse pedido especial! Importante: a validação dependerá da autorização da Coordenação.",
+    "procedimentos": "",
+    "anexos_obrigatorios": [],
+    "campos_extras": [
+      {
+        "campo": "Solicitação",
+        "tipo": "Texto / Área de texto",
+        "obrigatorio": true
+      }
+    ],
+    "id": "autorizacao_para_assistir_aulas_como_ouvinte",
+    "caminho_sistema": "Portal do Aluno > Aba Acadêmico > Requerimentos > Autorização para Assistir Aulas Como Ouvinte",
+    "tags": [
+      "acadêmicos",
+      "assistir",
+      "aulas",
+      "autorização",
+      "como",
+      "ouvinte",
+      "para",
+      "serviços"
+    ]
+  },
+  {
+    "titulo": "Autorização para Assistir Aulas em Outro Curso",
+    "grupo_de_atendimento": "Serviços Acadêmicos",
+    "valor": "R$0,00",
+    "tipo_de_requerimento": "Autorização para Assistir Aulas em Outro Curso",
+    "descricao": "Tem curiosidade ou interesse em assistir aulas de outro curso? Faça a sua solicitação ou entre em contato pelos canais de atendimento do ASA que nós iremos te ajudar com esse pedido especial. Mas lembre-se, a validação dependerá da Coordenação, ok?!",
+    "procedimentos": "",
+    "anexos_obrigatorios": [],
+    "campos_extras": [
+      {
+        "campo": "Solicitação",
+        "tipo": "Texto livre",
+        "obrigatorio": true
+      }
+    ],
+    "id": "autorizacao_para_assistir_aulas_em_outro_curso",
+    "caminho_sistema": "Portal do Aluno > Aba Acadêmico > Requerimentos > Autorização para Assistir Aulas em Outro Curso",
+    "tags": [
+      "acadêmicos",
+      "assistir",
+      "aulas",
+      "autorização",
+      "curso",
+      "outro",
+      "para",
+      "serviços"
+    ]
+  },
+  {
+    "titulo": "Biblioteca para Ex-alunos - Portal",
+    "grupo_de_atendimento": "Biblioteca",
+    "valor": "R$0,00",
+    "tipo_de_requerimento": "Biblioteca para Ex-alunos - Portal",
+    "descricao": "Programa destinado exclusivamente para Ex-alunos - Alumni Alvaristas",
+    "procedimentos": "Programa exclusivo para alunos formados na FECAP para usufruir dos recursos e serviços da instituição, incluindo a Biblioteca. Solicite o cadastro no programa (com validade de 6 meses) via Portal do Aluno ou diretamente no Balcão de Atendimento da Biblioteca Central. O programa está regido pelo Regulamento da Biblioteca (Item IV) e as penalidades serão aplicadas caso ocorra o descumprimento deste.",
+    "anexos_obrigatorios": [],
+    "campos_extras": [
+      {
+        "campo": "Preencha o nº do Nível de Ensino (1 - Graduação, 2 - Pós-Graduação, 3 - Mestrado, 5 - Colégio)",
+        "tipo": "Texto livre",
+        "obrigatorio": true
+      },
+      {
+        "campo": "Curso/Código",
+        "tipo": "Seleção / Dropdown",
+        "obrigatorio": false
+      },
+      {
+        "campo": "Solicitação",
+        "tipo": "Texto livre",
+        "obrigatorio": true
+      }
+    ],
+    "id": "biblioteca_para_ex_alunos_portal",
+    "caminho_sistema": "Portal do Aluno > Aba Acadêmico > Requerimentos > Biblioteca para Ex-alunos - Portal",
+    "tags": [
+      "alunos",
+      "biblioteca",
+      "para",
+      "portal"
+    ]
+  },
+  {
+    "titulo": "Boleto não Registrado",
+    "grupo_de_atendimento": "Serviços Financeiros",
+    "valor": "R$0,00",
+    "tipo_de_requerimento": "Boleto não Registrado",
+    "descricao": "Tentou pagar o boleto e não conseguiu? Não se preocupe, nós resolvemos para você! Abra esta solicitação informando o mês do boleto em questão.",
+    "procedimentos": "",
+    "anexos_obrigatorios": [],
+    "campos_extras": [
+      {
+        "campo": "Confirma o desejo de abrir a solicitação? (Caso não seja retornada a opção \"Sim\", indica que já existe solicitação em andamento desse tipo)",
+        "tipo": "Seleção / Dropdown",
+        "obrigatorio": true
+      },
+      {
+        "campo": "Solicitação",
+        "tipo": "Texto livre",
+        "obrigatorio": true
+      }
+    ],
+    "id": "boleto_nao_registrado",
+    "caminho_sistema": "Portal do Aluno > Aba Acadêmico > Requerimentos > Boleto não Registrado",
+    "tags": [
+      "boleto",
+      "financeiros",
+      "não",
+      "registrado",
+      "serviços"
+    ]
+  },
+  {
+    "titulo": "Bolsa Convênio com Organizações Parceiras",
+    "grupo_de_atendimento": "Bolsas e Financiamentos",
+    "valor": "R$0,00",
+    "tipo_de_requerimento": "A pedido do aluno",
+    "descricao": "Trabalha em alguma empresa parceira da FECAP? Então, saiba que você pode solicitar a Bolsa Convênio. Para isso, encaminhe os comprovantes de seu vínculo empregatício com a organização (contrato e Carteira de Trabalho).\n\nMas, caso a sua empresa ainda não seja afiliada à FECAP, não se preocupe! Basta clicar aqui para saber mais e se tornar uma empresa parceira.\n\nImportante: A renovação é semestral e você deve encaminhar o comprovante de vínculo atualizado todo semestre após a rematrícula.",
+    "procedimentos": "",
+    "anexos_obrigatorios": [
+      "Comprovante de vínculo empregatício com a organização (contrato e Carteira de Trabalho)"
+    ],
+    "campos_extras": [],
+    "id": "bolsa_convenio_com_organizacoes_parceiras",
+    "caminho_sistema": "Portal do Aluno > Aba Acadêmico > Requerimentos > Bolsa Convênio com Organizações Parceiras",
+    "tags": [
+      "bolsa",
+      "bolsas",
+      "com",
+      "convênio",
+      "financiamentos",
+      "organizações",
+      "parceiras"
+    ]
+  },
+  {
+    "titulo": "Bolsa Ex-Aluno",
+    "grupo_de_atendimento": "Bolsas e Financiamentos",
+    "valor": "R$0,00",
+    "tipo_de_requerimento": "A pedido do aluno",
+    "descricao": "Se você é um ex-aluno FECAP, prepare-se para uma notícia que vai aquecer o seu coração Alvarista: temos uma bolsa exclusiva para você! São 25% de desconto nos cursos de Graduação, Pós-Graduação e Mestrado. É a nossa maneira de agradecer pela sua dedicação e carinho pela nossa instituição! Para solicitar a sua bolsa, abra este requerimento.",
+    "procedimentos": "",
+    "anexos_obrigatorios": [],
+    "campos_extras": [],
+    "id": "bolsa_ex_aluno",
+    "caminho_sistema": "Portal do Aluno > Aba Acadêmico > Requerimentos > Bolsa Ex-Aluno",
+    "tags": [
+      "aluno",
+      "bolsa",
+      "bolsas",
+      "financiamentos"
+    ]
+  },
+  {
+    "titulo": "Bolsa Familiar",
+    "grupo_de_atendimento": "Bolsas e Financiamentos",
+    "valor": "R$0,00",
+    "tipo_de_requerimento": "A pedido do aluno",
+    "descricao": "Estudar com a família é ainda melhor!\n\nSe você é aluno(a) da FECAP e tem um parente de primeiro grau estudando na instituição, pode solicitar a Bolsa Familiar e ganhar um desconto de 10% na mensalidade. Basta abrir esta solicitação.\n\nLembre-se: Você deve anexar neste requerimento a cópia do seu RG e do seu familiar. O desconto será válido somente enquanto o(a) aluno(a) e o(a) familiar estiverem estudando simultaneamente.",
+    "procedimentos": "",
+    "anexos_obrigatorios": [
+      "Cópia do seu RG",
+      "Cópia do RG do seu familiar"
+    ],
+    "campos_extras": [],
+    "id": "bolsa_familiar",
+    "caminho_sistema": "Portal do Aluno > Aba Acadêmico > Requerimentos > Bolsa Familiar",
+    "tags": [
+      "bolsa",
+      "bolsas",
+      "familiar",
+      "financiamentos"
+    ]
+  },
+  {
+    "titulo": "Bolsa Ingresso Especial",
+    "grupo_de_atendimento": "Bolsas e Financiamentos",
+    "valor": "R$0,00",
+    "tipo_de_requerimento": "Bolsa Ingresso Especial",
+    "descricao": "",
+    "procedimentos": "",
+    "anexos_obrigatorios": [],
+    "campos_extras": [
+      {
+        "campo": "Solicitação",
+        "tipo": "Texto / Área de texto",
+        "obrigatorio": true
+      }
+    ],
+    "id": "bolsa_ingresso_especial",
+    "caminho_sistema": "Portal do Aluno > Aba Acadêmico > Requerimentos > Bolsa Ingresso Especial",
+    "tags": [
+      "bolsa",
+      "bolsas",
+      "especial",
+      "financiamentos",
+      "ingresso"
+    ]
+  },
+  {
+    "titulo": "Bolsa Iniciação Científica",
+    "grupo_de_atendimento": "Bolsas e Financiamentos",
+    "valor": "R$0,00",
+    "tipo_de_requerimento": "Bolsa Iniciação Científica",
+    "descricao": "Você é participante do Programa de Iniciação Científica e não identificou a aplicação da bolsa em sua mensalidade? Não se preocupe. Basta preencher o requerimento abaixo e aguardar.",
+    "procedimentos": "",
+    "anexos_obrigatorios": [],
+    "campos_extras": [
+      {
+        "campo": "Solicitação",
+        "tipo": "Texto / Área de texto",
+        "obrigatorio": true
+      }
+    ],
+    "id": "bolsa_iniciacao_cientifica",
+    "caminho_sistema": "Portal do Aluno > Aba Acadêmico > Requerimentos > Bolsa Iniciação Científica",
+    "tags": [
+      "bolsa",
+      "bolsas",
+      "científica",
+      "financiamentos",
+      "iniciação"
+    ]
+  },
+  {
+    "titulo": "Bolsa Restituível - Encerramento/Suspensão",
+    "grupo_de_atendimento": "Bolsas e Financiamentos",
+    "valor": "R$0,00",
+    "tipo_de_requerimento": "Bolsa Restituível - Encerramento/Suspensão",
+    "descricao": "Trata-se do encerramento/suspensão do Programa de Bolsa Restituível para alunos participantes.",
+    "procedimentos": "",
+    "anexos_obrigatorios": [],
+    "campos_extras": [
+      {
+        "campo": "Confirma o desejo de abrir a solicitação? (Caso não seja retornada a opção \"Sim\", indica que já existe solicitação em andamento desse tipo)",
+        "tipo": "Seleção / Dropdown",
+        "obrigatorio": true
+      },
+      {
+        "campo": "Solicitação",
+        "tipo": "Texto / Área de texto",
+        "obrigatorio": true
+      }
+    ],
+    "id": "bolsa_restituivel_encerramentosuspensao",
+    "caminho_sistema": "Portal do Aluno > Aba Acadêmico > Requerimentos > Bolsa Restituível - Encerramento/Suspensão",
+    "tags": [
+      "bolsa",
+      "bolsas",
+      "encerramento",
+      "financiamentos",
+      "restituível",
+      "suspensão"
+    ]
+  },
+  {
+    "titulo": "Cadastro das Parcelas de DP/Adaptação",
+    "grupo_de_atendimento": "Serviços Financeiros",
+    "valor": "R$0,00",
+    "tipo_de_requerimento": "Cadastro das Parcelas de DP/Adaptação",
+    "descricao": "Se a sua carga horária ultrapassou 400h/semestre ou você está cursando disciplinas em regime de DP ou adaptação, e seus boletos não foram gerados automaticamente, você pode solicitar o lançamento das parcelas através deste requerimento.",
+    "procedimentos": "Confirma o desejo de abrir a solicitação? (Caso não seja retornada a opção \"Sim\", indica que já existe solicitação em andamento desse tipo)",
+    "anexos_obrigatorios": [],
+    "campos_extras": [
+      {
+        "campo": "Confirma o desejo de abrir a solicitação? (Caso não seja retornada a opção \"Sim\", indica que já existe solicitação em andamento desse tipo)",
+        "tipo": "Seleção / Dropdown",
+        "obrigatorio": false
+      },
+      {
+        "campo": "Solicitação",
+        "tipo": "Texto / Área de texto",
+        "obrigatorio": true
+      }
+    ],
+    "id": "cadastro_das_parcelas_de_dpadaptacao",
+    "caminho_sistema": "Portal do Aluno > Aba Acadêmico > Requerimentos > Cadastro das Parcelas de DP/Adaptação",
+    "tags": [
+      "adaptação",
+      "cadastro",
+      "das",
+      "financeiros",
+      "parcelas",
+      "serviços"
+    ]
+  },
+  {
+    "titulo": "Cadastro de Atividades Complementares",
+    "grupo_de_atendimento": "Serviços Acadêmicos",
+    "valor": "R$0,00",
+    "tipo_de_requerimento": "Cadastro de Atividades Complementares",
+    "descricao": "Validação de Atividade Curricular",
+    "procedimentos": "Aluno: 1) Envia documento\nSecretária: 2) Analisa documento 2.1) Aprova / reprova documento",
+    "anexos_obrigatorios": [],
+    "campos_extras": [
+      {
+        "campo": "Solicitação",
+        "tipo": "Texto / Área de texto",
+        "obrigatorio": true
+      }
+    ],
+    "id": "cadastro_de_atividades_complementares",
+    "caminho_sistema": "Portal do Aluno > Aba Acadêmico > Requerimentos > Cadastro de Atividades Complementares",
+    "tags": [
+      "acadêmicos",
+      "atividades",
+      "cadastro",
+      "complementares",
+      "serviços"
+    ]
+  },
+  {
+    "titulo": "Cancelamento de Antecipação",
+    "grupo_de_atendimento": "Serviços Acadêmicos",
+    "valor": "R$0,00",
+    "tipo_de_requerimento": "Cancelamento de Antecipação",
+    "descricao": "Cancelamento de Antecipação",
+    "procedimentos": "Aluno: 1) Envia documento\nSecretária: 2) Analisa documento 2.1) Aprova / reprova documento",
+    "anexos_obrigatorios": [],
+    "campos_extras": [
+      {
+        "campo": "Curso / Sigla do Curso",
+        "tipo": "Seleção / Dropdown",
+        "obrigatorio": false
+      },
+      {
+        "campo": "Preencha o nº do Nível de Ensino (1 - Graduação, 2 - Pós-Graduação, 3 - Mestrado, 5 - Colégio)",
+        "tipo": "Texto livre",
+        "obrigatorio": false
+      },
+      {
+        "campo": "Solicitação",
+        "tipo": "Texto / Área de texto",
+        "obrigatorio": true
+      }
+    ],
+    "id": "cancelamento_de_antecipacao",
+    "caminho_sistema": "Portal do Aluno > Aba Acadêmico > Requerimentos > Cancelamento de Antecipação",
+    "tags": [
+      "acadêmicos",
+      "antecipação",
+      "cancelamento",
+      "serviços"
+    ]
+  },
+  {
+    "titulo": "Cancelamento de Curso",
+    "grupo_de_atendimento": "Serviços Acadêmicos",
+    "valor": "R$0,00",
+    "tipo_de_requerimento": "Cancelamento de Curso",
+    "descricao": "Solicitação de Cancelamento",
+    "procedimentos": "",
+    "anexos_obrigatorios": [],
+    "campos_extras": [
+      {
+        "campo": "Solicitação",
+        "tipo": "Texto / Área de texto",
+        "obrigatorio": true
+      }
+    ],
+    "id": "cancelamento_de_curso",
+    "caminho_sistema": "Portal do Aluno > Aba Acadêmico > Requerimentos > Cancelamento de Curso",
+    "tags": [
+      "acadêmicos",
+      "cancelamento",
+      "curso",
+      "serviços"
+    ]
+  },
+  {
+    "titulo": "Cancelamento de Disciplinas Concentradas",
+    "grupo_de_atendimento": "Serviços Acadêmicos",
+    "valor": "R$0,00",
+    "tipo_de_requerimento": "Cancelamento de Disciplinas Concentradas",
+    "descricao": "Se inscreveu em alguma Disciplina Concentrada, mas prefere cursar a disciplina ao longo do semestre? Não tem problema! É possível solicitar o cancelamento da sua inscrição e a restituição do valor pago.\n\nAbra este requerimento e informe o(s) nome(s) da(s) disciplina(s) que deseja cancelar e a modalidade de restituição que deseja.\n\nAtenção: Após análise e constatação de que a(s) disciplina(s) de fato não foi(ram) cursada(s), o requerimento seguirá para análise do Depto. Financeiro para a restituição do valor pago. Se deferida, a restituição poderá ser realizada em forma de estorno em conta ou em abatimento de mensalidades futuras.\n\nCaso deseje a restituição em conta, por gentileza, informe os dados bancários do(a) seu responsável financeiro(a) cadastrado(a) para a restituição.",
+    "procedimentos": "",
+    "anexos_obrigatorios": [],
+    "campos_extras": [
+      {
+        "campo": "Solicitação",
+        "tipo": "Texto / Área de texto",
+        "obrigatorio": true
+      }
+    ],
+    "id": "cancelamento_de_disciplinas_concentradas",
+    "caminho_sistema": "Portal do Aluno > Aba Acadêmico > Requerimentos > Cancelamento de Disciplinas Concentradas",
+    "tags": [
+      "acadêmicos",
+      "cancelamento",
+      "concentradas",
+      "disciplinas",
+      "serviços"
+    ]
+  },
+  {
+    "titulo": "Carta de quitação de débito",
+    "grupo_de_atendimento": "Documentos Financeiros",
+    "valor": "R$0,00",
+    "tipo_de_requerimento": "Carta de quitação de débito",
+    "descricao": "Precisa de um documento que declara a quitação de débitos com a FECAP? Basta solicitar por meio deste requerimento.\n\nImportante: Descreva no campo \"Solicitação\" o período letivo, curso e outras informações que julgue necessário conter no documento.",
+    "procedimentos": "",
+    "anexos_obrigatorios": [],
+    "campos_extras": [
+      {
+        "campo": "Confirma o desejo de abrir a solicitação? (Caso não seja retornada a opção \"Sim\", indica que já existe solicitação em andamento desse tipo)",
+        "tipo": "Seleção / Dropdown",
+        "obrigatorio": true
+      },
+      {
+        "campo": "Solicitação",
+        "tipo": "Texto / Área de texto",
+        "obrigatorio": true
+      }
+    ],
+    "id": "carta_de_quitacao_de_debito",
+    "caminho_sistema": "Portal do Aluno > Aba Acadêmico > Requerimentos > Carta de quitação de débito",
+    "tags": [
+      "carta",
+      "documentos",
+      "débito",
+      "financeiros",
+      "quitação"
+    ]
+  },
+  {
+    "titulo": "Certificado de Conclusão",
+    "grupo_de_atendimento": "Documentos Acadêmicos",
+    "valor": "R$0,00 *",
+    "tipo_de_requerimento": "Certificado de Conclusão",
+    "descricao": "Parabéns, Alvarista! Você se formou e estamos orgulhosos com a sua conquista!\n\nApós a abertura do requerimento, seu Certificado de Conclusão será enviado para o e-mail cadastrado no sistema.\n\nImportante: A solicitação só deve ser aberta após a colação de grau.",
+    "procedimentos": "",
+    "anexos_obrigatorios": [],
+    "campos_extras": [
+      {
+        "campo": "Solicitação",
+        "tipo": "Texto / Área de texto",
+        "obrigatorio": true
+      }
+    ],
+    "id": "certificado_de_conclusao",
+    "caminho_sistema": "Portal do Aluno > Aba Acadêmico > Requerimentos > Certificado de Conclusão",
+    "tags": [
+      "acadêmicos",
+      "certificado",
+      "conclusão",
+      "documentos"
+    ]
+  },
+  {
+    "titulo": "Comprovante de Restrição Religiosa",
+    "grupo_de_atendimento": "Serviços Acadêmicos",
+    "valor": "R$0,00 *",
+    "tipo_de_requerimento": "Comprovante de Restrição Religiosa",
+    "descricao": "Na FECAP, o respeito a liberdade de crença faz parte do nosso dia a dia.\n\nDe acordo com a Lei nº 13.796 de 03/01/2019, o(a) estudante poderá ausentar-se de provas e aulas marcadas em dias em que, segundo os preceitos da sua religião, seja vedado o exercício de tais atividades. Para remarcação de provas e novas atividades para compensação de faltas, encaminhe a documentação por meio deste requerimento.",
+    "procedimentos": "Aluno: 1) Envia documento\nSecretária: 2) Analisa documento -> 2.1) Aprova / reprova documento",
+    "anexos_obrigatorios": [],
+    "campos_extras": [
+      {
+        "campo": "Curso / Sigla",
+        "tipo": "Seleção / Dropdown",
+        "obrigatorio": false
+      },
+      {
+        "campo": "Preencha o nº do Nível de Ensino (1 - Graduação, 2 - Pós-Graduação, 3 - Mestrado, 5 - Colégio)",
+        "tipo": "Texto livre",
+        "obrigatorio": false
+      },
+      {
+        "campo": "Solicitação",
+        "tipo": "Texto / Área de texto",
+        "obrigatorio": true
+      }
+    ],
+    "id": "comprovante_de_restricao_religiosa",
+    "caminho_sistema": "Portal do Aluno > Aba Acadêmico > Requerimentos > Comprovante de Restrição Religiosa",
+    "tags": [
+      "acadêmicos",
+      "comprovante",
+      "religiosa",
+      "restrição",
+      "serviços"
+    ]
+  },
+  {
+    "titulo": "Conteúdo Programático",
+    "grupo_de_atendimento": "Documentos Acadêmicos",
+    "valor": "R$20,00 *",
+    "tipo_de_requerimento": "Conteúdo Programático",
+    "descricao": "Conteúdo Programático",
+    "procedimentos": "O Conteúdo Programático é o documento oficial que descreve o conteúdo de todas as disciplinas cursadas pelo(a) estudante na IES. O valor é de R$20,00 e o prazo para confecção é de até 30 dias úteis, após a compensação da taxa administrativa.\n\nPara solicitar:\n1) Acesse portal.fecap.br\n2) Após o Login localizar o menu \"Secretaria\", disponível do lado esquerdo da tela.",
+    "anexos_obrigatorios": [],
+    "campos_extras": [
+      {
+        "campo": "Curso / Sigla",
+        "tipo": "Seleção / Dropdown",
+        "obrigatorio": false
+      },
+      {
+        "campo": "Preencha o nº do Nível de Ensino (1 - Graduação, 2 - Pós-Graduação, 3 - Mestrado, 5 - Colégio)",
+        "tipo": "Texto livre",
+        "obrigatorio": true
+      },
+      {
+        "campo": "Solicitação",
+        "tipo": "Texto / Área de texto",
+        "obrigatorio": true
+      }
+    ],
+    "id": "conteudo_programatico",
+    "caminho_sistema": "Portal do Aluno > Aba Acadêmico > Requerimentos > Conteúdo Programático",
+    "tags": [
+      "acadêmicos",
+      "conteúdo",
+      "documentos",
+      "programático"
+    ]
+  },
+  {
+    "titulo": "Cópia de Documentos Técnico-Científicos (COMUT)",
+    "grupo_de_atendimento": "Biblioteca",
+    "valor": "R$0,00",
+    "tipo_de_requerimento": "Cópia de Documentos Técnico-Científicos (COMUT)",
+    "descricao": "Solicitação de documentos científicos (pago ou gratuito) de outras instituições",
+    "procedimentos": "Obtenção de cópias de documentos técnico-científicos disponíveis nos acervos das principais bibliotecas brasileiras e em serviços de informação internacionais. Entre os documentos acessíveis encontram-se: periódicos técnico-científicos, teses e dissertações; anais de congresso nacionais e internacionais; relatórios técnicos e partes de documentos (capítulo de livros).\n\nA cópia é feita desde que o título autorize pela Lei de Direitos Autorais.\n\nO serviço poder ser cobrado ou gratuito dependendo da instituição que disponibiliza o material.",
+    "anexos_obrigatorios": [],
+    "campos_extras": [
+      {
+        "campo": "Solicitação",
+        "tipo": "Texto / Área de texto",
+        "obrigatorio": true
+      }
+    ],
+    "id": "copia_de_documentos_tecnico_cientificos_comut",
+    "caminho_sistema": "Portal do Aluno > Aba Acadêmico > Requerimentos > Cópia de Documentos Técnico-Científicos (COMUT)",
+    "tags": [
+      "biblioteca",
+      "científicos",
+      "comut",
+      "cópia",
+      "documentos",
+      "técnico"
+    ]
+  },
+  {
+    "titulo": "Correção de Documentos",
+    "grupo_de_atendimento": "Documentos Acadêmicos",
+    "valor": "R$0,00",
+    "tipo_de_requerimento": "Correção de Documentos",
+    "descricao": "Sabemos que erros podem acontecer, mas nós estamos aqui para te ajudar!\n\nVocê teve o seu Histórico, Certificado ou Diploma emitido com algum erro? Não se preocupe. Abra este requerimento informando qual é/são a(s) informação que necessita(m) de ajuste(s) para que possamos corrigi-lo(s) no documento.\n\nImportante: Você deve anexar a cópia do documento incorreto para que possamos verificar. Em caso de dados pessoais incorretos, por gentileza anexar cópia do RG e CPF atualizados.",
+    "procedimentos": "",
+    "anexos_obrigatorios": [
+      "Cópia do documento incorreto",
+      "Cópia do RG e CPF atualizados (em caso de dados pessoais incorretos)"
+    ],
+    "campos_extras": [
+      {
+        "campo": "Solicitação",
+        "tipo": "Texto / Área de texto",
+        "obrigatorio": true
+      }
+    ],
+    "id": "correcao_de_documentos",
+    "caminho_sistema": "Portal do Aluno > Aba Acadêmico > Requerimentos > Correção de Documentos",
+    "tags": [
+      "acadêmicos",
+      "correção",
+      "documentos"
+    ]
+  },
+  {
+    "titulo": "Cursar apenas DP/Adaptação",
+    "grupo_de_atendimento": "Serviços Acadêmicos",
+    "valor": "R$0,00",
+    "tipo_de_requerimento": "Cursar apenas DP/Adaptação",
+    "descricao": "Está puxado? Quer fazer uma pausa para cursar apenas as disciplinas de DP e/ou Adaptação? Faça a solicitação por meio deste requerimento para que possamos te auxiliar!",
+    "procedimentos": "",
+    "anexos_obrigatorios": [],
+    "campos_extras": [
+      {
+        "campo": "Solicitação",
+        "tipo": "Texto / Área de texto",
+        "obrigatorio": true
+      }
+    ],
+    "id": "cursar_apenas_dpadaptacao",
+    "caminho_sistema": "Portal do Aluno > Aba Acadêmico > Requerimentos > Cursar apenas DP/Adaptação",
+    "tags": [
+      "acadêmicos",
+      "adaptação",
+      "apenas",
+      "cursar",
+      "serviços"
+    ]
+  },
+  {
+    "titulo": "Declaração de adimplência",
+    "grupo_de_atendimento": "Documentos Financeiros",
+    "valor": "R$0,00",
+    "tipo_de_requerimento": "Declaração de adimplência",
+    "descricao": "Está com a sua mensalidade em dia e deseja uma Declaração de Adimplência e comprovação de pagamento? Você pode extrair a declaração diretamente pela opção Relatórios, clique em Demonstrativo de Pagamento e selecione o período desejado. Agora é só emitir o relatório!\n\nCaso o relatório não seja disponibilizado, abra o requerimento abaixo.\nImportante: Descreva os detalhes da sua solicitação no campo \"Solicitação\" preenchendo o seu curso, serviço, período letivo e outras informações que julgue necessário.",
+    "procedimentos": "Condições:\n- Ter registro de matrícula\n- Ter realizado o pagamento de pelo menos uma mensalidade",
+    "anexos_obrigatorios": [],
+    "campos_extras": [
+      {
+        "campo": "Confirma o desejo de abrir a solicitação? (Caso não seja retornada a opção \"Sim\", indica que já existe solicitação em andamento desse tipo)",
+        "tipo": "Seleção / Dropdown",
+        "obrigatorio": true
+      },
+      {
+        "campo": "Solicitação",
+        "tipo": "Texto / Área de texto",
+        "obrigatorio": true
+      }
+    ],
+    "id": "declaracao_de_adimplencia",
+    "caminho_sistema": "Portal do Aluno > Aba Acadêmico > Requerimentos > Declaração de adimplência",
+    "tags": [
+      "adimplência",
+      "declaração",
+      "documentos",
+      "financeiros"
+    ]
+  },
+  {
+    "titulo": "Declarações financeiras",
+    "grupo_de_atendimento": "Documentos Financeiros",
+    "valor": "R$0,00",
+    "tipo_de_requerimento": "Declarações financeiras",
+    "descricao": "Precisa solicitar uma Declaração Financeira com uma informação específica? Não tem problema!\n\nAtravés deste requerimento você poderá ter acesso a declarações com informações dos mais diversos tipos, como: Declaração de Quitação de Débitos; Demonstrativo de Pagamento Detalhado; Declaração de Simulação de Parcelas do Programa de Bolsa Restituível / Financiamento FECAP, Declaração de Quitação de Cheque; Declaração de Anuência para títulos protestados em cartório.\n\nImportante: Descreva os detalhes da sua solicitação no campo \"Solicitação\" preenchendo o seu curso, serviço, o tipo de declaração, período letivo e outras informações que julgue necessário.",
+    "procedimentos": "",
+    "anexos_obrigatorios": [],
+    "campos_extras": [
+      {
+        "campo": "Confirma o desejo de abrir a solicitação? (Caso não seja retornada a opção \"Sim\", indica que já existe solicitação em andamento desse tipo)",
+        "tipo": "Seleção / Dropdown",
+        "obrigatorio": true
+      },
+      {
+        "campo": "Solicitação",
+        "tipo": "Texto / Área de texto",
+        "obrigatorio": true
+      }
+    ],
+    "id": "declaracoes_financeiras",
+    "caminho_sistema": "Portal do Aluno > Aba Acadêmico > Requerimentos > Declarações financeiras",
+    "tags": [
+      "declarações",
+      "documentos",
+      "financeiras",
+      "financeiros"
+    ]
+  },
+  {
+    "titulo": "Destrancamento de Curso",
+    "grupo_de_atendimento": "Serviços Acadêmicos",
+    "valor": "R$0,00",
+    "tipo_de_requerimento": "Destrancamento de Curso",
+    "descricao": "Se você trancou o curso, mas mudou de ideia e quer retornar no mesmo período letivo, basta abrir o requerimento abaixo.\n\nImportante: Estamos felizes em tê-lo(a) de volta!\n\nGIF https://giphy.com/gifs/dancing-happy-smiling-b5LTssXCLpvVe",
+    "procedimentos": "",
+    "anexos_obrigatorios": [],
+    "campos_extras": [
+      {
+        "campo": "Informe o curso que o aluno deseja retorno?",
+        "tipo": "Seleção / Dropdown",
+        "obrigatorio": true
+      },
+      {
+        "campo": "Solicitação",
+        "tipo": "Texto / Área de texto",
+        "obrigatorio": true
+      }
+    ],
+    "id": "destrancamento_de_curso",
+    "caminho_sistema": "Portal do Aluno > Aba Acadêmico > Requerimentos > Destrancamento de Curso",
+    "tags": [
+      "acadêmicos",
+      "curso",
+      "destrancamento",
+      "serviços"
+    ]
+  },
+  {
+    "titulo": "Destrancamento de DP e adaptação",
+    "grupo_de_atendimento": "Serviços Acadêmicos",
+    "valor": "R$ 0,00",
+    "tipo_de_requerimento": "Serviços Acadêmicos",
+    "descricao": "Destrancamento de DP",
+    "procedimentos": "",
+    "anexos_obrigatorios": [],
+    "campos_extras": [],
+    "id": "destrancamento_de_dp_e_adaptacao",
+    "caminho_sistema": "Portal do Aluno > Aba Acadêmico > Requerimentos > Destrancamento de DP e adaptação",
+    "tags": [
+      "acadêmicos",
+      "adaptação",
+      "destrancamento",
+      "serviços"
+    ]
+  },
+  {
+    "titulo": "Diploma 2ª via",
+    "grupo_de_atendimento": "Documentos Acadêmicos",
+    "valor": "R$ 240,00",
+    "tipo_de_requerimento": "Documentos Acadêmicos",
+    "descricao": "Solicitação de 2ª via de Diploma",
+    "procedimentos": "",
+    "anexos_obrigatorios": [],
+    "campos_extras": [],
+    "id": "diploma_2a_via",
+    "caminho_sistema": "Portal do Aluno > Aba Acadêmico > Requerimentos > Diploma 2ª via",
+    "tags": [
+      "acadêmicos",
+      "diploma",
+      "documentos",
+      "via"
+    ]
+  },
+  {
+    "titulo": "Disciplina Indisponível no Moodle",
+    "grupo_de_atendimento": "Plataformas Digitais",
+    "valor": "R$ 0,00",
+    "tipo_de_requerimento": "Plataformas Digitais",
+    "descricao": "Entrou no Moodle e reparou que está faltando uma disciplina? Fique tranquilo(a), vamos resolver essa questão! Abra este requerimento e informe qual(is) disciplina(s) não aparece(m) para você.",
+    "procedimentos": "",
+    "anexos_obrigatorios": [],
+    "campos_extras": [],
+    "id": "disciplina_indisponivel_no_moodle",
+    "caminho_sistema": "Portal do Aluno > Aba Acadêmico > Requerimentos > Disciplina Indisponível no Moodle",
+    "tags": [
+      "digitais",
+      "disciplina",
+      "indisponível",
+      "moodle",
+      "plataformas"
+    ]
+  },
+  {
+    "titulo": "Disciplinas em Inglês - Equivalência de Eletiva",
+    "grupo_de_atendimento": "Serviços Acadêmicos",
+    "valor": "R$ 0,00",
+    "tipo_de_requerimento": "Disciplinas em Inglês - Equivalência de Eletiva",
+    "descricao": "Você foi aprovado(a) em alguma disciplina em inglês do nosso curso de extensão. Parabéns! Agora você pode solicitar a validação da equivalência para uma disciplina eletiva. Ficou com dúvidas? Fique à vontade para falar conosco por meio dos canais de atendimento.",
+    "procedimentos": "",
+    "anexos_obrigatorios": [],
+    "campos_extras": [
+      {
+        "campo": "Solicitação",
+        "tipo": "Texto / Área de texto",
+        "obrigatorio": true
+      }
+    ],
+    "id": "disciplinas_em_ingles_equivalencia_de_eletiva",
+    "caminho_sistema": "Portal do Aluno > Aba Acadêmico > Requerimentos > Disciplinas em Inglês - Equivalência de Eletiva",
+    "tags": [
+      "acadêmicos",
+      "disciplinas",
+      "eletiva",
+      "equivalência",
+      "inglês",
+      "serviços"
+    ]
+  },
+  {
+    "titulo": "Disciplinas em Inglês - Validação de Horas Comp.",
+    "grupo_de_atendimento": "Serviços Acadêmicos",
+    "valor": "R$ 0,00",
+    "tipo_de_requerimento": "Disciplinas em Inglês - Validação de Horas Comp.",
+    "descricao": "Sabia que as disciplinas em inglês do curso de extensão podem contar como horas complementares? Para isso, após aprovado(a) na matéria, abra a solicitação da validação da carga horária do curso como horas complementares. Se ficar com dúvidas, fique à vontade para nos chamar em um dos nossos canais de atendimento.",
+    "procedimentos": "",
+    "anexos_obrigatorios": [],
+    "campos_extras": [
+      {
+        "campo": "Solicitação",
+        "tipo": "Texto / Área de texto",
+        "obrigatorio": true
+      }
+    ],
+    "id": "disciplinas_em_ingles_validacao_de_horas_comp",
+    "caminho_sistema": "Portal do Aluno > Aba Acadêmico > Requerimentos > Disciplinas em Inglês - Validação de Horas Comp.",
+    "tags": [
+      "acadêmicos",
+      "comp",
+      "disciplinas",
+      "horas",
+      "inglês",
+      "serviços",
+      "validação"
+    ]
+  },
+  {
+    "titulo": "Disciplinas Isoladas (Ex-alunos)",
+    "grupo_de_atendimento": "Serviços Acadêmicos",
+    "valor": "R$ 0,00",
+    "tipo_de_requerimento": "Disciplinas Isoladas (Ex-alunos)",
+    "descricao": "Um bom filho a casa torna, não é mesmo? Se você é Alumni Alvarista e deseja cursar algumas disciplinas adicionais da grade de cursos da FECAP, faça a sua solicitação.",
+    "procedimentos": "",
+    "anexos_obrigatorios": [],
+    "campos_extras": [
+      {
+        "campo": "Solicitação",
+        "tipo": "Texto / Área de texto",
+        "obrigatorio": true
+      }
+    ],
+    "id": "disciplinas_isoladas_ex_alunos",
+    "caminho_sistema": "Portal do Aluno > Aba Acadêmico > Requerimentos > Disciplinas Isoladas (Ex-alunos)",
+    "tags": [
+      "acadêmicos",
+      "alunos",
+      "disciplinas",
+      "isoladas",
+      "serviços"
+    ]
+  },
+  {
+    "titulo": "Dispensa de Disciplina",
+    "grupo_de_atendimento": "Serviços Acadêmicos",
+    "valor": "R$0,00",
+    "tipo_de_requerimento": "Dispensa de Disciplina",
+    "descricao": "Deseja solicitar a dispensa de uma disciplina já cursada na FECAP ou em outra Instituição de Ensino? Para requisitar, basta abrir este requerimento indicando qual(is) a(s) disciplina(s) desejada(s).\n\nImportante: Se você cursou a(s) disciplina(s) em outra Instituição de Ensino, deverá apresentar, obrigatoriamente, o Histórico Escolar e Conteúdo Programático da Instituição de origem em anexo a este requerimento.\n\nObservação: A Coordenação do Curso detém a autonomia para aprovar ou indeferir a dispensa de disciplinas, com base nos critérios pedagógicos específicos da disciplina em questão e do curso.",
+    "procedimentos": "",
+    "anexos_obrigatorios": [
+      "Histórico Escolar (se cursado em outra Instituição de Ensino)",
+      "Conteúdo Programático (se cursado em outra Instituição de Ensino)"
+    ],
+    "campos_extras": [
+      {
+        "campo": "Selecione o curso",
+        "tipo": "Seleção / Dropdown",
+        "obrigatorio": false
+      },
+      {
+        "campo": "Solicitação",
+        "tipo": "Texto / Área de texto",
+        "obrigatorio": true
+      }
+    ],
+    "id": "dispensa_de_disciplina",
+    "caminho_sistema": "Portal do Aluno > Aba Acadêmico > Requerimentos > Dispensa de Disciplina",
+    "tags": [
+      "acadêmicos",
+      "disciplina",
+      "dispensa",
+      "serviços"
+    ]
+  },
+  {
+    "titulo": "Extensão - Abono de Valores em Novos Cursos",
+    "grupo_de_atendimento": "Serviços Financeiros",
+    "valor": "R$0,00",
+    "tipo_de_requerimento": "Extensão - Abono de Valores em Novos Cursos",
+    "descricao": "Você decidiu realizar alguma disciplina em inglês por meio dos nossos cursos de extensão e foi aprovado(a). Isso é maravilhoso! Você pode solicitar a sua restituição em forma de abatimento de mensalidades ou até mesmo realizar outro curso de extensão. (Verificar se campanha oferece Reembolso de valores)",
+    "procedimentos": "",
+    "anexos_obrigatorios": [],
+    "campos_extras": [
+      {
+        "campo": "Confirma o desejo de abrir a solicitação? (Caso não seja retornada a opção \"Sim\", indica que já existe solicitação em andamento desse tipo)",
+        "tipo": "Seleção / Dropdown",
+        "obrigatorio": true
+      },
+      {
+        "campo": "Solicitação",
+        "tipo": "Texto / Área de texto",
+        "obrigatorio": true
+      }
+    ],
+    "id": "extensao_abono_de_valores_em_novos_cursos",
+    "caminho_sistema": "Portal do Aluno > Aba Acadêmico > Requerimentos > Extensão - Abono de Valores em Novos Cursos",
+    "tags": [
+      "abono",
+      "cursos",
+      "extensão",
+      "financeiros",
+      "novos",
+      "serviços",
+      "valores"
+    ]
+  },
+  {
+    "titulo": "FIES - Restituições/Reembolsos",
+    "grupo_de_atendimento": "Serviços Financeiros",
+    "valor": "R$0,00",
+    "tipo_de_requerimento": "FIES - Restituições/Reembolsos",
+    "descricao": "Trata-se do serviço de Restituições/Reembolsos para alunos FIES. Lembre-se: envie-nos os dados bancários e o comprovante de pagamento para agilizar o processo de restituição.\n\nPor favor, descreva os detalhes da sua solicitação no campo \"Solicitação\" preenchendo o seu curso, serviço, período letivo e outras informações que julgue necessário.",
+    "procedimentos": "Condições:\n- Estudante deve ser participante do NOVO FIES ou FIES Legado;\n- Estudante deve estar adimplente com a FECAP;\n- Caso o Estudante possua débitos com a FECAP, o reembolso poderá ser realizado através de abatimento no saldo devedor;\n- O reembolso/restituição ocorrerá na conta do responsável financeiro pelo Contrato de Prestação de Serviços Educacionais, mediante fornecimento dos dados bancários (Banco, Agência, Conta e CPF do responsável);\n- A conta do responsável financeiro deve ser pessoa física;\n- Em se tratando de casos de Amortização Extraordinária (Financiamento contratado com valor a maior), previsto nas regras do programa, o reembolso se dará por meio de pagamento diretamente ao agente financeiro (Caixa ou Banco do Brasil), para abatimento em seu contrato de financiamento.\n- Em se tratando de Transferência de IES, o estudante poderá requerem o reembolso, o qual compreenderá os valores de coparticipação pagos pertinente ao tempo em que estava já em outra instituição.\n- O deferimento ao reembolso/restituição está sujeito a análise e aprovação por parte do Financeiro.",
+    "anexos_obrigatorios": [
+      "Dados bancários e comprovante de pagamento"
+    ],
+    "campos_extras": [
+      {
+        "campo": "Confirma o desejo de abrir a solicitação? (Caso não seja retornada a opção \"Sim\", indica que já existe solicitação em andamento desse tipo)",
+        "tipo": "Seleção / Dropdown",
+        "obrigatorio": true
+      },
+      {
+        "campo": "Solicitação",
+        "tipo": "Texto / Área de texto",
+        "obrigatorio": true
+      }
+    ],
+    "id": "fies_restituicoesreembolsos",
+    "caminho_sistema": "Portal do Aluno > Aba Acadêmico > Requerimentos > FIES - Restituições/Reembolsos",
+    "tags": [
+      "fies",
+      "financeiros",
+      "reembolsos",
+      "restituições",
+      "serviços"
+    ]
+  },
+  {
+    "titulo": "Histórico Escolar - 2ª via",
+    "grupo_de_atendimento": "Documentos Acadêmicos",
+    "valor": "R$ 10,00",
+    "tipo_de_requerimento": "Histórico Escolar - 2ª via",
+    "descricao": "Solicitação de 2ª via de Histórico Escolar",
+    "procedimentos": "O Histórico Escolar é o documento oficial que comprova a situação acadêmica do(a) discente, referente ao seu rendimento escolar, no qual estão descritas as disciplinas do curso até a série em que o(a) estudante está matriculado(a) ou esteve, e qual a nota e a situação referente a cada disciplina. O documento possui o custo de R$10,00 e o prazo para confecção é de até 20 dias úteis, após a compensação da taxa administrativa.",
+    "anexos_obrigatorios": [],
+    "campos_extras": [
+      {
+        "campo": "Curso / Sigla",
+        "tipo": "Seleção / Dropdown",
+        "obrigatorio": false
+      },
+      {
+        "campo": "Preencha o nº do Nível de Ensino (1 - Graduação, 2 - Pós-Graduação, 3 - Mestrado, 5 - Colégio)",
+        "tipo": "Texto livre",
+        "obrigatorio": false
+      },
+      {
+        "campo": "Solicitação",
+        "tipo": "Texto / Área de texto",
+        "obrigatorio": true
+      }
+    ],
+    "id": "historico_escolar_2a_via",
+    "caminho_sistema": "Portal do Aluno > Aba Acadêmico > Requerimentos > Histórico Escolar - 2ª via",
+    "tags": [
+      "acadêmicos",
+      "documentos",
+      "escolar",
+      "histórico",
+      "via"
+    ]
+  },
+  {
+    "titulo": "Inclusão de Nome Social do Estudante na Matricula",
+    "grupo_de_atendimento": "Dados Cadastrais",
+    "valor": "R$ 0,00",
+    "tipo_de_requerimento": "Inclusão de Nome Social do Estudante na Matricula",
+    "descricao": "Na FECAP, o respeito e a igualdade fazem parte do nosso DNA! Se você não se identifica com a sua identidade de gênero e não deseja ser chamado(a) por seu nome civil, preencha o Termo de Solicitação de Inclusão do Nome Social clicando aqui e solicite a inclusão do seu nome social no registro da matrícula pelo requerimento abaixo.",
+    "procedimentos": "",
+    "anexos_obrigatorios": [],
+    "campos_extras": [
+      {
+        "campo": "Solicitação",
+        "tipo": "Texto / Área de texto",
+        "obrigatorio": true
+      }
+    ],
+    "id": "inclusao_de_nome_social_do_estudante_na_matricula",
+    "caminho_sistema": "Portal do Aluno > Aba Acadêmico > Requerimentos > Inclusão de Nome Social do Estudante na Matricula",
+    "tags": [
+      "cadastrais",
+      "dados",
+      "estudante",
+      "inclusão",
+      "matricula",
+      "nome",
+      "social"
+    ]
+  },
+  {
+    "titulo": "Isenção de uma mensalidade devido ao Trancamento",
+    "grupo_de_atendimento": "Serviços Financeiros",
+    "valor": "R$ 0,00",
+    "tipo_de_requerimento": "Isenção de uma mensalidade devido ao Trancamento",
+    "descricao": "Trata-se da solicitação de Isenção de uma mensalidade, por liberalidade da FECAP e como incentivo a continuidade dos estudos, para alunos que promoveram o trancamento do curso dentro do prazo. Por favor, descreva os detalhes da sua solicitação no campo \"Solicitação\" preenchendo o seu curso, serviço, período letivo e outras informações que julgue necessário.",
+    "procedimentos": "",
+    "anexos_obrigatorios": [],
+    "campos_extras": [
+      {
+        "campo": "Confirma o desejo de abrir a solicitação? (Caso não seja retornada a opção \"Sim\", indica que já existe solicitação em andamento desse tipo)",
+        "tipo": "Seleção / Dropdown",
+        "obrigatorio": false
+      },
+      {
+        "campo": "Solicitação",
+        "tipo": "Texto / Área de texto",
+        "obrigatorio": true
+      }
+    ],
+    "id": "isencao_de_uma_mensalidade_devido_ao_trancamento",
+    "caminho_sistema": "Portal do Aluno > Aba Acadêmico > Requerimentos > Isenção de uma mensalidade devido ao Trancamento",
+    "tags": [
+      "devido",
+      "financeiros",
+      "isenção",
+      "mensalidade",
+      "serviços",
+      "trancamento",
+      "uma"
+    ]
+  },
+  {
+    "titulo": "Laudo Médico para PCD's e Neurodivergentes",
+    "grupo_de_atendimento": "Serviços Acadêmicos",
+    "valor": "R$ 0,00",
+    "tipo_de_requerimento": "Laudo Médico para PCD's e Neurodivergentes",
+    "descricao": "Laudo Médico para PCD's e Neurodivergentes",
+    "procedimentos": "Prezado(a) Alvarista,\n\nSe você possui o diagnóstico de neurodivergência ou é Pessoa com Deficiência (PCD), a FECAP disponibiliza um serviço institucional de apoio e acolhimento, com o objetivo de garantir uma trajetória acadêmica acessível, segura e equitativa.\n\nPara que a Instituição possa oferecer apoio psicológico, pedagógico e acompanhamento contínuo ao longo do semestre, é necessária a abertura deste requerimento com o anexo do laudo médico.\n\nEstão aptos a solicitar este requerimento estudantes com:\n- Surdez\n- Cegueira\n- TDAH (Transtorno do Déficit de Atenção com Hiperatividade)\n- TEA (Transtorno do Espectro Autista)\n- Dislexia\n- Discalculia",
+    "anexos_obrigatorios": [],
+    "campos_extras": [
+      {
+        "campo": "Solicitação",
+        "tipo": "Área de texto",
+        "obrigatorio": true
+      }
+    ],
+    "id": "laudo_medico_para_pcds_e_neurodivergentes",
+    "caminho_sistema": "Portal do Aluno > Aba Acadêmico > Requerimentos > Laudo Médico para PCD's e Neurodivergentes",
+    "tags": [
+      "acadêmicos",
+      "laudo",
+      "médico",
+      "neurodivergentes",
+      "para",
+      "pcd",
+      "serviços"
+    ]
+  },
+  {
+    "titulo": "Levantamento Bibliográfico",
+    "grupo_de_atendimento": "Biblioteca",
+    "valor": "R$ 0,00",
+    "tipo_de_requerimento": "Levantamento Bibliográfico",
+    "descricao": "Que tal uma ajudinha com o seu projeto? Você pode solicitar o serviço de levantamento bibliográfico e ter acesso a pesquisas sobre determinado assunto disponível em livros, artigos científicos, entre outros.\n\nLembre-se de separar todas as informações necessárias para a realização do levantamento, como: delimitação do tema, palavras-chave, tipo de documentos desejados, bases de referência, idioma e local de publicação e formato que deseja receber o material.",
+    "procedimentos": "Serviço de pesquisa de documentos sobre determinado assunto disponíveis em livros, periódicos, artigos científicos, entre outros.\n\nEstudante deve apresentar a delimitação do tema de pesquisa, palavras-chaves, intervalo de tempo das publicações, tipo de documento desejado, bases de dados de preferência, idioma e local de publicação.\n\nInforme o formato que deseja receber o levantamento.\n\nPrazo de 20 dias úteis.",
+    "anexos_obrigatorios": [],
+    "campos_extras": [
+      {
+        "campo": "Solicitação",
+        "tipo": "Área de texto",
+        "obrigatorio": true
+      }
+    ],
+    "id": "levantamento_bibliografico",
+    "caminho_sistema": "Portal do Aluno > Aba Acadêmico > Requerimentos > Levantamento Bibliográfico",
+    "tags": [
+      "bibliográfico",
+      "biblioteca",
+      "levantamento"
+    ]
+  },
+  {
+    "titulo": "Nome não consta na Lista de Presença",
+    "grupo_de_atendimento": "Serviços Acadêmicos",
+    "valor": "R$ 0,00",
+    "tipo_de_requerimento": "Nome não consta na Lista de Presença",
+    "descricao": "Nome não Consta na Lista de Presença",
+    "procedimentos": "",
+    "anexos_obrigatorios": [],
+    "campos_extras": [
+      {
+        "campo": "Solicitação",
+        "tipo": "Área de texto",
+        "obrigatorio": true
+      }
+    ],
+    "id": "nome_nao_consta_na_lista_de_presenca",
+    "caminho_sistema": "Portal do Aluno > Aba Acadêmico > Requerimentos > Nome não consta na Lista de Presença",
+    "tags": [
+      "acadêmicos",
+      "consta",
+      "lista",
+      "nome",
+      "não",
+      "presença",
+      "serviços"
+    ]
+  },
+  {
+    "titulo": "Pagamento à Vista da Semestralidade",
+    "grupo_de_atendimento": "Serviços Financeiros",
+    "valor": "R$ 0,00",
+    "tipo_de_requerimento": "Pagamento à Vista da Semestralidade",
+    "descricao": "Trata-se da solicitação de pagamento à vista da semestralidade referente ao Contrato de Prestação de Serviços Educacionais.\n\nPor favor, descreva os detalhes da sua solicitação no campo \"Solicitação\" preenchendo o seu curso, serviço, período letivo e outras informações que julgue necessário.",
+    "procedimentos": "Condições:\n- Ter registro de matrícula;\n- Ter parcelas a vencer junto à FECAP.",
+    "anexos_obrigatorios": [],
+    "campos_extras": [
+      {
+        "campo": "Confirma o desejo de abrir a solicitação? (Caso não seja retornada a opção \"Sim\", indica que já existe solicitação em andamento desse tipo)",
+        "tipo": "Seleção / Dropdown",
+        "obrigatorio": true
+      },
+      {
+        "campo": "Solicitação",
+        "tipo": "Texto / Área de texto",
+        "obrigatorio": true
+      }
+    ],
+    "id": "pagamento_a_vista_da_semestralidade",
+    "caminho_sistema": "Portal do Aluno > Aba Acadêmico > Requerimentos > Pagamento à Vista da Semestralidade",
+    "tags": [
+      "financeiros",
+      "pagamento",
+      "semestralidade",
+      "serviços",
+      "vista"
+    ]
+  },
+  {
+    "titulo": "Pagamento de Multas - Biblioteca",
+    "grupo_de_atendimento": "Biblioteca",
+    "valor": "R$ 0,00",
+    "tipo_de_requerimento": "Pagamento de Multas - Biblioteca",
+    "descricao": "Pagamento de Multas - Biblioteca",
+    "procedimentos": "",
+    "anexos_obrigatorios": [],
+    "campos_extras": [
+      {
+        "campo": "Código do Material",
+        "tipo": "Texto livre",
+        "obrigatorio": true
+      },
+      {
+        "campo": "Qtde. de Materiais",
+        "tipo": "Texto livre",
+        "obrigatorio": true
+      },
+      {
+        "campo": "Solicitação",
+        "tipo": "Texto / Área de texto",
+        "obrigatorio": true
+      }
+    ],
+    "id": "pagamento_de_multas_biblioteca",
+    "caminho_sistema": "Portal do Aluno > Aba Acadêmico > Requerimentos > Pagamento de Multas - Biblioteca",
+    "tags": [
+      "biblioteca",
+      "multas",
+      "pagamento"
+    ]
+  },
+  {
+    "titulo": "Programa de Bolsa Restituível - Adesão",
+    "grupo_de_atendimento": "Bolsas e Financiamentos",
+    "valor": "R$ 0,00",
+    "tipo_de_requerimento": "Programa de Bolsa Restituível - Adesão",
+    "descricao": "Adesão ao Programa Bolsa Restituível nos termos do Edital referente ao Programa.",
+    "procedimentos": "CONDIÇÕES:\nEstar regularmente matriculado no Curso do Ensino Superior da FECAP e dentro do prazo estipulado em Edital específico para requerer o benefício.\n\nDOCUMENTOS NECESSÁRIOS:\nEncaminhar em arquivo único PDF os documentos solicitados no Edital Vigente.",
+    "anexos_obrigatorios": [],
+    "campos_extras": [
+      {
+        "campo": "Confirma o desejo de abrir a solicitação? (Caso não seja retornada a opção \"Sim\", indica que já existe solicitação em andamento desse tipo)",
+        "tipo": "Seleção / Dropdown",
+        "obrigatorio": true
+      },
+      {
+        "campo": "Li o edital completo referente a bolsa restituível e concordo com os critérios pré estabelecidos",
+        "tipo": "Seleção / Dropdown",
+        "obrigatorio": true
+      },
+      {
+        "campo": "Irá requerer o benefício com Fiador?",
+        "tipo": "Seleção / Dropdown",
+        "obrigatorio": true
+      },
+      {
+        "campo": "Estou ciente que devo anexar documentação exigida em edital nos anexos do requerimento, sem os documentos a solicitação será cancelada.",
+        "tipo": "Seleção / Dropdown",
+        "obrigatorio": true
+      },
+      {
+        "campo": "Solicitação",
+        "tipo": "Texto / Área de texto",
+        "obrigatorio": true
+      }
+    ],
+    "id": "programa_de_bolsa_restituivel_adesao",
+    "caminho_sistema": "Portal do Aluno > Aba Acadêmico > Requerimentos > Programa de Bolsa Restituível - Adesão",
+    "tags": [
+      "adesão",
+      "bolsa",
+      "bolsas",
+      "financiamentos",
+      "programa",
+      "restituível"
+    ]
+  },
+  {
+    "titulo": "Programa de Bolsa Restituível - Renovação",
+    "grupo_de_atendimento": "Bolsas e Financiamentos",
+    "valor": "R$ 0,00",
+    "tipo_de_requerimento": "Programa de Bolsa Restituível - Renovação",
+    "descricao": "Solicite a renovação do Programa de Bolsa Restituível por meio da abertura deste chamado e garanta a continuidade da construção do seu futuro!",
+    "procedimentos": "",
+    "anexos_obrigatorios": [],
+    "campos_extras": [
+      {
+        "campo": "Curso / Sigla",
+        "tipo": "Seleção / Dropdown",
+        "obrigatorio": false
+      },
+      {
+        "campo": "Preencha o nº do Nível de Ensino (1 - Graduação, 2 - Pós-Graduação, 3 - Mestrado, 5 - Colégio)",
+        "tipo": "Texto livre",
+        "obrigatorio": false
+      },
+      {
+        "campo": "Confirma o desejo de abrir a solicitação? (Caso não seja retornada a opção \"Sim\", indica que já existe solicitação em andamento desse tipo)",
+        "tipo": "Seleção / Dropdown",
+        "obrigatorio": true
+      },
+      {
+        "campo": "Solicitação",
+        "tipo": "Texto / Área de texto",
+        "obrigatorio": true
+      }
+    ],
+    "id": "programa_de_bolsa_restituivel_renovacao",
+    "caminho_sistema": "Portal do Aluno > Aba Acadêmico > Requerimentos > Programa de Bolsa Restituível - Renovação",
+    "tags": [
+      "bolsa",
+      "bolsas",
+      "financiamentos",
+      "programa",
+      "renovação",
+      "restituível"
+    ]
+  },
+  {
+    "titulo": "Reagendamento de prova por sobreposição de horário",
+    "grupo_de_atendimento": "Serviços Acadêmicos",
+    "valor": "R$ 0,00",
+    "tipo_de_requerimento": "Reagendamento de prova por sobreposição de horário",
+    "descricao": "As provas oficiais das suas disciplinas foram marcadas no mesmo horário? Não se preocupe. Abra este requerimento para que possamos analisar e reagendar uma de suas provas.\n\nATENÇÃO: Se deferida, a remarcação da(s) prova(s) poderá ocorrer em qualquer dia da semana inclusive aos finais de semana e mais de uma prova por dia. Por isso, atente-se no andamento do seu requerimento.",
+    "procedimentos": "",
+    "anexos_obrigatorios": [],
+    "campos_extras": [
+      {
+        "campo": "Solicitação",
+        "tipo": "Texto / Área de texto",
+        "obrigatorio": true
+      }
+    ],
+    "id": "reagendamento_de_prova_por_sobreposicao_de_horario",
+    "caminho_sistema": "Portal do Aluno > Aba Acadêmico > Requerimentos > Reagendamento de prova por sobreposição de horário",
+    "tags": [
+      "acadêmicos",
+      "horário",
+      "por",
+      "prova",
+      "reagendamento",
+      "serviços",
+      "sobreposição"
+    ]
+  },
+  {
+    "titulo": "Reconsideração de Comissão de Ética",
+    "grupo_de_atendimento": "Boas Práticas",
+    "valor": "R$ 0,00",
+    "tipo_de_requerimento": "Reconsideração de Comissão de Ética",
+    "descricao": "Viveu alguma experiência em que se sentiu desrespeitado(a) ou ofendido(a)? Nós sentimos muito e queremos te ajudar! Saiba que você pode abrir uma solicitação para a comissão de ética avaliar a situação. Estamos ao seu lado! Fique tranquilo(a), o seu sigilo será mantido.",
+    "procedimentos": "",
+    "anexos_obrigatorios": [],
+    "campos_extras": [
+      {
+        "campo": "Solicitação",
+        "tipo": "Texto / Área de texto",
+        "obrigatorio": true
+      }
+    ],
+    "id": "reconsideracao_de_comissao_de_etica",
+    "caminho_sistema": "Portal do Aluno > Aba Acadêmico > Requerimentos > Reconsideração de Comissão de Ética",
+    "tags": [
+      "boas",
+      "comissão",
+      "práticas",
+      "reconsideração",
+      "ética"
+    ]
+  },
+  {
+    "titulo": "Reserva de Sala",
+    "grupo_de_atendimento": "Reservas e Recursos",
+    "valor": "R$0,00",
+    "tipo_de_requerimento": "Reserva de Sala",
+    "descricao": "Usufrua da infraestrutura das salas de aula para a realização de reuniões, atividades extras, trabalhos em grupo, orientações e muito mais! Faça a solicitação de reserva através deste requerimento.\n\nImportante: A reserva dependerá da disponibilidade de salas e o limite de término da atividade deverá ser de até 30 minutos antes do início das aulas. A reserva deverá ser solicitada com pelo menos 7 (sete) dias de antecedência ao evento.",
+    "procedimentos": "No campo de \"Solicitação\" informe os dados abaixo:\nData(s):\nHorário:\nMotivo:\nNome de Tod@s @s alun@s que utilizarão:\n\nImportante: *Salas como a de Empreendedorismo, Marketing e de Negociação devem ser solicitadas somente pelos Professores.",
+    "anexos_obrigatorios": [],
+    "campos_extras": [
+      {
+        "campo": "Solicitação",
+        "tipo": "Texto / Área de texto",
+        "obrigatorio": true
+      }
+    ],
+    "id": "reserva_de_sala",
+    "caminho_sistema": "Portal do Aluno > Aba Acadêmico > Requerimentos > Reserva de Sala",
+    "tags": [
+      "recursos",
+      "reserva",
+      "reservas",
+      "sala"
+    ]
+  },
+  {
+    "titulo": "Restituição de Exame",
+    "grupo_de_atendimento": "Serviços Acadêmicos",
+    "valor": "R$0,00",
+    "tipo_de_requerimento": "Restituição de Exame",
+    "descricao": "Restituição de Exame",
+    "procedimentos": "",
+    "anexos_obrigatorios": [],
+    "campos_extras": [
+      {
+        "campo": "Confirma o desejo de abrir a solicitação? (Caso não seja retornada a opção \"Sim\", indica que já existe solicitação em andamento desse tipo)",
+        "tipo": "Seleção / Dropdown",
+        "obrigatorio": false
+      },
+      {
+        "campo": "Solicitação",
+        "tipo": "Texto / Área de texto",
+        "obrigatorio": true
+      }
+    ],
+    "id": "restituicao_de_exame",
+    "caminho_sistema": "Portal do Aluno > Aba Acadêmico > Requerimentos > Restituição de Exame",
+    "tags": [
+      "acadêmicos",
+      "exame",
+      "restituição",
+      "serviços"
+    ]
+  },
+  {
+    "titulo": "Restituições",
+    "grupo_de_atendimento": "Serviços Financeiros",
+    "valor": "R$0,00",
+    "tipo_de_requerimento": "Restituições",
+    "descricao": "Trata-se do serviço de Restituições/Reembolsos para alunos ou ex-alunos. Lembre-se: envie-nos os dados bancários e o comprovante de pagamento para agilizar o processo de restituição.\n\nPor favor, descreva os detalhes da sua solicitação no campo \"Solicitação\" preenchendo o seu curso, serviço, período letivo e outras informações que julgue necessário.",
+    "procedimentos": "Condições:\n- Estudante deve ter registro de matrícula;\n- Estudante deve estar adimplente com a FECAP;\n- Caso o Estudante possua débitos com a FECAP, o reembolso poderá ser realizado através de abatimento no saldo devedor;\n- O reembolso/restituição ocorrerá na conta do responsável financeiro pelo Contrato de Prestação de Serviços Educacionais, mediante fornecimento dos dados bancários (Banco, Agência, Conta e CPF do responsável);\n- A conta do responsável financeiro deve ser pessoa física;\n- O deferimento ao reembolso/restituição está sujeito a análise e aprovação por parte do Financeiro.",
+    "anexos_obrigatorios": [],
+    "campos_extras": [
+      {
+        "campo": "Confirma o desejo de abrir a solicitação? (Caso não seja retornada a opção \"Sim\", indica que já existe solicitação em andamento desse tipo)",
+        "tipo": "Seleção / Dropdown",
+        "obrigatorio": true
+      },
+      {
+        "campo": "Solicitação",
+        "tipo": "Texto / Área de texto",
+        "obrigatorio": true
+      }
+    ],
+    "id": "restituicoes",
+    "caminho_sistema": "Portal do Aluno > Aba Acadêmico > Requerimentos > Restituições",
+    "tags": [
+      "financeiros",
+      "restituições",
+      "serviços"
+    ]
+  },
+  {
+    "titulo": "Reunião com a Coordenação do Curso",
+    "grupo_de_atendimento": "Serviços Acadêmicos",
+    "valor": "R$0,00",
+    "tipo_de_requerimento": "Reunião com a Coordenação do Curso",
+    "descricao": "Quer bater um papo com o(a) seu/sua Coordenador(a) ou com o(a) Coordenador(a) de outro curso, tirar suas dúvidas, entender mais sobre a profissão ou compartilhar suas necessidades? A Coordenação está pronta para te ouvir! Basta abrir este requerimento informando o motivo da audiência para que possamos dar andamento a sua solicitação.",
+    "procedimentos": "",
+    "anexos_obrigatorios": [],
+    "campos_extras": [
+      {
+        "campo": "Solicitação",
+        "tipo": "Texto / Área de texto",
+        "obrigatorio": true
+      }
+    ],
+    "id": "reuniao_com_a_coordenacao_do_curso",
+    "caminho_sistema": "Portal do Aluno > Aba Acadêmico > Requerimentos > Reunião com a Coordenação do Curso",
+    "tags": [
+      "acadêmicos",
+      "com",
+      "coordenação",
+      "curso",
+      "reunião",
+      "serviços"
+    ]
+  },
+  {
+    "titulo": "Reverter Cancelamento do curso",
+    "grupo_de_atendimento": "Serviços Acadêmicos",
+    "valor": "R$0,00",
+    "tipo_de_requerimento": "Reverter Cancelamento do curso",
+    "descricao": "Você solicitou o trancamento ou o cancelamento do seu curso, mas se arrependeu e deseja retornar? Ficamos muito felizes com a sua decisão!\nAbra este requerimento solicitando a reversão do trancamento ou do cancelamento do seu curso para que possamos analisar.\n\nAtenção: Nos casos de alun@s de Graduação bolsistas do ProUni, será necessária a análise da Coordenação do ProUni.",
+    "procedimentos": "",
+    "anexos_obrigatorios": [],
+    "campos_extras": [
+      {
+        "campo": "Solicitação",
+        "tipo": "Texto / Área de texto",
+        "obrigatorio": true
+      }
+    ],
+    "id": "reverter_cancelamento_do_curso",
+    "caminho_sistema": "Portal do Aluno > Aba Acadêmico > Requerimentos > Reverter Cancelamento do curso",
+    "tags": [
+      "acadêmicos",
+      "cancelamento",
+      "curso",
+      "reverter",
+      "serviços"
+    ]
+  },
+  {
+    "titulo": "Revisão de Nota/Prova - PEDP",
+    "grupo_de_atendimento": "Serviços Acadêmicos",
+    "valor": "R$0,00",
+    "tipo_de_requerimento": "Revisão de Nota/Prova - PEDP",
+    "descricao": "As solicitações de revisão de provas, casos omissos ou dúvidas devem ser tratadas diretamente com a Coordenação do Curso/PEDP através do e-mail: - Ciências Contábeis: auxiliarescontabeis@fecap.br - Administração: auxiliares.adm@edu.fecap.br - Publicidade e Propaganda e Relações Públicas: Jonathan Marinho (PP) - jonathan.marinho@fecap.br; Cassio Ozires (PP) - cassio.martinez@fecap.br e Jacqueline Ausier (RP) - jacqueline.domingues@fecap.br. Caso você não tenha solucionado suas dúvidas por meio desses canais ou seu curso não esteja nessa lista, abra esse requerimento informando sua solicitação.",
+    "procedimentos": "",
+    "anexos_obrigatorios": [],
+    "campos_extras": [
+      {
+        "campo": "Solicitação",
+        "tipo": "Texto / Área de texto",
+        "obrigatorio": true
+      }
+    ],
+    "id": "revisao_de_notaprova_pedp",
+    "caminho_sistema": "Portal do Aluno > Aba Acadêmico > Requerimentos > Revisão de Nota/Prova - PEDP",
+    "tags": [
+      "acadêmicos",
+      "nota",
+      "pedp",
+      "prova",
+      "revisão",
+      "serviços"
+    ]
+  },
+  {
+    "titulo": "Sistema de Achados e Perdidos",
+    "grupo_de_atendimento": "Segurança",
+    "valor": "R$0,00",
+    "tipo_de_requerimento": "Sistema de Achados e Perdidos",
+    "descricao": "Serviço de Achados e Perdidos em que itens perdidos pelos alunos e que chegam até a recepção, cadastramos esse item e fica à disposição para retirada pelo alunos num prazo de até 15 dias",
+    "procedimentos": "",
+    "anexos_obrigatorios": [],
+    "campos_extras": [
+      {
+        "campo": "Solicitação",
+        "tipo": "Texto / Área de texto",
+        "obrigatorio": true
+      }
+    ],
+    "id": "sistema_de_achados_e_perdidos",
+    "caminho_sistema": "Portal do Aluno > Aba Acadêmico > Requerimentos > Sistema de Achados e Perdidos",
+    "tags": [
+      "achados",
+      "perdidos",
+      "segurança",
+      "sistema"
+    ]
+  },
+  {
+    "titulo": "Solicitação de Boleto",
+    "grupo_de_atendimento": "Serviços Acadêmicos",
+    "valor": "R$0,00",
+    "tipo_de_requerimento": "Solicitação de Boleto",
+    "descricao": "Não recebeu o seu boleto, sua bolsa/desconto não está devidamente cadastrado ou precisa realizar algum ajuste? Abra este requerimento descrevendo qual é o problema que está enfrentando para que possamos verificar. Estamos disponíveis para te ajudar!",
+    "procedimentos": "",
+    "anexos_obrigatorios": [],
+    "campos_extras": [
+      {
+        "campo": "Solicitação",
+        "tipo": "Texto / Área de texto",
+        "obrigatorio": true
+      }
+    ],
+    "id": "solicitacao_de_boleto",
+    "caminho_sistema": "Portal do Aluno > Aba Acadêmico > Requerimentos > Solicitação de Boleto",
+    "tags": [
+      "acadêmicos",
+      "boleto",
+      "serviços",
+      "solicitação"
+    ]
+  },
+  {
+    "titulo": "Solicitação de matrícula Educação Transformadora",
+    "grupo_de_atendimento": "Serviços Acadêmicos",
+    "valor": "R$0,00",
+    "tipo_de_requerimento": "Solicitação de matrícula Educação Transformadora",
+    "descricao": "Solicitação de matrícula Educação Transformadora",
+    "procedimentos": "",
+    "anexos_obrigatorios": [],
+    "campos_extras": [
+      {
+        "campo": "Selecione a disciplina",
+        "tipo": "Seleção / Dropdown",
+        "obrigatorio": true
+      },
+      {
+        "campo": "Solicitação",
+        "tipo": "Texto / Área de texto",
+        "obrigatorio": true
+      }
+    ],
+    "id": "solicitacao_de_matricula_educacao_transformadora",
+    "caminho_sistema": "Portal do Aluno > Aba Acadêmico > Requerimentos > Solicitação de matrícula Educação Transformadora",
+    "tags": [
+      "acadêmicos",
+      "educação",
+      "matrícula",
+      "serviços",
+      "solicitação",
+      "transformadora"
+    ]
+  },
+  {
+    "titulo": "Solicitação de Passe Escolar EMTU",
+    "grupo_de_atendimento": "Serviços Acadêmicos",
+    "valor": "R$0,00",
+    "tipo_de_requerimento": "Solicitação de Passe Escolar EMTU",
+    "descricao": "Antes de prosseguir com a solicitação acesse o site da EMTU abaixo informe o seu CPF e confirme se o seu cadastro já foi realizado pela FECAP. ACESSE O SITE AQUI https://www.emtu.sp.gov.br/passe/estudante.htm Caso o cadastro tenha sido realizado, não é necessário realizar a abertura do requerimento. Siga as orientações no site para confirmar a liberação do seu benefício. ESTE REQUERIMENTO É EXCLUSIVO PARA SOLICITAÇÕES DE PASSE ESCOLAR EMTU/TOP E SERÁ CANCELADO AUTOMATICAMENTE CASO IDENTIFIQUEMOS PEDIDOS COM OUTRAS FINALIDADES",
+    "procedimentos": "",
+    "anexos_obrigatorios": [],
+    "campos_extras": [
+      {
+        "campo": "Curso / Sigla",
+        "tipo": "Seleção / Dropdown",
+        "obrigatorio": false
+      },
+      {
+        "campo": "Preencha o nº do Nível de Ensino (1 - Graduação, 2 - Pós-Graduação, 3 - Mestrado, 5 - Colégio)",
+        "tipo": "Texto livre",
+        "obrigatorio": false
+      },
+      {
+        "campo": "Solicitação",
+        "tipo": "Texto / Área de texto",
+        "obrigatorio": true
+      }
+    ],
+    "id": "solicitacao_de_passe_escolar_emtu",
+    "caminho_sistema": "Portal do Aluno > Aba Acadêmico > Requerimentos > Solicitação de Passe Escolar EMTU",
+    "tags": [
+      "acadêmicos",
+      "emtu",
+      "escolar",
+      "passe",
+      "serviços",
+      "solicitação"
+    ]
+  },
+  {
+    "titulo": "Solicitação de Passe Escolar SPTrans",
+    "grupo_de_atendimento": "Transporte e Estacionamento",
+    "valor": "R$0,00",
+    "tipo_de_requerimento": "Solicitação de Passe Escolar SPTrans",
+    "descricao": "Se você está regularmente matriculado na FECAP e utiliza a SPTrans, informamos que o seu cadastro será atualizado automaticamente. Se você ou a SPTrans não identificaram o envio dos dados pela FECAP, dê continuidade na abertura deste requerimento para solicitar o comprovante de envio dos seus dados à SPTrans. Mas se você ainda não ativou o benefício, confira o passo a passo para ativá-lo: 1. Confira sua situação cadastral no site da SPTrans; 2. Pague a taxa solicitada e aguarde a liberação do benefício, que deverá ocorrer automaticamente em 72 horas. Mas, fique atento(a): - Se você ingressou na FECAP neste semestre, o prazo para envio de seus dados para a SPTrans é de 15 a 20 dias úteis após a data de conclusão da matrícula; - Se você está pedindo o Bilhete Único pela primeira vez, assim que você pagar a taxa e receber o seu Bilhete, é necessário fazer o desbloqueio na plataforma. Depois desse passo importante, em 72 horas o benefício será liberado automaticamente. Se ainda assim não identificar a liberação de sua cota, por gentileza, compareça a um posto de atendimento da SPTrans para regularização. ATENÇÃO: Só abra este requerimento caso a SPTrans informe a necessidade de um comprovante de que os seus dados foram devidamente cadastrados ou se você ou a SPTrans não identificaram o envio dos dados pela FECAP.",
+    "procedimentos": "Condições: - Ter situação de matrícula \"Cursando\"; - Ter entregue os documentos do estudante: RG, CPF e comprovante de residência atualizado; - O estudante deverá possuir um pré-cadastro no site da SPTrans antes de realizar a solicitação.",
+    "anexos_obrigatorios": [],
+    "campos_extras": [
+      {
+        "campo": "Curso / Sigla",
+        "tipo": "Seleção / Dropdown",
+        "obrigatorio": false
+      },
+      {
+        "campo": "Preencha o nº do Nível de Ensino (1 - Graduação, 2 - Pós-Graduação, 3 - Mestrado, 5 - Colégio)",
+        "tipo": "Texto livre",
+        "obrigatorio": false
+      },
+      {
+        "campo": "Solicitação",
+        "tipo": "Texto / Área de texto",
+        "obrigatorio": true
+      }
+    ],
+    "id": "solicitacao_de_passe_escolar_sptrans",
+    "caminho_sistema": "Portal do Aluno > Aba Acadêmico > Requerimentos > Solicitação de Passe Escolar SPTrans",
+    "tags": [
+      "escolar",
+      "estacionamento",
+      "passe",
+      "solicitação",
+      "sptrans",
+      "transporte"
+    ]
+  },
+  {
+    "titulo": "Trancamento de DP/ADAPT",
+    "grupo_de_atendimento": "Serviços Acadêmicos",
+    "valor": "R$0,00",
+    "tipo_de_requerimento": "Trancamento de DP/ADAPT",
+    "descricao": "Possui alguma disciplina de dependência (DP) ou adaptação, mas não deseja cursá-la neste semestre? Você pode solicitar o trancamento dela para cursá-la posteriormente. Antes de prosseguir com a solicitação, você deve considerar os seguintes pontos: - O trancamento de disciplinas de dependência e/ou adaptação implicará na reprovação automática da disciplina; - Disciplinas trancadas contabilizam para a reprovação da série; - Caso curse também disciplina(s) em regime de Antecipação, terá sua(s) antecipação(ões) canceladas; - Disciplinas trancadas NÃO PODEM ser cursadas na modalidade concentrada de férias; ATENÇÃO: Você só conseguirá realizar a abertura deste requerimento caso esteja regularmente matriculado neste período letivo e a(s) sua(s) disciplina(s) de DP/ADPT tenha(m) sido ofertada(s) e esteja(m) com o status de \"cursando\" na sua grade. Caso atenda esses critérios o sistema liberará a opção para que você selecione a(s) disciplina(s) desejada(s) e prossiga com a abertura do requerimento.",
+    "procedimentos": "",
+    "anexos_obrigatorios": [],
+    "campos_extras": [
+      {
+        "campo": "Selecione a disciplina que deseja TRANCAR?",
+        "tipo": "Seleção / Dropdown",
+        "obrigatorio": false
+      },
+      {
+        "campo": "Solicitação",
+        "tipo": "Texto / Área de texto",
+        "obrigatorio": true
+      }
+    ],
+    "id": "trancamento_de_dpadapt",
+    "caminho_sistema": "Portal do Aluno > Aba Acadêmico > Requerimentos > Trancamento de DP/ADAPT",
+    "tags": [
+      "acadêmicos",
+      "adapt",
+      "serviços",
+      "trancamento"
+    ]
+  },
+  {
+    "titulo": "Trancamento do Curso",
+    "grupo_de_atendimento": "Serviços Acadêmicos",
+    "valor": "R$0,00",
+    "tipo_de_requerimento": "Trancamento do Curso",
+    "descricao": "Sabemos que as vezes uma pausa é necessária, mas não demore muito pois sentiremos a sua falta! Você poderá solicitar o trancamento do curso através deste requerimento. De acordo com o Manual do Aluno, o trancamento de matrícula possui validade para o semestre letivo em que ocorrer a requisição e para o semestre subsequente ao da solicitação. Ao retornar ao curso, o(a) estudante deverá adaptar-se ao currículo da nova turma e aos valores vigentes. Importante: O(A) discente bolsista do ProUni que trancar o curso e não retomar os estudos dentro do prazo estabelecido acima terá a bolsa do ProUni encerrada por evasão. É importante lembrar que o período em que o(a) bolsista estiver com o curso trancado a sua bolsa é considerada em usufruto",
+    "procedimentos": "",
+    "anexos_obrigatorios": [],
+    "campos_extras": [
+      {
+        "campo": "Confirma o desejo de abrir a solicitação? (Caso não seja retornada a opção \"Sim\", indica que já existe solicitação em andamento desse tipo)",
+        "tipo": "Seleção / Dropdown",
+        "obrigatorio": false
+      },
+      {
+        "campo": "Solicitação",
+        "tipo": "Texto / Área de texto",
+        "obrigatorio": true
+      }
+    ],
+    "id": "trancamento_do_curso",
+    "caminho_sistema": "Portal do Aluno > Aba Acadêmico > Requerimentos > Trancamento do Curso",
+    "tags": [
+      "acadêmicos",
+      "curso",
+      "serviços",
+      "trancamento"
+    ]
+  },
+  {
+    "titulo": "Trancamento do curso - CCGH",
+    "grupo_de_atendimento": "Serviços Acadêmicos",
+    "valor": "R$0,00",
+    "tipo_de_requerimento": "Trancamento do curso - CCGH",
+    "descricao": "Sabemos que as vezes uma pausa é necessária, mas não demore muito pois sentiremos a sua falta! Você poderá solicitar o trancamento do curso através deste requerimento. De acordo com o Manual do Aluno, o trancamento de matrícula possui validade para o semestre letivo em que ocorrer a requisição e para o semestre subsequente ao da solicitação. Ao retornar ao curso, o(a) estudante deverá adaptar-se ao currículo da nova turma e aos valores vigentes. Importante: O(A) discente bolsista do ProUni que trancar o curso e não retomar os estudos dentro do prazo estabelecido acima terá a bolsa do ProUni encerrada por evasão. É importante lembrar que o período em que o(a) bolsista estiver com o curso trancado a sua bolsa é considerada em usufruto.",
+    "procedimentos": "",
+    "anexos_obrigatorios": [],
+    "campos_extras": [
+      {
+        "campo": "Selecione o curso",
+        "tipo": "Seleção / Dropdown",
+        "obrigatorio": true
+      },
+      {
+        "campo": "Confirma o desejo de abrir a solicitação? (Caso não seja retornada a opção \"Sim\", indica que já existe solicitação em andamento desse tipo)",
+        "tipo": "Seleção / Dropdown",
+        "obrigatorio": false
+      },
+      {
+        "campo": "Qual o motivo?",
+        "tipo": "Texto / Área de texto",
+        "obrigatorio": false
+      },
+      {
+        "campo": "Motivo da solicitação:",
+        "tipo": "Seleção / Dropdown",
+        "obrigatorio": false
+      },
+      {
+        "campo": "Solicitação",
+        "tipo": "Texto / Área de texto",
+        "obrigatorio": true
+      }
+    ],
+    "id": "trancamento_do_curso_ccgh",
+    "caminho_sistema": "Portal do Aluno > Aba Acadêmico > Requerimentos > Trancamento do curso - CCGH",
+    "tags": [
+      "acadêmicos",
+      "ccgh",
+      "curso",
+      "serviços",
+      "trancamento"
+    ]
+  },
+  {
+    "titulo": "Transferência de Turma",
+    "grupo_de_atendimento": "Serviços Acadêmicos",
+    "valor": "R$0,00",
+    "tipo_de_requerimento": "Transferência de Turma",
+    "descricao": "Se por algum motivo você deseja mudar de uma turma para outra no mesmo curso, nós podemos te ajudar! Para isso, é necessário que um(a) estudante na turma de destino aceite realizar a troca. Após combinado, solicite por meio deste requerimento, informando o nome e matrícula do(a) aluno(a) com o(a) qual realizará a permuta. ATENÇÃO: Só serão permitidas transferências por meio de PERMUTA, a fim de equilibrar a quantidade de estudantes em cada sala. Os critérios para a permuta são os seguintes: - Ser do mesmo curso, semestre e turno; - Ser do mesmo sexo. ATENÇÃO: Estudantes bolsistas do ProUni devem localizar outro(a) estudante que, além dos critérios mencionados acima, possua o mesmo percentual de bolsa. Após atender aos requisitos, ambos os(as) estudantes devem abrir o requerimento de \"Transferência de Turma\", informando o nome completo e o RA do(a) estudante com quem realizarão a troca.",
+    "procedimentos": "",
+    "anexos_obrigatorios": [],
+    "campos_extras": [
+      {
+        "campo": "Solicitação",
+        "tipo": "Texto / Área de texto",
+        "obrigatorio": true
+      }
+    ],
+    "id": "transferencia_de_turma",
+    "caminho_sistema": "Portal do Aluno > Aba Acadêmico > Requerimentos > Transferência de Turma",
+    "tags": [
+      "acadêmicos",
+      "serviços",
+      "transferência",
+      "turma"
+    ]
+  },
+  {
+    "titulo": "Transferência de Turno",
+    "grupo_de_atendimento": "Serviços Acadêmicos",
+    "valor": "R$0,00",
+    "tipo_de_requerimento": "Transferência de Turno",
+    "descricao": "Alunos com Bolsa Prouni, após abertura do Requerimento devem aguardar confirmação da Coordenação Prouni. Em casos de alunos do 1º ou 2º semestre Matutino, ao alterar o período para o noturno, ocorre o cancelamento da Bolsa/Desconto Matutino e as parcelas pagas com o desconto são recalculadas",
+    "procedimentos": "",
+    "anexos_obrigatorios": [],
+    "campos_extras": [
+      {
+        "campo": "Qual sua turma atual?",
+        "tipo": "Seleção / Dropdown",
+        "obrigatorio": false
+      },
+      {
+        "campo": "Solicitação",
+        "tipo": "Texto / Área de texto",
+        "obrigatorio": true
+      }
+    ],
+    "id": "transferencia_de_turno",
+    "caminho_sistema": "Portal do Aluno > Aba Acadêmico > Requerimentos > Transferência de Turno",
+    "tags": [
+      "acadêmicos",
+      "serviços",
+      "transferência",
+      "turno"
+    ]
+  },
+  {
+    "titulo": "Transferência Interna de Curso",
+    "grupo_de_atendimento": "Serviços Acadêmicos",
+    "valor": "R$0,00",
+    "tipo_de_requerimento": "Transferência Interna de Curso",
+    "descricao": "Deseja mudar de curso na FECAP? Solicite uma análise de grade para o novo curso desejado através deste requerimento. Importante: Informe o motivo da transferência no campo de \"Solicitação\". O pedido de transferência é analisado pela Coordenação do curso para o aproveitamento de disciplinas. Estudantes bolsistas do ProUni que desejarem mudar de curso passarão também pela análise da Coordenação do ProUni. Prazo de solicitação para VETERANOS ou ingressantes em turmas veteranas: muda semestralmente* Prazo de solicitação para INGRESSANTES: muda semestralmente* *Prazos definidos de acordo com o Manual do Aluno.",
+    "procedimentos": "",
+    "anexos_obrigatorios": [],
+    "campos_extras": [
+      {
+        "campo": "Informe o curso do aluno? (Para transferência de curso, remanejamento de disciplina, antecipação de disciplina, DP/ Adaptação)",
+        "tipo": "Seleção / Dropdown",
+        "obrigatorio": false
+      },
+      {
+        "campo": "Solicitação",
+        "tipo": "Texto / Área de texto",
+        "obrigatorio": true
+      }
+    ],
+    "id": "transferencia_interna_de_curso",
+    "caminho_sistema": "Portal do Aluno > Aba Acadêmico > Requerimentos > Transferência Interna de Curso",
+    "tags": [
+      "acadêmicos",
+      "curso",
+      "interna",
+      "serviços",
+      "transferência"
+    ]
+  },
+  {
+    "titulo": "Validação Internacional de Documentos",
+    "grupo_de_atendimento": "Internacionalização",
+    "valor": "R$0,00",
+    "tipo_de_requerimento": "Validação Internacional de Documentos",
+    "descricao": "Validação Internacional de Documentos",
+    "procedimentos": "",
+    "anexos_obrigatorios": [],
+    "campos_extras": [
+      {
+        "campo": "Solicitação",
+        "tipo": "Texto / Área de texto",
+        "obrigatorio": true
+      }
+    ],
+    "id": "validacao_internacional_de_documentos",
+    "caminho_sistema": "Portal do Aluno > Aba Acadêmico > Requerimentos > Validação Internacional de Documentos",
+    "tags": [
+      "documentos",
+      "internacional",
+      "internacionalização",
+      "validação"
+    ]
+  },
+  {
+    "titulo": "Vista de Prova de P.O/Exame - Híbrido",
+    "grupo_de_atendimento": "Serviços Acadêmicos",
+    "valor": "R$0,00",
+    "tipo_de_requerimento": "Vista de Prova de P.O/Exame - Híbrido",
+    "descricao": "A correria das provas já acabou, mas você não concordou com os critérios usados na avaliação e deseja a revisão da nota? Vamos te ajudar! Você pode solicitar a vista da sua Prova de P.O ou Exame para que possa questionar os critérios utilizados na correção. Informe o nome da disciplina no campo de \"Solicitação\" para que possamos analisar.",
+    "procedimentos": "",
+    "anexos_obrigatorios": [],
+    "campos_extras": [
+      {
+        "campo": "Caso seu curso seja híbido, preencha-o nesse campo",
+        "tipo": "Seleção / Dropdown",
+        "obrigatorio": true
+      },
+      {
+        "campo": "Solicitação",
+        "tipo": "Texto / Área de texto",
+        "obrigatorio": true
+      }
+    ],
+    "id": "vista_de_prova_de_poexame_hibrido",
+    "caminho_sistema": "Portal do Aluno > Aba Acadêmico > Requerimentos > Vista de Prova de P.O/Exame - Híbrido",
+    "tags": [
+      "acadêmicos",
+      "exame",
+      "híbrido",
+      "prova",
+      "serviços",
+      "vista"
+    ]
+  }
+]
