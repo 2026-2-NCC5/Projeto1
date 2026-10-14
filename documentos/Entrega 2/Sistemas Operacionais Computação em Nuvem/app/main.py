@@ -1,11 +1,5 @@
-"""
-SISA – API de Previsão de Evasão (FastAPI)
-==========================================
-POST /predict  →  recebe dados do aluno, devolve previsão + probabilidade
-GET  /health   →  health-check
-"""
-
 import os
+import logging
 from contextlib import asynccontextmanager
 from typing import Optional
 
@@ -14,28 +8,31 @@ import numpy as np
 import pandas as pd
 from fastapi import FastAPI, HTTPException
 from pydantic import BaseModel, Field
+from dotenv import load_dotenv
+from prometheus_fastapi_instrumentator import Instrumentator
 
-# ---------------------------------------------------------------------------
-# Configurações
-# ---------------------------------------------------------------------------
+load_dotenv()
+
+logging.basicConfig(
+    level=os.getenv("LOG_LEVEL", "INFO"),
+    format="%(asctime)s - %(name)s - %(levelname)s - %(message)s"
+)
+logger = logging.getLogger(__name__)
+
 BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 MODEL_PATH = os.path.join(BASE_DIR, "models", "modelo_churn.pkl")
 
-# ---------------------------------------------------------------------------
-# Carregamento do modelo (uma única vez, ao iniciar)
-# ---------------------------------------------------------------------------
 model = None
-
 
 @asynccontextmanager
 async def lifespan(app: FastAPI):
     global model
     if not os.path.exists(MODEL_PATH):
+        logger.error(f"Modelo não encontrado no caminho: {MODEL_PATH}")
         raise RuntimeError(f"Modelo não encontrado em {MODEL_PATH}")
     model = joblib.load(MODEL_PATH)
-    print(f"[INFO] Modelo carregado de: {MODEL_PATH}")
+    logger.info(f"Modelo carregado com sucesso de: {MODEL_PATH}")
     yield
-
 
 app = FastAPI(
     title="SISA – API de Previsão de Evasão",
@@ -44,9 +41,8 @@ app = FastAPI(
     lifespan=lifespan,
 )
 
-# ---------------------------------------------------------------------------
-# Schemas
-# ---------------------------------------------------------------------------
+Instrumentator().instrument(app).expose(app)
+
 FEATURE_ORDER = [
     "frequencia",
     "nota_media",
@@ -57,7 +53,6 @@ FEATURE_ORDER = [
     "idade",
     "bolsa",
 ]
-
 
 class StudentInput(BaseModel):
     """Dados de entrada de um estudante para previsão."""
@@ -70,7 +65,6 @@ class StudentInput(BaseModel):
     idade: int = Field(..., ge=16, le=70, description="Idade do estudante")
     bolsa: int = Field(..., ge=0, le=1, description="Possui bolsa (0=não, 1=sim)")
 
-
 class PredictionOutput(BaseModel):
     """Resultado da previsão do agente."""
     previsao: str = Field(..., description="'evasao' ou 'permanencia'")
@@ -78,31 +72,26 @@ class PredictionOutput(BaseModel):
     classificacao: str = Field(..., description="Verde / Amarelo / Vermelho")
     fatores_relevantes: dict = Field(..., description="Importância de cada feature")
 
-
-# ---------------------------------------------------------------------------
-# Endpoints
-# ---------------------------------------------------------------------------
 @app.get("/health")
 def health_check():
     return {"status": "ok", "modelo_carregado": model is not None}
 
-
 @app.post("/predict", response_model=PredictionOutput)
 def predict(aluno: StudentInput):
     """Recebe os dados de um estudante e devolve a previsão de evasão."""
+    logger.info(f"Requisição de predição recebida. Semestre: {aluno.semestre}, Idade: {aluno.idade}")
+    
     if model is None:
+        logger.error("Tentativa de predição falhou: Modelo não está carregado.")
         raise HTTPException(status_code=503, detail="Modelo ainda não carregado.")
 
-    # Montar DataFrame na ordem correta das features
     data = pd.DataFrame([aluno.model_dump()])[FEATURE_ORDER]
 
-    # Previsão
     pred = model.predict(data)[0]
     proba = model.predict_proba(data)[0]
 
     prob_evasao = float(proba[1]) if len(proba) > 1 else float(proba[0])
 
-    # Classificação semáforo
     if prob_evasao >= 0.70:
         classificacao = "Vermelho"
     elif prob_evasao >= 0.40:
@@ -110,7 +99,6 @@ def predict(aluno: StudentInput):
     else:
         classificacao = "Verde"
 
-    # Feature importances do modelo
     importances = dict(zip(FEATURE_ORDER, [round(float(v), 4) for v in model.feature_importances_]))
 
     return PredictionOutput(

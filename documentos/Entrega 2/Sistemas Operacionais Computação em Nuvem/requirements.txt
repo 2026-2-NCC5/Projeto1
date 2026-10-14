@@ -3,3 +3,6 @@ scikit-learn==1.6.*
 fastapi==0.115.*
 uvicorn[standard]==0.34.*
 joblib==1.4.*
+python-dotenv
+prometheus-fastapi-instrumentator
+locust

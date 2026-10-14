@@ -1,0 +1,13 @@
+version: '3.8'
+
+services:
+  sisa-api:
+    build: .
+    container_name: sisa-api-container
+    ports:
+      - "8000:8000"
+    env_file:
+      - .env.example
+    volumes:
+      - ./logs:/app/logs
+    restart: always
