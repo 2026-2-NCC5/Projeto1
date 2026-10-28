@@ -6,7 +6,8 @@ from typing import Optional
 import joblib
 import numpy as np
 import pandas as pd
-from fastapi import FastAPI, HTTPException
+from fastapi import FastAPI, HTTPException, Depends, Security
+from fastapi.security.api_key import APIKeyHeader
 from pydantic import BaseModel, Field
 from dotenv import load_dotenv
 from prometheus_fastapi_instrumentator import Instrumentator
@@ -43,6 +44,19 @@ app = FastAPI(
 
 Instrumentator().instrument(app).expose(app)
 
+API_KEY_NAME = "X-API-Key"
+api_key_header = APIKeyHeader(name=API_KEY_NAME, auto_error=False)
+
+async def validar_api_key(api_key: str = Security(api_key_header)):
+    chave_secreta = os.getenv("API_KEY_SECRET")
+    if api_key == chave_secreta:
+        return api_key
+    
+    logger.warning("Tentativa de acesso bloqueada: API Key inválida ou ausente.")
+    raise HTTPException(
+        status_code=403, detail="Acesso negado: API Key inválida"
+    )
+
 FEATURE_ORDER = [
     "frequencia",
     "nota_media",
@@ -76,10 +90,10 @@ class PredictionOutput(BaseModel):
 def health_check():
     return {"status": "ok", "modelo_carregado": model is not None}
 
-@app.post("/predict", response_model=PredictionOutput)
+@app.post("/predict", response_model=PredictionOutput, dependencies=[Depends(validar_api_key)])
 def predict(aluno: StudentInput):
     """Recebe os dados de um estudante e devolve a previsão de evasão."""
-    logger.info(f"Requisição de predição recebida. Semestre: {aluno.semestre}, Idade: {aluno.idade}")
+    logger.info(f"Requisição de predição autorizada. Semestre: {aluno.semestre}, Idade: {aluno.idade}")
     
     if model is None:
         logger.error("Tentativa de predição falhou: Modelo não está carregado.")
