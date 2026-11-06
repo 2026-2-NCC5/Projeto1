@@ -60,7 +60,7 @@ Com o objetivo de tornar o atendimento mais ágil, consistente e proativo, este 
 
 ```mermaid
 flowchart TD
-    subgraph Mobile ["App_ArregASA (React Native / Expo)"]
+    subgraph Mobile ["ASA_Mobile (React Native / Expo)"]
         M_Aluno["Perfil Aluno\n(Chat IA, Requerimentos, Senhas, Mural)"]
         M_Func["Perfil Funcionário\n(Consulta de Risco, CAA, Perfil 360°)"]
     end
@@ -103,7 +103,7 @@ flowchart TD
 
 ## 🗄 Modelagem do Banco de Dados (Supabase PostgreSQL)
 
-A base de dados é unificada entre o aplicativo mobile (`App_ArregASA`) e o painel web (`ASA_WEB`), estruturada em PostgreSQL com Row Level Security (RLS) e publicações Realtime ativas.
+A base de dados é unificada entre o aplicativo mobile (`ASA_Mobile`) e o painel web (`ASA_WEB`), estruturada em PostgreSQL com Row Level Security (RLS) e publicações Realtime ativas.
 
 ### Diagrama Entidade-Relacionamento
 
@@ -272,7 +272,7 @@ O repositório <a href="https://asa-web-zeta.vercel.app/">`ASA_WEB`</a> provê o
 ### 1. Repositório Mobile & Backend (`ASA_Mobile`)
 
 ```text
-App_ArregASA/
+ASA_Mobile/
 ├── assets/                     # Ícones e splash screen do aplicativo
 ├── backend/                    # Servidor FastAPI e Inteligência Artificial
 │   ├── base_alunos/            # Planilhas institucionais reais (Matrículas, Financeiro, Histórico, etc.)
