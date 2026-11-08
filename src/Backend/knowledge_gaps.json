@@ -1,0 +1,20 @@
+[
+  {
+    "timestamp": "2026-11-04T15:04:14.977642",
+    "pergunta": "Qual o nome do gerente da cantina e o WhatsApp particular dele para encomendar lanches?",
+    "categoria": "Campus / Alimentação e Serviços de Terceiros",
+    "motivo": "informacao_nao_consta_no_acervo",
+    "resposta_resumo": "Olá! Como SISA, assistente virtual da FECAP, preciso esclarecer que **não possuo informações sobre o nome do gerente da cantina nem sobre números de WhatsApp particulares de funcionários**.\n\nEsses dados não constam nos documentos oficiais institucion",
+    "status": "pendente_de_documentacao",
+    "acao_sugerida": "Verificar necessidade de incluir FAQ ou instrução formal sobre 'Campus / Alimentação e Serviços de Terceiros' no acervo."
+  },
+  {
+    "timestamp": "2026-11-04T15:06:24.599053",
+    "pergunta": "Você pode me passar a chave Pix da FECAP para eu pagar minha mensalidade por aqui?",
+    "categoria": "Geral / Procedimento Não Documentado",
+    "motivo": "informacao_nao_consta_no_acervo",
+    "resposta_resumo": "Olá! Como SISA, assistente virtual da FECAP, meu objetivo é orientá-lo com base nos documentos oficiais e regulamentos institucionais disponíveis.\n\nNo entanto, **não possuo em minha base de conhecimento oficial a chave Pix específica** para pagamento",
+    "status": "pendente_de_documentacao",
+    "acao_sugerida": "Verificar necessidade de incluir FAQ ou instrução formal sobre 'Geral / Procedimento Não Documentado' no acervo."
+  }
+]

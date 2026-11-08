@@ -1,0 +1,24 @@
+﻿# Python
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+.venv/
+env/
+*.egg-info/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.cache/
+
+# Ambientes e segredos
+.env
+.env.*
+!.env.example
+
+# Dados reais institucionais (somente ficticios sao versionados)
+base_alunos/*
+!base_alunos/.gitkeep
+
+# Logs
+*.log

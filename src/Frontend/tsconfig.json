@@ -1,0 +1,23 @@
+{
+  "extends": "expo/tsconfig.base",
+  "compilerOptions": {
+    "strict": true,
+    "skipLibCheck": true,
+    "types": [
+      "node"
+    ]
+  },
+  "include": [
+    "src/**/*",
+    "App.tsx",
+    "index.ts",
+    "declarations.d.ts"
+  ],
+  "exclude": [
+    "node_modules",
+    "backend",
+    "supabase",
+    "dist",
+    "src/services/ai-agent/data/*.json"
+  ]
+}

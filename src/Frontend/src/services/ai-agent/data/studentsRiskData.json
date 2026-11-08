@@ -1,0 +1,4745 @@
+[
+  {
+    "id": "9b49676d-c8ca-48f6-a131-669599cd90f3",
+    "name": "Amanda Rocha Barbosa (ID 0454)",
+    "ra": "10454",
+    "course": "MBA em Gestão de Riscos e Compliance (PIN)",
+    "semester": "1º Semestre",
+    "turno": "Noite",
+    "status_academico": "Evasão",
+    "category": "Verde",
+    "overallRiskScore": 17,
+    "temporalTrend": "Melhorando",
+    "trendVariation": "-8%",
+    "historyScores": [
+      {
+        "month": "Jun",
+        "score": 13
+      },
+      {
+        "month": "Jul",
+        "score": 15
+      },
+      {
+        "month": "Ago",
+        "score": 17
+      }
+    ],
+    "dimensions": {
+      "financeira": {
+        "score": 10,
+        "status": "Regular",
+        "detail": "Mensalidades em dia sem pendências ativas."
+      },
+      "academica": {
+        "score": 20,
+        "status": "Excelente",
+        "detail": "CR 7.2, 0 DP(s) e 10% de faltas registradas."
+      },
+      "relacionamento": {
+        "score": 20,
+        "status": "Estável",
+        "detail": "0 atendimentos registrados na CAA."
+      },
+      "geografica": {
+        "score": 25,
+        "status": "Acesso Normal",
+        "detail": "Residência em região de fácil acesso ao campus FECAP."
+      }
+    },
+    "explanation": "Estudante com status de Evasão cadastrado no sistema acadêmico. Estudante com baixo risco de evasão, bom engajamento institucional e situação financeira regular.",
+    "recommendation": "Orientar sobre programas de reingresso, destrancamento e renegociação em caso de contato do discente."
+  },
+  {
+    "id": "a2250e06-9571-487a-8901-19501b13e27b",
+    "name": "Amanda Rocha Barbosa (ID 2597)",
+    "ra": "2597",
+    "course": "Controladoria - Modalidade EAD - (LIB)",
+    "semester": "1º Semestre",
+    "turno": "Noite",
+    "status_academico": "Evasão",
+    "category": "Verde",
+    "overallRiskScore": 29,
+    "temporalTrend": "Melhorando",
+    "trendVariation": "-8%",
+    "historyScores": [
+      {
+        "month": "Jun",
+        "score": 25
+      },
+      {
+        "month": "Jul",
+        "score": 27
+      },
+      {
+        "month": "Ago",
+        "score": 29
+      }
+    ],
+    "dimensions": {
+      "financeira": {
+        "score": 10,
+        "status": "Regular",
+        "detail": "Mensalidades em dia sem pendências ativas."
+      },
+      "academica": {
+        "score": 20,
+        "status": "Excelente",
+        "detail": "CR 7.2, 0 DP(s) e 10% de faltas registradas."
+      },
+      "relacionamento": {
+        "score": 20,
+        "status": "Estável",
+        "detail": "0 atendimentos registrados na CAA."
+      },
+      "geografica": {
+        "score": 25,
+        "status": "Acesso Normal",
+        "detail": "Residência em região de fácil acesso ao campus FECAP."
+      }
+    },
+    "explanation": "Estudante com status de Evasão cadastrado no sistema acadêmico. Estudante com baixo risco de evasão, bom engajamento institucional e situação financeira regular.",
+    "recommendation": "Orientar sobre programas de reingresso, destrancamento e renegociação em caso de contato do discente."
+  },
+  {
+    "id": "67e49a79-78a5-468f-bc46-8f75b4042e59",
+    "name": "Amanda Rocha Barbosa (ID 2912)",
+    "ra": "12912",
+    "course": "Mestrado em Ciências Contábeis",
+    "semester": "1º Semestre",
+    "turno": "Noite",
+    "status_academico": "Evasão",
+    "category": "Amarelo",
+    "overallRiskScore": 55,
+    "temporalTrend": "Estável",
+    "trendVariation": "±2%",
+    "historyScores": [
+      {
+        "month": "Jun",
+        "score": 51
+      },
+      {
+        "month": "Jul",
+        "score": 53
+      },
+      {
+        "month": "Ago",
+        "score": 55
+      }
+    ],
+    "dimensions": {
+      "financeira": {
+        "score": 10,
+        "status": "Regular",
+        "detail": "Mensalidades em dia sem pendências ativas."
+      },
+      "academica": {
+        "score": 20,
+        "status": "Excelente",
+        "detail": "CR 7.2, 0 DP(s) e 10% de faltas registradas."
+      },
+      "relacionamento": {
+        "score": 20,
+        "status": "Estável",
+        "detail": "0 atendimentos registrados na CAA."
+      },
+      "geografica": {
+        "score": 25,
+        "status": "Acesso Normal",
+        "detail": "Residência em região de fácil acesso ao campus FECAP."
+      }
+    },
+    "explanation": "Estudante com status de Evasão cadastrado no sistema acadêmico. Alerta preventivo de retenção em Mestrado em Ciências Contábeis; requer monitoramento de notas e assiduidade.",
+    "recommendation": "Orientar sobre programas de reingresso, destrancamento e renegociação em caso de contato do discente."
+  },
+  {
+    "id": "f1448fe5-0462-40ab-a07f-7251929183af",
+    "name": "Amanda Rocha Barbosa (ID 4655)",
+    "ra": "4655",
+    "course": "Gestão de Compras e Suprimentos - Modalidade EAD (LIB)",
+    "semester": "1º Semestre",
+    "turno": "Noite",
+    "status_academico": "Formado",
+    "category": "Verde",
+    "overallRiskScore": 21,
+    "temporalTrend": "Melhorando",
+    "trendVariation": "-8%",
+    "historyScores": [
+      {
+        "month": "Jun",
+        "score": 17
+      },
+      {
+        "month": "Jul",
+        "score": 19
+      },
+      {
+        "month": "Ago",
+        "score": 21
+      }
+    ],
+    "dimensions": {
+      "financeira": {
+        "score": 10,
+        "status": "Regular",
+        "detail": "Mensalidades em dia sem pendências ativas."
+      },
+      "academica": {
+        "score": 20,
+        "status": "Excelente",
+        "detail": "CR 7.2, 0 DP(s) e 10% de faltas registradas."
+      },
+      "relacionamento": {
+        "score": 20,
+        "status": "Estável",
+        "detail": "0 atendimentos registrados na CAA."
+      },
+      "geografica": {
+        "score": 25,
+        "status": "Acesso Normal",
+        "detail": "Residência em região de fácil acesso ao campus FECAP."
+      }
+    },
+    "explanation": "Estudante com curso concluído (Formado). Estudante com baixo risco de evasão, bom engajamento institucional e situação financeira regular.",
+    "recommendation": "Convidar para rede de ex-alunos Alvaristas e programas de pós-graduação/especialização FECAP."
+  },
+  {
+    "id": "113fc040-b66f-4160-8c61-fe1ba25641f1",
+    "name": "Amanda Rocha Barbosa (ID 5296)",
+    "ra": "5296",
+    "course": "Mestrado Profissional em Administração",
+    "semester": "1º Semestre",
+    "turno": "Noite",
+    "status_academico": "Formado",
+    "category": "Amarelo",
+    "overallRiskScore": 40,
+    "temporalTrend": "Estável",
+    "trendVariation": "±2%",
+    "historyScores": [
+      {
+        "month": "Jun",
+        "score": 36
+      },
+      {
+        "month": "Jul",
+        "score": 38
+      },
+      {
+        "month": "Ago",
+        "score": 40
+      }
+    ],
+    "dimensions": {
+      "financeira": {
+        "score": 10,
+        "status": "Regular",
+        "detail": "Mensalidades em dia sem pendências ativas."
+      },
+      "academica": {
+        "score": 20,
+        "status": "Excelente",
+        "detail": "CR 7.2, 0 DP(s) e 10% de faltas registradas."
+      },
+      "relacionamento": {
+        "score": 20,
+        "status": "Estável",
+        "detail": "0 atendimentos registrados na CAA."
+      },
+      "geografica": {
+        "score": 75,
+        "status": "Distância Elevada",
+        "detail": "Deslocamento de alta distância ao campus Liberdade."
+      }
+    },
+    "explanation": "Estudante com curso concluído (Formado). Alerta preventivo de retenção em Mestrado Profissional em Administração; requer monitoramento de notas e assiduidade.",
+    "recommendation": "Convidar para rede de ex-alunos Alvaristas e programas de pós-graduação/especialização FECAP."
+  },
+  {
+    "id": "cd056850-ab9d-4d73-87e5-dce8e791c164",
+    "name": "Amanda Rocha Barbosa (ID 7013)",
+    "ra": "17013",
+    "course": "Graduação em Ciências Contábeis para Graduados - Modalidade Híbrida",
+    "semester": "1º Semestre",
+    "turno": "Integral",
+    "status_academico": "Matriculado",
+    "category": "Verde",
+    "overallRiskScore": 22,
+    "temporalTrend": "Melhorando",
+    "trendVariation": "-8%",
+    "historyScores": [
+      {
+        "month": "Jun",
+        "score": 18
+      },
+      {
+        "month": "Jul",
+        "score": 20
+      },
+      {
+        "month": "Ago",
+        "score": 22
+      }
+    ],
+    "dimensions": {
+      "financeira": {
+        "score": 10,
+        "status": "Regular",
+        "detail": "Mensalidades em dia sem pendências ativas."
+      },
+      "academica": {
+        "score": 20,
+        "status": "Excelente",
+        "detail": "CR 7.2, 0 DP(s) e 10% de faltas registradas."
+      },
+      "relacionamento": {
+        "score": 20,
+        "status": "Estável",
+        "detail": "0 atendimentos registrados na CAA."
+      },
+      "geografica": {
+        "score": 25,
+        "status": "Acesso Normal",
+        "detail": "Residência em região de fácil acesso ao campus FECAP."
+      }
+    },
+    "explanation": "Estudante com baixo risco de evasão, bom engajamento institucional e situação financeira regular.",
+    "recommendation": "Manter acompanhamento de rotina e incentivar programas de iniciação científica ou estágio."
+  },
+  {
+    "id": "1c862769-6f53-4e9a-95a5-be9014834c2f",
+    "name": "Beatriz Vasconcelos (ID 1879)",
+    "ra": "11879",
+    "course": "Controladoria - Modalidade EAD - (LIB)",
+    "semester": "1º Semestre",
+    "turno": "Noite",
+    "status_academico": "Formado",
+    "category": "Verde",
+    "overallRiskScore": 13,
+    "temporalTrend": "Melhorando",
+    "trendVariation": "-8%",
+    "historyScores": [
+      {
+        "month": "Jun",
+        "score": 10
+      },
+      {
+        "month": "Jul",
+        "score": 11
+      },
+      {
+        "month": "Ago",
+        "score": 13
+      }
+    ],
+    "dimensions": {
+      "financeira": {
+        "score": 10,
+        "status": "Regular",
+        "detail": "Mensalidades em dia sem pendências ativas."
+      },
+      "academica": {
+        "score": 20,
+        "status": "Excelente",
+        "detail": "CR 7.2, 0 DP(s) e 10% de faltas registradas."
+      },
+      "relacionamento": {
+        "score": 50,
+        "status": "Atenção",
+        "detail": "2 atendimentos registrados na CAA."
+      },
+      "geografica": {
+        "score": 25,
+        "status": "Acesso Normal",
+        "detail": "Residência em região de fácil acesso ao campus FECAP."
+      }
+    },
+    "explanation": "Estudante com curso concluído (Formado). Estudante com baixo risco de evasão, bom engajamento institucional e situação financeira regular.",
+    "recommendation": "Convidar para rede de ex-alunos Alvaristas e programas de pós-graduação/especialização FECAP."
+  },
+  {
+    "id": "c3db6b01-1131-4116-a1b7-f25cd3d3cfe9",
+    "name": "Beatriz Vasconcelos (ID 3878)",
+    "ra": "13878",
+    "course": "Mestrado Profissional em Administração",
+    "semester": "1º Semestre",
+    "turno": "Noite",
+    "status_academico": "Matriculado",
+    "category": "Verde",
+    "overallRiskScore": 17,
+    "temporalTrend": "Melhorando",
+    "trendVariation": "-8%",
+    "historyScores": [
+      {
+        "month": "Jun",
+        "score": 13
+      },
+      {
+        "month": "Jul",
+        "score": 15
+      },
+      {
+        "month": "Ago",
+        "score": 17
+      }
+    ],
+    "dimensions": {
+      "financeira": {
+        "score": 10,
+        "status": "Regular",
+        "detail": "Mensalidades em dia sem pendências ativas."
+      },
+      "academica": {
+        "score": 20,
+        "status": "Excelente",
+        "detail": "CR 7.2, 0 DP(s) e 10% de faltas registradas."
+      },
+      "relacionamento": {
+        "score": 20,
+        "status": "Estável",
+        "detail": "0 atendimentos registrados na CAA."
+      },
+      "geografica": {
+        "score": 25,
+        "status": "Acesso Normal",
+        "detail": "Residência em região de fácil acesso ao campus FECAP."
+      }
+    },
+    "explanation": "Estudante com baixo risco de evasão, bom engajamento institucional e situação financeira regular.",
+    "recommendation": "Manter acompanhamento de rotina e incentivar programas de iniciação científica ou estágio."
+  },
+  {
+    "id": "55c5fff1-63fd-40d6-b93d-227b591d0541",
+    "name": "Beatriz Vasconcelos (ID 4259)",
+    "ra": "14259",
+    "course": "Graduação em Ciências Contábeis",
+    "semester": "8º Semestre",
+    "turno": "Manhã",
+    "status_academico": "Matriculado",
+    "category": "Verde",
+    "overallRiskScore": 13,
+    "temporalTrend": "Melhorando",
+    "trendVariation": "-8%",
+    "historyScores": [
+      {
+        "month": "Jun",
+        "score": 10
+      },
+      {
+        "month": "Jul",
+        "score": 11
+      },
+      {
+        "month": "Ago",
+        "score": 13
+      }
+    ],
+    "dimensions": {
+      "financeira": {
+        "score": 10,
+        "status": "Regular",
+        "detail": "Mensalidades em dia sem pendências ativas."
+      },
+      "academica": {
+        "score": 20,
+        "status": "Excelente",
+        "detail": "CR 7.2, 0 DP(s) e 10% de faltas registradas."
+      },
+      "relacionamento": {
+        "score": 35,
+        "status": "Estável",
+        "detail": "1 atendimentos registrados na CAA."
+      },
+      "geografica": {
+        "score": 25,
+        "status": "Acesso Normal",
+        "detail": "Residência em região de fácil acesso ao campus FECAP."
+      }
+    },
+    "explanation": "Estudante com baixo risco de evasão, bom engajamento institucional e situação financeira regular.",
+    "recommendation": "Manter acompanhamento de rotina e incentivar programas de iniciação científica ou estágio."
+  },
+  {
+    "id": "4fd1546f-db2a-4225-b432-6da9423ec6ff",
+    "name": "Beatriz Vasconcelos (ID 435)",
+    "ra": "435",
+    "course": "Graduação em Ciências Contábeis para Graduados - Modalidade Híbrida",
+    "semester": "6º Semestre",
+    "turno": "Integral",
+    "status_academico": "Matriculado",
+    "category": "Verde",
+    "overallRiskScore": 19,
+    "temporalTrend": "Melhorando",
+    "trendVariation": "-8%",
+    "historyScores": [
+      {
+        "month": "Jun",
+        "score": 15
+      },
+      {
+        "month": "Jul",
+        "score": 17
+      },
+      {
+        "month": "Ago",
+        "score": 19
+      }
+    ],
+    "dimensions": {
+      "financeira": {
+        "score": 10,
+        "status": "Regular",
+        "detail": "Mensalidades em dia sem pendências ativas."
+      },
+      "academica": {
+        "score": 20,
+        "status": "Excelente",
+        "detail": "CR 7.2, 0 DP(s) e 10% de faltas registradas."
+      },
+      "relacionamento": {
+        "score": 20,
+        "status": "Estável",
+        "detail": "0 atendimentos registrados na CAA."
+      },
+      "geografica": {
+        "score": 25,
+        "status": "Acesso Normal",
+        "detail": "Residência em região de fácil acesso ao campus FECAP."
+      }
+    },
+    "explanation": "Estudante com baixo risco de evasão, bom engajamento institucional e situação financeira regular.",
+    "recommendation": "Manter acompanhamento de rotina e incentivar programas de iniciação científica ou estágio."
+  },
+  {
+    "id": "e48a81af-9ada-40a8-bb3a-86d8989dd437",
+    "name": "Beatriz Vasconcelos (ID 5983)",
+    "ra": "5983",
+    "course": "Mestrado em Ciências Contábeis",
+    "semester": "1º Semestre",
+    "turno": "Noite",
+    "status_academico": "Formado",
+    "category": "Amarelo",
+    "overallRiskScore": 40,
+    "temporalTrend": "Estável",
+    "trendVariation": "±2%",
+    "historyScores": [
+      {
+        "month": "Jun",
+        "score": 36
+      },
+      {
+        "month": "Jul",
+        "score": 38
+      },
+      {
+        "month": "Ago",
+        "score": 40
+      }
+    ],
+    "dimensions": {
+      "financeira": {
+        "score": 10,
+        "status": "Regular",
+        "detail": "Mensalidades em dia sem pendências ativas."
+      },
+      "academica": {
+        "score": 20,
+        "status": "Excelente",
+        "detail": "CR 7.2, 0 DP(s) e 10% de faltas registradas."
+      },
+      "relacionamento": {
+        "score": 20,
+        "status": "Estável",
+        "detail": "0 atendimentos registrados na CAA."
+      },
+      "geografica": {
+        "score": 25,
+        "status": "Acesso Normal",
+        "detail": "Residência em região de fácil acesso ao campus FECAP."
+      }
+    },
+    "explanation": "Estudante com curso concluído (Formado). Alerta preventivo de retenção em Mestrado em Ciências Contábeis; requer monitoramento de notas e assiduidade.",
+    "recommendation": "Convidar para rede de ex-alunos Alvaristas e programas de pós-graduação/especialização FECAP."
+  },
+  {
+    "id": "cbc8dd45-acc9-449e-b02f-1a353cf1ff88",
+    "name": "Beatriz Vasconcelos (ID 6367)",
+    "ra": "16367",
+    "course": "Controladoria - Modalidade EAD - (LIB)",
+    "semester": "1º Semestre",
+    "turno": "Noite",
+    "status_academico": "Evasão",
+    "category": "Verde",
+    "overallRiskScore": 22,
+    "temporalTrend": "Melhorando",
+    "trendVariation": "-8%",
+    "historyScores": [
+      {
+        "month": "Jun",
+        "score": 18
+      },
+      {
+        "month": "Jul",
+        "score": 20
+      },
+      {
+        "month": "Ago",
+        "score": 22
+      }
+    ],
+    "dimensions": {
+      "financeira": {
+        "score": 10,
+        "status": "Regular",
+        "detail": "Mensalidades em dia sem pendências ativas."
+      },
+      "academica": {
+        "score": 20,
+        "status": "Excelente",
+        "detail": "CR 7.2, 0 DP(s) e 10% de faltas registradas."
+      },
+      "relacionamento": {
+        "score": 20,
+        "status": "Estável",
+        "detail": "0 atendimentos registrados na CAA."
+      },
+      "geografica": {
+        "score": 25,
+        "status": "Acesso Normal",
+        "detail": "Residência em região de fácil acesso ao campus FECAP."
+      }
+    },
+    "explanation": "Estudante com status de Evasão cadastrado no sistema acadêmico. Estudante com baixo risco de evasão, bom engajamento institucional e situação financeira regular.",
+    "recommendation": "Orientar sobre programas de reingresso, destrancamento e renegociação em caso de contato do discente."
+  },
+  {
+    "id": "29a7a646-3c6a-4dea-b163-eb97fb2f23f8",
+    "name": "Camila Antunes Silva (ID 3258)",
+    "ra": "3258",
+    "course": "Graduação em Ciências Contábeis para Graduados - Modalidade Híbrida",
+    "semester": "5º Semestre",
+    "turno": "Integral",
+    "status_academico": "Matriculado",
+    "category": "Verde",
+    "overallRiskScore": 19,
+    "temporalTrend": "Melhorando",
+    "trendVariation": "-8%",
+    "historyScores": [
+      {
+        "month": "Jun",
+        "score": 15
+      },
+      {
+        "month": "Jul",
+        "score": 17
+      },
+      {
+        "month": "Ago",
+        "score": 19
+      }
+    ],
+    "dimensions": {
+      "financeira": {
+        "score": 10,
+        "status": "Regular",
+        "detail": "Mensalidades em dia sem pendências ativas."
+      },
+      "academica": {
+        "score": 20,
+        "status": "Excelente",
+        "detail": "CR 7.2, 0 DP(s) e 10% de faltas registradas."
+      },
+      "relacionamento": {
+        "score": 35,
+        "status": "Estável",
+        "detail": "1 atendimentos registrados na CAA."
+      },
+      "geografica": {
+        "score": 75,
+        "status": "Distância Elevada",
+        "detail": "Deslocamento de alta distância ao campus Liberdade."
+      }
+    },
+    "explanation": "Estudante com baixo risco de evasão, bom engajamento institucional e situação financeira regular.",
+    "recommendation": "Manter acompanhamento de rotina e incentivar programas de iniciação científica ou estágio."
+  },
+  {
+    "id": "f1f8c71c-9e86-457e-be33-90643dc85847",
+    "name": "Camila Antunes Silva (ID 6749)",
+    "ra": "16749",
+    "course": "Contabilidade Financeira em IFRS e USGAAP (LIB) - EAD",
+    "semester": "1º Semestre",
+    "turno": "Noite",
+    "status_academico": "Matriculado",
+    "category": "Verde",
+    "overallRiskScore": 19,
+    "temporalTrend": "Melhorando",
+    "trendVariation": "-8%",
+    "historyScores": [
+      {
+        "month": "Jun",
+        "score": 15
+      },
+      {
+        "month": "Jul",
+        "score": 17
+      },
+      {
+        "month": "Ago",
+        "score": 19
+      }
+    ],
+    "dimensions": {
+      "financeira": {
+        "score": 10,
+        "status": "Regular",
+        "detail": "Mensalidades em dia sem pendências ativas."
+      },
+      "academica": {
+        "score": 20,
+        "status": "Excelente",
+        "detail": "CR 7.2, 0 DP(s) e 10% de faltas registradas."
+      },
+      "relacionamento": {
+        "score": 20,
+        "status": "Estável",
+        "detail": "0 atendimentos registrados na CAA."
+      },
+      "geografica": {
+        "score": 75,
+        "status": "Distância Elevada",
+        "detail": "Deslocamento de alta distância ao campus Liberdade."
+      }
+    },
+    "explanation": "Estudante com baixo risco de evasão, bom engajamento institucional e situação financeira regular.",
+    "recommendation": "Manter acompanhamento de rotina e incentivar programas de iniciação científica ou estágio."
+  },
+  {
+    "id": "2405d4af-543a-480c-92f6-30b5f28e875f",
+    "name": "Camila Antunes Silva (ID 7820)",
+    "ra": "7820",
+    "course": "Auditoria e Controles Internos - LIVE (LIB)",
+    "semester": "1º Semestre",
+    "turno": "Noite",
+    "status_academico": "Matriculado",
+    "category": "Verde",
+    "overallRiskScore": 19,
+    "temporalTrend": "Melhorando",
+    "trendVariation": "-8%",
+    "historyScores": [
+      {
+        "month": "Jun",
+        "score": 15
+      },
+      {
+        "month": "Jul",
+        "score": 17
+      },
+      {
+        "month": "Ago",
+        "score": 19
+      }
+    ],
+    "dimensions": {
+      "financeira": {
+        "score": 10,
+        "status": "Regular",
+        "detail": "Mensalidades em dia sem pendências ativas."
+      },
+      "academica": {
+        "score": 20,
+        "status": "Excelente",
+        "detail": "CR 7.2, 0 DP(s) e 10% de faltas registradas."
+      },
+      "relacionamento": {
+        "score": 20,
+        "status": "Estável",
+        "detail": "0 atendimentos registrados na CAA."
+      },
+      "geografica": {
+        "score": 75,
+        "status": "Distância Elevada",
+        "detail": "Deslocamento de alta distância ao campus Liberdade."
+      }
+    },
+    "explanation": "Estudante com baixo risco de evasão, bom engajamento institucional e situação financeira regular.",
+    "recommendation": "Manter acompanhamento de rotina e incentivar programas de iniciação científica ou estágio."
+  },
+  {
+    "id": "66ebf091-4c3a-4a07-89d0-e33338a81917",
+    "name": "Carolina Mendes de Oliveira (ID 1033)",
+    "ra": "11033",
+    "course": "Mestrado Profissional em Administração",
+    "semester": "1º Semestre",
+    "turno": "Noite",
+    "status_academico": "Matriculado",
+    "category": "Amarelo",
+    "overallRiskScore": 40,
+    "temporalTrend": "Estável",
+    "trendVariation": "±2%",
+    "historyScores": [
+      {
+        "month": "Jun",
+        "score": 36
+      },
+      {
+        "month": "Jul",
+        "score": 38
+      },
+      {
+        "month": "Ago",
+        "score": 40
+      }
+    ],
+    "dimensions": {
+      "financeira": {
+        "score": 10,
+        "status": "Regular",
+        "detail": "Mensalidades em dia sem pendências ativas."
+      },
+      "academica": {
+        "score": 20,
+        "status": "Excelente",
+        "detail": "CR 7.2, 0 DP(s) e 10% de faltas registradas."
+      },
+      "relacionamento": {
+        "score": 20,
+        "status": "Estável",
+        "detail": "0 atendimentos registrados na CAA."
+      },
+      "geografica": {
+        "score": 75,
+        "status": "Distância Elevada",
+        "detail": "Deslocamento de alta distância ao campus Liberdade."
+      }
+    },
+    "explanation": "Alerta preventivo de retenção em Mestrado Profissional em Administração; requer monitoramento de notas e assiduidade.",
+    "recommendation": "Oferecer apoio pedagógico e renegociação preventiva de mensalidades."
+  },
+  {
+    "id": "10e3153c-f6ff-4f9e-b679-070ecc89e55a",
+    "name": "Carolina Mendes de Oliveira (ID 2588)",
+    "ra": "12588",
+    "course": "Mestrado em Ciências Contábeis",
+    "semester": "1º Semestre",
+    "turno": "Noite",
+    "status_academico": "Formado",
+    "category": "Verde",
+    "overallRiskScore": 13,
+    "temporalTrend": "Melhorando",
+    "trendVariation": "-8%",
+    "historyScores": [
+      {
+        "month": "Jun",
+        "score": 10
+      },
+      {
+        "month": "Jul",
+        "score": 11
+      },
+      {
+        "month": "Ago",
+        "score": 13
+      }
+    ],
+    "dimensions": {
+      "financeira": {
+        "score": 10,
+        "status": "Regular",
+        "detail": "Mensalidades em dia sem pendências ativas."
+      },
+      "academica": {
+        "score": 20,
+        "status": "Excelente",
+        "detail": "CR 7.2, 0 DP(s) e 10% de faltas registradas."
+      },
+      "relacionamento": {
+        "score": 20,
+        "status": "Estável",
+        "detail": "0 atendimentos registrados na CAA."
+      },
+      "geografica": {
+        "score": 25,
+        "status": "Acesso Normal",
+        "detail": "Residência em região de fácil acesso ao campus FECAP."
+      }
+    },
+    "explanation": "Estudante com curso concluído (Formado). Estudante com baixo risco de evasão, bom engajamento institucional e situação financeira regular.",
+    "recommendation": "Convidar para rede de ex-alunos Alvaristas e programas de pós-graduação/especialização FECAP."
+  },
+  {
+    "id": "0ca8c717-f404-43c7-8cca-eb702b931f57",
+    "name": "Carolina Mendes de Oliveira (ID 3844)",
+    "ra": "13844",
+    "course": "Mestrado Profissional em Administração",
+    "semester": "2º Semestre",
+    "turno": "Noite",
+    "status_academico": "Matriculado",
+    "category": "Verde",
+    "overallRiskScore": 30,
+    "temporalTrend": "Melhorando",
+    "trendVariation": "-8%",
+    "historyScores": [
+      {
+        "month": "Jun",
+        "score": 26
+      },
+      {
+        "month": "Jul",
+        "score": 28
+      },
+      {
+        "month": "Ago",
+        "score": 30
+      }
+    ],
+    "dimensions": {
+      "financeira": {
+        "score": 10,
+        "status": "Regular",
+        "detail": "Mensalidades em dia sem pendências ativas."
+      },
+      "academica": {
+        "score": 20,
+        "status": "Excelente",
+        "detail": "CR 7.2, 0 DP(s) e 10% de faltas registradas."
+      },
+      "relacionamento": {
+        "score": 20,
+        "status": "Estável",
+        "detail": "0 atendimentos registrados na CAA."
+      },
+      "geografica": {
+        "score": 25,
+        "status": "Acesso Normal",
+        "detail": "Residência em região de fácil acesso ao campus FECAP."
+      }
+    },
+    "explanation": "Estudante com baixo risco de evasão, bom engajamento institucional e situação financeira regular.",
+    "recommendation": "Manter acompanhamento de rotina e incentivar programas de iniciação científica ou estágio."
+  },
+  {
+    "id": "c0fdbf62-694a-4ba8-80e9-ab0c1a4896ef",
+    "name": "Carolina Mendes de Oliveira (ID 7439)",
+    "ra": "7439",
+    "course": "Gestão Tributária - Semi Presencial (LIB)",
+    "semester": "1º Semestre",
+    "turno": "Noite",
+    "status_academico": "Matriculado",
+    "category": "Verde",
+    "overallRiskScore": 35,
+    "temporalTrend": "Melhorando",
+    "trendVariation": "-8%",
+    "historyScores": [
+      {
+        "month": "Jun",
+        "score": 31
+      },
+      {
+        "month": "Jul",
+        "score": 33
+      },
+      {
+        "month": "Ago",
+        "score": 35
+      }
+    ],
+    "dimensions": {
+      "financeira": {
+        "score": 10,
+        "status": "Regular",
+        "detail": "Mensalidades em dia sem pendências ativas."
+      },
+      "academica": {
+        "score": 20,
+        "status": "Excelente",
+        "detail": "CR 7.2, 0 DP(s) e 10% de faltas registradas."
+      },
+      "relacionamento": {
+        "score": 20,
+        "status": "Estável",
+        "detail": "0 atendimentos registrados na CAA."
+      },
+      "geografica": {
+        "score": 25,
+        "status": "Acesso Normal",
+        "detail": "Residência em região de fácil acesso ao campus FECAP."
+      }
+    },
+    "explanation": "Estudante com baixo risco de evasão, bom engajamento institucional e situação financeira regular.",
+    "recommendation": "Manter acompanhamento de rotina e incentivar programas de iniciação científica ou estágio."
+  },
+  {
+    "id": "ba6595ef-fe42-4fdb-a9f4-68d12b02ee1a",
+    "name": "Felipe Augusto Morais (ID 1356)",
+    "ra": "11356",
+    "course": "Mestrado Profissional em Administração",
+    "semester": "1º Semestre",
+    "turno": "Noite",
+    "status_academico": "Evasão",
+    "category": "Vermelho",
+    "overallRiskScore": 73,
+    "temporalTrend": "Piorando",
+    "trendVariation": "+15%",
+    "historyScores": [
+      {
+        "month": "Jun",
+        "score": 69
+      },
+      {
+        "month": "Jul",
+        "score": 71
+      },
+      {
+        "month": "Ago",
+        "score": 73
+      }
+    ],
+    "dimensions": {
+      "financeira": {
+        "score": 10,
+        "status": "Regular",
+        "detail": "Mensalidades em dia sem pendências ativas."
+      },
+      "academica": {
+        "score": 20,
+        "status": "Excelente",
+        "detail": "CR 7.2, 0 DP(s) e 10% de faltas registradas."
+      },
+      "relacionamento": {
+        "score": 20,
+        "status": "Estável",
+        "detail": "0 atendimentos registrados na CAA."
+      },
+      "geografica": {
+        "score": 75,
+        "status": "Distância Elevada",
+        "detail": "Deslocamento de alta distância ao campus Liberdade."
+      }
+    },
+    "explanation": "Estudante com status de Evasão cadastrado no sistema acadêmico. Predição de alto risco pelo Random Forest impulsionada por regular no financeiro e CR 7.2.",
+    "recommendation": "Orientar sobre programas de reingresso, destrancamento e renegociação em caso de contato do discente."
+  },
+  {
+    "id": "c97add6d-f3d8-4d18-b189-6af1a434062c",
+    "name": "Felipe Augusto Morais (ID 2543)",
+    "ra": "12543",
+    "course": "Contabilidade Empresarial com IFRS e USGAAP (LIB)",
+    "semester": "1º Semestre",
+    "turno": "Noite",
+    "status_academico": "Matriculado",
+    "category": "Verde",
+    "overallRiskScore": 26,
+    "temporalTrend": "Melhorando",
+    "trendVariation": "-8%",
+    "historyScores": [
+      {
+        "month": "Jun",
+        "score": 22
+      },
+      {
+        "month": "Jul",
+        "score": 24
+      },
+      {
+        "month": "Ago",
+        "score": 26
+      }
+    ],
+    "dimensions": {
+      "financeira": {
+        "score": 10,
+        "status": "Regular",
+        "detail": "Mensalidades em dia sem pendências ativas."
+      },
+      "academica": {
+        "score": 20,
+        "status": "Excelente",
+        "detail": "CR 7.2, 0 DP(s) e 10% de faltas registradas."
+      },
+      "relacionamento": {
+        "score": 20,
+        "status": "Estável",
+        "detail": "0 atendimentos registrados na CAA."
+      },
+      "geografica": {
+        "score": 25,
+        "status": "Acesso Normal",
+        "detail": "Residência em região de fácil acesso ao campus FECAP."
+      }
+    },
+    "explanation": "Estudante com baixo risco de evasão, bom engajamento institucional e situação financeira regular.",
+    "recommendation": "Manter acompanhamento de rotina e incentivar programas de iniciação científica ou estágio."
+  },
+  {
+    "id": "2bdeb5c0-e0d7-47da-9a4d-8d9b4debefa1",
+    "name": "Felipe Augusto Morais (ID 2559)",
+    "ra": "2559",
+    "course": "Mestrado Profissional em Administração",
+    "semester": "1º Semestre",
+    "turno": "Noite",
+    "status_academico": "Matriculado",
+    "category": "Verde",
+    "overallRiskScore": 23,
+    "temporalTrend": "Melhorando",
+    "trendVariation": "-8%",
+    "historyScores": [
+      {
+        "month": "Jun",
+        "score": 19
+      },
+      {
+        "month": "Jul",
+        "score": 21
+      },
+      {
+        "month": "Ago",
+        "score": 23
+      }
+    ],
+    "dimensions": {
+      "financeira": {
+        "score": 10,
+        "status": "Regular",
+        "detail": "Mensalidades em dia sem pendências ativas."
+      },
+      "academica": {
+        "score": 20,
+        "status": "Excelente",
+        "detail": "CR 7.2, 0 DP(s) e 10% de faltas registradas."
+      },
+      "relacionamento": {
+        "score": 20,
+        "status": "Estável",
+        "detail": "0 atendimentos registrados na CAA."
+      },
+      "geografica": {
+        "score": 25,
+        "status": "Acesso Normal",
+        "detail": "Residência em região de fácil acesso ao campus FECAP."
+      }
+    },
+    "explanation": "Estudante com baixo risco de evasão, bom engajamento institucional e situação financeira regular.",
+    "recommendation": "Manter acompanhamento de rotina e incentivar programas de iniciação científica ou estágio."
+  },
+  {
+    "id": "2c2db6db-81a2-46da-bb0b-5a8d0c8acfbd",
+    "name": "Felipe Augusto Morais (ID 2949)",
+    "ra": "12949",
+    "course": "Data Science e Analytics Aplicado a Finanças - Flexível",
+    "semester": "1º Semestre",
+    "turno": "Noite",
+    "status_academico": "Matriculado",
+    "category": "Verde",
+    "overallRiskScore": 17,
+    "temporalTrend": "Melhorando",
+    "trendVariation": "-8%",
+    "historyScores": [
+      {
+        "month": "Jun",
+        "score": 13
+      },
+      {
+        "month": "Jul",
+        "score": 15
+      },
+      {
+        "month": "Ago",
+        "score": 17
+      }
+    ],
+    "dimensions": {
+      "financeira": {
+        "score": 10,
+        "status": "Regular",
+        "detail": "Mensalidades em dia sem pendências ativas."
+      },
+      "academica": {
+        "score": 20,
+        "status": "Excelente",
+        "detail": "CR 7.2, 0 DP(s) e 10% de faltas registradas."
+      },
+      "relacionamento": {
+        "score": 20,
+        "status": "Estável",
+        "detail": "0 atendimentos registrados na CAA."
+      },
+      "geografica": {
+        "score": 25,
+        "status": "Acesso Normal",
+        "detail": "Residência em região de fácil acesso ao campus FECAP."
+      }
+    },
+    "explanation": "Estudante com baixo risco de evasão, bom engajamento institucional e situação financeira regular.",
+    "recommendation": "Manter acompanhamento de rotina e incentivar programas de iniciação científica ou estágio."
+  },
+  {
+    "id": "8a4b5974-dea0-45f4-aac9-c7719b6cd524",
+    "name": "Felipe Augusto Morais (ID 3058)",
+    "ra": "3058",
+    "course": "Graduação em Ciências Contábeis para Graduados",
+    "semester": "8º Semestre",
+    "turno": "Manhã",
+    "status_academico": "Formado",
+    "category": "Verde",
+    "overallRiskScore": 14,
+    "temporalTrend": "Melhorando",
+    "trendVariation": "-8%",
+    "historyScores": [
+      {
+        "month": "Jun",
+        "score": 10
+      },
+      {
+        "month": "Jul",
+        "score": 12
+      },
+      {
+        "month": "Ago",
+        "score": 14
+      }
+    ],
+    "dimensions": {
+      "financeira": {
+        "score": 10,
+        "status": "Regular",
+        "detail": "Mensalidades em dia sem pendências ativas."
+      },
+      "academica": {
+        "score": 26,
+        "status": "Excelente",
+        "detail": "CR 8.3, 0 DP(s) e 40% de faltas registradas."
+      },
+      "relacionamento": {
+        "score": 35,
+        "status": "Estável",
+        "detail": "1 atendimentos registrados na CAA."
+      },
+      "geografica": {
+        "score": 25,
+        "status": "Acesso Normal",
+        "detail": "Residência em região de fácil acesso ao campus FECAP."
+      }
+    },
+    "explanation": "Estudante com curso concluído (Formado). Estudante com baixo risco de evasão, bom engajamento institucional e situação financeira regular.",
+    "recommendation": "Convidar para rede de ex-alunos Alvaristas e programas de pós-graduação/especialização FECAP."
+  },
+  {
+    "id": "5b4d5683-746b-4c46-8f6a-6a33d7623151",
+    "name": "Felipe Augusto Morais (ID 4178)",
+    "ra": "14178",
+    "course": "Curso Superior de Tecnologia em Análise e Desenvolvimento de Sistemas",
+    "semester": "2º Semestre",
+    "turno": "Manhã",
+    "status_academico": "Matriculado",
+    "category": "Verde",
+    "overallRiskScore": 19,
+    "temporalTrend": "Melhorando",
+    "trendVariation": "-8%",
+    "historyScores": [
+      {
+        "month": "Jun",
+        "score": 15
+      },
+      {
+        "month": "Jul",
+        "score": 17
+      },
+      {
+        "month": "Ago",
+        "score": 19
+      }
+    ],
+    "dimensions": {
+      "financeira": {
+        "score": 10,
+        "status": "Regular",
+        "detail": "Mensalidades em dia sem pendências ativas."
+      },
+      "academica": {
+        "score": 20,
+        "status": "Excelente",
+        "detail": "CR 7.2, 0 DP(s) e 10% de faltas registradas."
+      },
+      "relacionamento": {
+        "score": 20,
+        "status": "Estável",
+        "detail": "0 atendimentos registrados na CAA."
+      },
+      "geografica": {
+        "score": 25,
+        "status": "Acesso Normal",
+        "detail": "Residência em região de fácil acesso ao campus FECAP."
+      }
+    },
+    "explanation": "Estudante com baixo risco de evasão, bom engajamento institucional e situação financeira regular.",
+    "recommendation": "Manter acompanhamento de rotina e incentivar programas de iniciação científica ou estágio."
+  },
+  {
+    "id": "1bededd3-5a31-421f-a396-3f9259a74cb0",
+    "name": "Felipe Augusto Morais (ID 479)",
+    "ra": "479",
+    "course": "Mestrado em Ciências Contábeis",
+    "semester": "1º Semestre",
+    "turno": "Noite",
+    "status_academico": "Matriculado",
+    "category": "Verde",
+    "overallRiskScore": 21,
+    "temporalTrend": "Melhorando",
+    "trendVariation": "-8%",
+    "historyScores": [
+      {
+        "month": "Jun",
+        "score": 17
+      },
+      {
+        "month": "Jul",
+        "score": 19
+      },
+      {
+        "month": "Ago",
+        "score": 21
+      }
+    ],
+    "dimensions": {
+      "financeira": {
+        "score": 10,
+        "status": "Regular",
+        "detail": "Mensalidades em dia sem pendências ativas."
+      },
+      "academica": {
+        "score": 20,
+        "status": "Excelente",
+        "detail": "CR 7.2, 0 DP(s) e 10% de faltas registradas."
+      },
+      "relacionamento": {
+        "score": 20,
+        "status": "Estável",
+        "detail": "0 atendimentos registrados na CAA."
+      },
+      "geografica": {
+        "score": 25,
+        "status": "Acesso Normal",
+        "detail": "Residência em região de fácil acesso ao campus FECAP."
+      }
+    },
+    "explanation": "Estudante com baixo risco de evasão, bom engajamento institucional e situação financeira regular.",
+    "recommendation": "Manter acompanhamento de rotina e incentivar programas de iniciação científica ou estágio."
+  },
+  {
+    "id": "b0f1c0d6-257a-4848-a9c4-1bd158a63218",
+    "name": "Felipe Augusto Morais (ID 5449)",
+    "ra": "15449",
+    "course": "Graduação em Ciências Contábeis para Graduados - Modalidade Híbrida",
+    "semester": "5º Semestre",
+    "turno": "Integral",
+    "status_academico": "Matriculado",
+    "category": "Verde",
+    "overallRiskScore": 17,
+    "temporalTrend": "Melhorando",
+    "trendVariation": "-8%",
+    "historyScores": [
+      {
+        "month": "Jun",
+        "score": 13
+      },
+      {
+        "month": "Jul",
+        "score": 15
+      },
+      {
+        "month": "Ago",
+        "score": 17
+      }
+    ],
+    "dimensions": {
+      "financeira": {
+        "score": 10,
+        "status": "Regular",
+        "detail": "Mensalidades em dia sem pendências ativas."
+      },
+      "academica": {
+        "score": 20,
+        "status": "Excelente",
+        "detail": "CR 7.2, 0 DP(s) e 10% de faltas registradas."
+      },
+      "relacionamento": {
+        "score": 35,
+        "status": "Estável",
+        "detail": "1 atendimentos registrados na CAA."
+      },
+      "geografica": {
+        "score": 75,
+        "status": "Distância Elevada",
+        "detail": "Deslocamento de alta distância ao campus Liberdade."
+      }
+    },
+    "explanation": "Estudante com baixo risco de evasão, bom engajamento institucional e situação financeira regular.",
+    "recommendation": "Manter acompanhamento de rotina e incentivar programas de iniciação científica ou estágio."
+  },
+  {
+    "id": "a7051e2b-4942-41fa-a5d2-09a269172b53",
+    "name": "Felipe Augusto Morais (ID 6510)",
+    "ra": "6510",
+    "course": "Graduação em Ciências Contábeis",
+    "semester": "4º Semestre",
+    "turno": "Manhã",
+    "status_academico": "Matriculado",
+    "category": "Verde",
+    "overallRiskScore": 15,
+    "temporalTrend": "Melhorando",
+    "trendVariation": "-8%",
+    "historyScores": [
+      {
+        "month": "Jun",
+        "score": 11
+      },
+      {
+        "month": "Jul",
+        "score": 13
+      },
+      {
+        "month": "Ago",
+        "score": 15
+      }
+    ],
+    "dimensions": {
+      "financeira": {
+        "score": 10,
+        "status": "Regular",
+        "detail": "Mensalidades em dia sem pendências ativas."
+      },
+      "academica": {
+        "score": 37,
+        "status": "Excelente",
+        "detail": "CR 7.5, 1 DP(s) e 10% de faltas registradas."
+      },
+      "relacionamento": {
+        "score": 20,
+        "status": "Estável",
+        "detail": "0 atendimentos registrados na CAA."
+      },
+      "geografica": {
+        "score": 25,
+        "status": "Acesso Normal",
+        "detail": "Residência em região de fácil acesso ao campus FECAP."
+      }
+    },
+    "explanation": "Estudante com baixo risco de evasão, bom engajamento institucional e situação financeira regular.",
+    "recommendation": "Manter acompanhamento de rotina e incentivar programas de iniciação científica ou estágio."
+  },
+  {
+    "id": "6c9ea6dc-28ed-4357-901b-e4116584dd3a",
+    "name": "Felipe Augusto Morais (ID 7171)",
+    "ra": "7171",
+    "course": "Perícia (LIB)",
+    "semester": "1º Semestre",
+    "turno": "Noite",
+    "status_academico": "Evasão",
+    "category": "Verde",
+    "overallRiskScore": 39,
+    "temporalTrend": "Melhorando",
+    "trendVariation": "-8%",
+    "historyScores": [
+      {
+        "month": "Jun",
+        "score": 35
+      },
+      {
+        "month": "Jul",
+        "score": 37
+      },
+      {
+        "month": "Ago",
+        "score": 39
+      }
+    ],
+    "dimensions": {
+      "financeira": {
+        "score": 10,
+        "status": "Regular",
+        "detail": "Mensalidades em dia sem pendências ativas."
+      },
+      "academica": {
+        "score": 20,
+        "status": "Excelente",
+        "detail": "CR 7.2, 0 DP(s) e 10% de faltas registradas."
+      },
+      "relacionamento": {
+        "score": 20,
+        "status": "Estável",
+        "detail": "0 atendimentos registrados na CAA."
+      },
+      "geografica": {
+        "score": 25,
+        "status": "Acesso Normal",
+        "detail": "Residência em região de fácil acesso ao campus FECAP."
+      }
+    },
+    "explanation": "Estudante com status de Evasão cadastrado no sistema acadêmico. Estudante com baixo risco de evasão, bom engajamento institucional e situação financeira regular.",
+    "recommendation": "Orientar sobre programas de reingresso, destrancamento e renegociação em caso de contato do discente."
+  },
+  {
+    "id": "10ffdaf5-7531-4256-ba51-a5a255063e3c",
+    "name": "Fernanda Lima Duarte (ID 3458)",
+    "ra": "13458",
+    "course": "Auditoria - Modalidade EAD (LIB)",
+    "semester": "1º Semestre",
+    "turno": "Noite",
+    "status_academico": "Formado",
+    "category": "Verde",
+    "overallRiskScore": 30,
+    "temporalTrend": "Melhorando",
+    "trendVariation": "-8%",
+    "historyScores": [
+      {
+        "month": "Jun",
+        "score": 26
+      },
+      {
+        "month": "Jul",
+        "score": 28
+      },
+      {
+        "month": "Ago",
+        "score": 30
+      }
+    ],
+    "dimensions": {
+      "financeira": {
+        "score": 10,
+        "status": "Regular",
+        "detail": "Mensalidades em dia sem pendências ativas."
+      },
+      "academica": {
+        "score": 20,
+        "status": "Excelente",
+        "detail": "CR 7.2, 0 DP(s) e 10% de faltas registradas."
+      },
+      "relacionamento": {
+        "score": 20,
+        "status": "Estável",
+        "detail": "0 atendimentos registrados na CAA."
+      },
+      "geografica": {
+        "score": 25,
+        "status": "Acesso Normal",
+        "detail": "Residência em região de fácil acesso ao campus FECAP."
+      }
+    },
+    "explanation": "Estudante com curso concluído (Formado). Estudante com baixo risco de evasão, bom engajamento institucional e situação financeira regular.",
+    "recommendation": "Convidar para rede de ex-alunos Alvaristas e programas de pós-graduação/especialização FECAP."
+  },
+  {
+    "id": "e8065e6b-5b27-4007-9b53-bb31a6339d28",
+    "name": "Fernanda Lima Duarte (ID 3471)",
+    "ra": "3471",
+    "course": "Controladoria - Modalidade EAD - (LIB)",
+    "semester": "1º Semestre",
+    "turno": "Noite",
+    "status_academico": "Formado",
+    "category": "Verde",
+    "overallRiskScore": 18,
+    "temporalTrend": "Melhorando",
+    "trendVariation": "-8%",
+    "historyScores": [
+      {
+        "month": "Jun",
+        "score": 14
+      },
+      {
+        "month": "Jul",
+        "score": 16
+      },
+      {
+        "month": "Ago",
+        "score": 18
+      }
+    ],
+    "dimensions": {
+      "financeira": {
+        "score": 10,
+        "status": "Regular",
+        "detail": "Mensalidades em dia sem pendências ativas."
+      },
+      "academica": {
+        "score": 20,
+        "status": "Excelente",
+        "detail": "CR 7.2, 0 DP(s) e 10% de faltas registradas."
+      },
+      "relacionamento": {
+        "score": 20,
+        "status": "Estável",
+        "detail": "0 atendimentos registrados na CAA."
+      },
+      "geografica": {
+        "score": 25,
+        "status": "Acesso Normal",
+        "detail": "Residência em região de fácil acesso ao campus FECAP."
+      }
+    },
+    "explanation": "Estudante com curso concluído (Formado). Estudante com baixo risco de evasão, bom engajamento institucional e situação financeira regular.",
+    "recommendation": "Convidar para rede de ex-alunos Alvaristas e programas de pós-graduação/especialização FECAP."
+  },
+  {
+    "id": "d1c5ee09-bf45-4edd-ad89-f48659876bcb",
+    "name": "Fernanda Lima Duarte (ID 4067)",
+    "ra": "4067",
+    "course": "Data Analytics e IA Aplicada a Negócios ",
+    "semester": "1º Semestre",
+    "turno": "Noite",
+    "status_academico": "Matriculado",
+    "category": "Verde",
+    "overallRiskScore": 18,
+    "temporalTrend": "Melhorando",
+    "trendVariation": "-8%",
+    "historyScores": [
+      {
+        "month": "Jun",
+        "score": 14
+      },
+      {
+        "month": "Jul",
+        "score": 16
+      },
+      {
+        "month": "Ago",
+        "score": 18
+      }
+    ],
+    "dimensions": {
+      "financeira": {
+        "score": 10,
+        "status": "Regular",
+        "detail": "Mensalidades em dia sem pendências ativas."
+      },
+      "academica": {
+        "score": 20,
+        "status": "Excelente",
+        "detail": "CR 7.2, 0 DP(s) e 10% de faltas registradas."
+      },
+      "relacionamento": {
+        "score": 20,
+        "status": "Estável",
+        "detail": "0 atendimentos registrados na CAA."
+      },
+      "geografica": {
+        "score": 25,
+        "status": "Acesso Normal",
+        "detail": "Residência em região de fácil acesso ao campus FECAP."
+      }
+    },
+    "explanation": "Estudante com baixo risco de evasão, bom engajamento institucional e situação financeira regular.",
+    "recommendation": "Manter acompanhamento de rotina e incentivar programas de iniciação científica ou estágio."
+  },
+  {
+    "id": "fe4296e4-a3d1-4d92-8654-449e9a74f358",
+    "name": "Fernanda Lima Duarte (ID 4134)",
+    "ra": "14134",
+    "course": "Graduação em Ciências Contábeis para Graduados - Modalidade Híbrida",
+    "semester": "15º Semestre",
+    "turno": "Integral",
+    "status_academico": "Matriculado",
+    "category": "Verde",
+    "overallRiskScore": 12,
+    "temporalTrend": "Melhorando",
+    "trendVariation": "-8%",
+    "historyScores": [
+      {
+        "month": "Jun",
+        "score": 10
+      },
+      {
+        "month": "Jul",
+        "score": 10
+      },
+      {
+        "month": "Ago",
+        "score": 12
+      }
+    ],
+    "dimensions": {
+      "financeira": {
+        "score": 10,
+        "status": "Regular",
+        "detail": "Mensalidades em dia sem pendências ativas."
+      },
+      "academica": {
+        "score": 20,
+        "status": "Excelente",
+        "detail": "CR 7.2, 0 DP(s) e 10% de faltas registradas."
+      },
+      "relacionamento": {
+        "score": 50,
+        "status": "Atenção",
+        "detail": "2 atendimentos registrados na CAA."
+      },
+      "geografica": {
+        "score": 25,
+        "status": "Acesso Normal",
+        "detail": "Residência em região de fácil acesso ao campus FECAP."
+      }
+    },
+    "explanation": "Estudante com baixo risco de evasão, bom engajamento institucional e situação financeira regular.",
+    "recommendation": "Manter acompanhamento de rotina e incentivar programas de iniciação científica ou estágio."
+  },
+  {
+    "id": "927a6e92-4e0d-48fc-9265-ae980c5396fa",
+    "name": "Fernanda Lima Duarte (ID 4209)",
+    "ra": "14209",
+    "course": "Contabilidade Financeira em IFRS e USGAAP (LIB) - EAD",
+    "semester": "1º Semestre",
+    "turno": "Noite",
+    "status_academico": "Formado",
+    "category": "Verde",
+    "overallRiskScore": 16,
+    "temporalTrend": "Melhorando",
+    "trendVariation": "-8%",
+    "historyScores": [
+      {
+        "month": "Jun",
+        "score": 12
+      },
+      {
+        "month": "Jul",
+        "score": 14
+      },
+      {
+        "month": "Ago",
+        "score": 16
+      }
+    ],
+    "dimensions": {
+      "financeira": {
+        "score": 10,
+        "status": "Regular",
+        "detail": "Mensalidades em dia sem pendências ativas."
+      },
+      "academica": {
+        "score": 20,
+        "status": "Excelente",
+        "detail": "CR 7.2, 0 DP(s) e 10% de faltas registradas."
+      },
+      "relacionamento": {
+        "score": 35,
+        "status": "Estável",
+        "detail": "1 atendimentos registrados na CAA."
+      },
+      "geografica": {
+        "score": 25,
+        "status": "Acesso Normal",
+        "detail": "Residência em região de fácil acesso ao campus FECAP."
+      }
+    },
+    "explanation": "Estudante com curso concluído (Formado). Estudante com baixo risco de evasão, bom engajamento institucional e situação financeira regular.",
+    "recommendation": "Convidar para rede de ex-alunos Alvaristas e programas de pós-graduação/especialização FECAP."
+  },
+  {
+    "id": "70013a82-2010-4e4a-88ae-6da00ec9df4b",
+    "name": "Fernanda Lima Duarte (ID 4246)",
+    "ra": "4246",
+    "course": "Graduação em Ciências Contábeis para Graduados - Modalidade Híbrida",
+    "semester": "7º Semestre",
+    "turno": "Integral",
+    "status_academico": "Matriculado",
+    "category": "Verde",
+    "overallRiskScore": 19,
+    "temporalTrend": "Melhorando",
+    "trendVariation": "-8%",
+    "historyScores": [
+      {
+        "month": "Jun",
+        "score": 15
+      },
+      {
+        "month": "Jul",
+        "score": 17
+      },
+      {
+        "month": "Ago",
+        "score": 19
+      }
+    ],
+    "dimensions": {
+      "financeira": {
+        "score": 10,
+        "status": "Regular",
+        "detail": "Mensalidades em dia sem pendências ativas."
+      },
+      "academica": {
+        "score": 20,
+        "status": "Excelente",
+        "detail": "CR 7.2, 0 DP(s) e 10% de faltas registradas."
+      },
+      "relacionamento": {
+        "score": 20,
+        "status": "Estável",
+        "detail": "0 atendimentos registrados na CAA."
+      },
+      "geografica": {
+        "score": 25,
+        "status": "Acesso Normal",
+        "detail": "Residência em região de fácil acesso ao campus FECAP."
+      }
+    },
+    "explanation": "Estudante com baixo risco de evasão, bom engajamento institucional e situação financeira regular.",
+    "recommendation": "Manter acompanhamento de rotina e incentivar programas de iniciação científica ou estágio."
+  },
+  {
+    "id": "7d1ff9a0-c67c-4493-ae57-be604438289c",
+    "name": "Fernanda Lima Duarte (ID 5726)",
+    "ra": "5726",
+    "course": "Graduação em Ciências Contábeis para Graduados - Modalidade Híbrida",
+    "semester": "2º Semestre",
+    "turno": "Integral",
+    "status_academico": "Evasão",
+    "category": "Amarelo",
+    "overallRiskScore": 44,
+    "temporalTrend": "Estável",
+    "trendVariation": "±2%",
+    "historyScores": [
+      {
+        "month": "Jun",
+        "score": 40
+      },
+      {
+        "month": "Jul",
+        "score": 42
+      },
+      {
+        "month": "Ago",
+        "score": 44
+      }
+    ],
+    "dimensions": {
+      "financeira": {
+        "score": 10,
+        "status": "Regular",
+        "detail": "Mensalidades em dia sem pendências ativas."
+      },
+      "academica": {
+        "score": 20,
+        "status": "Excelente",
+        "detail": "CR 7.2, 0 DP(s) e 10% de faltas registradas."
+      },
+      "relacionamento": {
+        "score": 20,
+        "status": "Estável",
+        "detail": "0 atendimentos registrados na CAA."
+      },
+      "geografica": {
+        "score": 25,
+        "status": "Acesso Normal",
+        "detail": "Residência em região de fácil acesso ao campus FECAP."
+      }
+    },
+    "explanation": "Estudante com status de Evasão cadastrado no sistema acadêmico. Alerta preventivo de retenção em Graduação em Ciências Contábeis para Graduados - Modalidade Híbrida; requer monitoramento de notas e assiduidade.",
+    "recommendation": "Orientar sobre programas de reingresso, destrancamento e renegociação em caso de contato do discente."
+  },
+  {
+    "id": "c9323118-0b4b-4604-a936-58b3b49c2e9c",
+    "name": "Fernanda Lima Duarte (ID 63)",
+    "ra": "63",
+    "course": "Gestão Tributária - Flexível",
+    "semester": "1º Semestre",
+    "turno": "Noite",
+    "status_academico": "Matriculado",
+    "category": "Verde",
+    "overallRiskScore": 18,
+    "temporalTrend": "Melhorando",
+    "trendVariation": "-8%",
+    "historyScores": [
+      {
+        "month": "Jun",
+        "score": 14
+      },
+      {
+        "month": "Jul",
+        "score": 16
+      },
+      {
+        "month": "Ago",
+        "score": 18
+      }
+    ],
+    "dimensions": {
+      "financeira": {
+        "score": 10,
+        "status": "Regular",
+        "detail": "Mensalidades em dia sem pendências ativas."
+      },
+      "academica": {
+        "score": 20,
+        "status": "Excelente",
+        "detail": "CR 7.2, 0 DP(s) e 10% de faltas registradas."
+      },
+      "relacionamento": {
+        "score": 20,
+        "status": "Estável",
+        "detail": "0 atendimentos registrados na CAA."
+      },
+      "geografica": {
+        "score": 25,
+        "status": "Acesso Normal",
+        "detail": "Residência em região de fácil acesso ao campus FECAP."
+      }
+    },
+    "explanation": "Estudante com baixo risco de evasão, bom engajamento institucional e situação financeira regular.",
+    "recommendation": "Manter acompanhamento de rotina e incentivar programas de iniciação científica ou estágio."
+  },
+  {
+    "id": "34c013fb-88e1-451c-a7f1-74ea802a7f45",
+    "name": "Fernanda Lima Duarte (ID 6324)",
+    "ra": "16324",
+    "course": "Graduação em Administração",
+    "semester": "8º Semestre",
+    "turno": "Manhã",
+    "status_academico": "Formado",
+    "category": "Verde",
+    "overallRiskScore": 19,
+    "temporalTrend": "Melhorando",
+    "trendVariation": "-8%",
+    "historyScores": [
+      {
+        "month": "Jun",
+        "score": 15
+      },
+      {
+        "month": "Jul",
+        "score": 17
+      },
+      {
+        "month": "Ago",
+        "score": 19
+      }
+    ],
+    "dimensions": {
+      "financeira": {
+        "score": 10,
+        "status": "Regular",
+        "detail": "Mensalidades em dia sem pendências ativas."
+      },
+      "academica": {
+        "score": 22,
+        "status": "Excelente",
+        "detail": "CR 7.0, 0 DP(s) e 10% de faltas registradas."
+      },
+      "relacionamento": {
+        "score": 100,
+        "status": "Alto Risco",
+        "detail": "21 atendimentos registrados na CAA."
+      },
+      "geografica": {
+        "score": 25,
+        "status": "Acesso Normal",
+        "detail": "Residência em região de fácil acesso ao campus FECAP."
+      }
+    },
+    "explanation": "Estudante com curso concluído (Formado). Estudante com baixo risco de evasão, bom engajamento institucional e situação financeira regular.",
+    "recommendation": "Convidar para rede de ex-alunos Alvaristas e programas de pós-graduação/especialização FECAP."
+  },
+  {
+    "id": "8ae921a8-86d0-4f87-8ed5-ba41f26ffefa",
+    "name": "Fernanda Lima Duarte (ID 7815)",
+    "ra": "7815",
+    "course": "Graduação em Administração",
+    "semester": "8º Semestre",
+    "turno": "Manhã",
+    "status_academico": "Evasão",
+    "category": "Verde",
+    "overallRiskScore": 36,
+    "temporalTrend": "Melhorando",
+    "trendVariation": "-8%",
+    "historyScores": [
+      {
+        "month": "Jun",
+        "score": 32
+      },
+      {
+        "month": "Jul",
+        "score": 34
+      },
+      {
+        "month": "Ago",
+        "score": 36
+      }
+    ],
+    "dimensions": {
+      "financeira": {
+        "score": 10,
+        "status": "Regular",
+        "detail": "Mensalidades em dia sem pendências ativas."
+      },
+      "academica": {
+        "score": 20,
+        "status": "Excelente",
+        "detail": "CR 7.2, 0 DP(s) e 10% de faltas registradas."
+      },
+      "relacionamento": {
+        "score": 20,
+        "status": "Estável",
+        "detail": "0 atendimentos registrados na CAA."
+      },
+      "geografica": {
+        "score": 25,
+        "status": "Acesso Normal",
+        "detail": "Residência em região de fácil acesso ao campus FECAP."
+      }
+    },
+    "explanation": "Estudante com status de Evasão cadastrado no sistema acadêmico. Estudante com baixo risco de evasão, bom engajamento institucional e situação financeira regular.",
+    "recommendation": "Orientar sobre programas de reingresso, destrancamento e renegociação em caso de contato do discente."
+  },
+  {
+    "id": "e04c6671-0e01-4591-9f68-170e785928b7",
+    "name": "Gabriel Martins Ribeiro",
+    "ra": "24018932",
+    "course": "Ciência da Computação",
+    "semester": "3º Semestre",
+    "turno": "Noturno",
+    "status_academico": "Matriculado",
+    "category": "Amarelo",
+    "overallRiskScore": 45,
+    "temporalTrend": "Estável",
+    "trendVariation": "±2%",
+    "historyScores": [
+      {
+        "month": "Jun",
+        "score": 41
+      },
+      {
+        "month": "Jul",
+        "score": 43
+      },
+      {
+        "month": "Ago",
+        "score": 45
+      }
+    ],
+    "dimensions": {
+      "financeira": {
+        "score": 100,
+        "status": "Crítico",
+        "detail": "2 mensalidade(s) pendente(s). Débito estimado: R$ 3598.66."
+      },
+      "academica": {
+        "score": 100,
+        "status": "Crítico",
+        "detail": "CR 4.1, 3 DP(s) e 100% de faltas registradas."
+      },
+      "relacionamento": {
+        "score": 35,
+        "status": "Estável",
+        "detail": "1 atendimentos registrados na CAA."
+      },
+      "geografica": {
+        "score": 75,
+        "status": "Distância Elevada",
+        "detail": "Deslocamento de alta distância ao campus Liberdade."
+      }
+    },
+    "explanation": "Alerta preventivo de retenção em Ciência da Computação; requer monitoramento de notas e assiduidade.",
+    "recommendation": "Oferecer apoio pedagógico e renegociação preventiva de mensalidades."
+  },
+  {
+    "id": "67ea7014-e0fc-41ca-9465-7d0cc7d81e04",
+    "name": "Gustavo Paes Leme (ID 1534)",
+    "ra": "1534",
+    "course": "Gestão Tributária (LIB)",
+    "semester": "1º Semestre",
+    "turno": "Noite",
+    "status_academico": "Formado",
+    "category": "Verde",
+    "overallRiskScore": 19,
+    "temporalTrend": "Melhorando",
+    "trendVariation": "-8%",
+    "historyScores": [
+      {
+        "month": "Jun",
+        "score": 15
+      },
+      {
+        "month": "Jul",
+        "score": 17
+      },
+      {
+        "month": "Ago",
+        "score": 19
+      }
+    ],
+    "dimensions": {
+      "financeira": {
+        "score": 10,
+        "status": "Regular",
+        "detail": "Mensalidades em dia sem pendências ativas."
+      },
+      "academica": {
+        "score": 20,
+        "status": "Excelente",
+        "detail": "CR 7.2, 0 DP(s) e 10% de faltas registradas."
+      },
+      "relacionamento": {
+        "score": 20,
+        "status": "Estável",
+        "detail": "0 atendimentos registrados na CAA."
+      },
+      "geografica": {
+        "score": 25,
+        "status": "Acesso Normal",
+        "detail": "Residência em região de fácil acesso ao campus FECAP."
+      }
+    },
+    "explanation": "Estudante com curso concluído (Formado). Estudante com baixo risco de evasão, bom engajamento institucional e situação financeira regular.",
+    "recommendation": "Convidar para rede de ex-alunos Alvaristas e programas de pós-graduação/especialização FECAP."
+  },
+  {
+    "id": "6e5254c9-e272-47f8-b4bb-c8aa3f85c407",
+    "name": "Gustavo Paes Leme (ID 3503)",
+    "ra": "13503",
+    "course": "Controladoria - Modalidade EAD - (LIB)",
+    "semester": "1º Semestre",
+    "turno": "Noite",
+    "status_academico": "Matriculado",
+    "category": "Verde",
+    "overallRiskScore": 26,
+    "temporalTrend": "Melhorando",
+    "trendVariation": "-8%",
+    "historyScores": [
+      {
+        "month": "Jun",
+        "score": 22
+      },
+      {
+        "month": "Jul",
+        "score": 24
+      },
+      {
+        "month": "Ago",
+        "score": 26
+      }
+    ],
+    "dimensions": {
+      "financeira": {
+        "score": 10,
+        "status": "Regular",
+        "detail": "Mensalidades em dia sem pendências ativas."
+      },
+      "academica": {
+        "score": 20,
+        "status": "Excelente",
+        "detail": "CR 7.2, 0 DP(s) e 10% de faltas registradas."
+      },
+      "relacionamento": {
+        "score": 20,
+        "status": "Estável",
+        "detail": "0 atendimentos registrados na CAA."
+      },
+      "geografica": {
+        "score": 25,
+        "status": "Acesso Normal",
+        "detail": "Residência em região de fácil acesso ao campus FECAP."
+      }
+    },
+    "explanation": "Estudante com baixo risco de evasão, bom engajamento institucional e situação financeira regular.",
+    "recommendation": "Manter acompanhamento de rotina e incentivar programas de iniciação científica ou estágio."
+  },
+  {
+    "id": "c700a02f-8981-48ad-a18a-e3f98b202adc",
+    "name": "Gustavo Paes Leme (ID 5273)",
+    "ra": "15273",
+    "course": "Mestrado em Ciências Contábeis",
+    "semester": "1º Semestre",
+    "turno": "Noite",
+    "status_academico": "Matriculado",
+    "category": "Verde",
+    "overallRiskScore": 14,
+    "temporalTrend": "Melhorando",
+    "trendVariation": "-8%",
+    "historyScores": [
+      {
+        "month": "Jun",
+        "score": 10
+      },
+      {
+        "month": "Jul",
+        "score": 12
+      },
+      {
+        "month": "Ago",
+        "score": 14
+      }
+    ],
+    "dimensions": {
+      "financeira": {
+        "score": 10,
+        "status": "Regular",
+        "detail": "Mensalidades em dia sem pendências ativas."
+      },
+      "academica": {
+        "score": 54,
+        "status": "Atenção",
+        "detail": "CR 6.6, 1 DP(s) e 40% de faltas registradas."
+      },
+      "relacionamento": {
+        "score": 20,
+        "status": "Estável",
+        "detail": "0 atendimentos registrados na CAA."
+      },
+      "geografica": {
+        "score": 25,
+        "status": "Acesso Normal",
+        "detail": "Residência em região de fácil acesso ao campus FECAP."
+      }
+    },
+    "explanation": "Estudante com baixo risco de evasão, bom engajamento institucional e situação financeira regular.",
+    "recommendation": "Manter acompanhamento de rotina e incentivar programas de iniciação científica ou estágio."
+  },
+  {
+    "id": "0dae2890-c282-4d24-a5ad-2e37cb856231",
+    "name": "Gustavo Paes Leme (ID 8581)",
+    "ra": "8581",
+    "course": "Curso Aluno Especial (Disciplinas Isoladas)",
+    "semester": "1º Semestre",
+    "turno": "Noite",
+    "status_academico": "Matriculado",
+    "category": "Verde",
+    "overallRiskScore": 13,
+    "temporalTrend": "Melhorando",
+    "trendVariation": "-8%",
+    "historyScores": [
+      {
+        "month": "Jun",
+        "score": 10
+      },
+      {
+        "month": "Jul",
+        "score": 11
+      },
+      {
+        "month": "Ago",
+        "score": 13
+      }
+    ],
+    "dimensions": {
+      "financeira": {
+        "score": 10,
+        "status": "Regular",
+        "detail": "Mensalidades em dia sem pendências ativas."
+      },
+      "academica": {
+        "score": 20,
+        "status": "Excelente",
+        "detail": "CR 7.2, 0 DP(s) e 10% de faltas registradas."
+      },
+      "relacionamento": {
+        "score": 20,
+        "status": "Estável",
+        "detail": "0 atendimentos registrados na CAA."
+      },
+      "geografica": {
+        "score": 25,
+        "status": "Acesso Normal",
+        "detail": "Residência em região de fácil acesso ao campus FECAP."
+      }
+    },
+    "explanation": "Estudante com baixo risco de evasão, bom engajamento institucional e situação financeira regular.",
+    "recommendation": "Manter acompanhamento de rotina e incentivar programas de iniciação científica ou estágio."
+  },
+  {
+    "id": "f549e8fd-39b7-4ddd-b8fa-d6efa1870dc5",
+    "name": "Isabela Neves Borges (ID 5680)",
+    "ra": "5680",
+    "course": "Graduação em Secretariado Executivo",
+    "semester": "5º Semestre",
+    "turno": "Manhã",
+    "status_academico": "Matriculado",
+    "category": "Verde",
+    "overallRiskScore": 16,
+    "temporalTrend": "Melhorando",
+    "trendVariation": "-8%",
+    "historyScores": [
+      {
+        "month": "Jun",
+        "score": 12
+      },
+      {
+        "month": "Jul",
+        "score": 14
+      },
+      {
+        "month": "Ago",
+        "score": 16
+      }
+    ],
+    "dimensions": {
+      "financeira": {
+        "score": 10,
+        "status": "Regular",
+        "detail": "Mensalidades em dia sem pendências ativas."
+      },
+      "academica": {
+        "score": 87,
+        "status": "Crítico",
+        "detail": "CR 6.5, 2 DP(s) e 75% de faltas registradas."
+      },
+      "relacionamento": {
+        "score": 20,
+        "status": "Estável",
+        "detail": "0 atendimentos registrados na CAA."
+      },
+      "geografica": {
+        "score": 25,
+        "status": "Acesso Normal",
+        "detail": "Residência em região de fácil acesso ao campus FECAP."
+      }
+    },
+    "explanation": "Estudante com baixo risco de evasão, bom engajamento institucional e situação financeira regular.",
+    "recommendation": "Manter acompanhamento de rotina e incentivar programas de iniciação científica ou estágio."
+  },
+  {
+    "id": "9859549f-8542-4491-8414-ad6151100dad",
+    "name": "Isabela Neves Borges (ID 9569)",
+    "ra": "9569",
+    "course": "Graduação em Administração",
+    "semester": "5º Semestre",
+    "turno": "Manhã",
+    "status_academico": "Matriculado",
+    "category": "Verde",
+    "overallRiskScore": 19,
+    "temporalTrend": "Melhorando",
+    "trendVariation": "-8%",
+    "historyScores": [
+      {
+        "month": "Jun",
+        "score": 15
+      },
+      {
+        "month": "Jul",
+        "score": 17
+      },
+      {
+        "month": "Ago",
+        "score": 19
+      }
+    ],
+    "dimensions": {
+      "financeira": {
+        "score": 10,
+        "status": "Regular",
+        "detail": "Mensalidades em dia sem pendências ativas."
+      },
+      "academica": {
+        "score": 20,
+        "status": "Excelente",
+        "detail": "CR 7.2, 0 DP(s) e 10% de faltas registradas."
+      },
+      "relacionamento": {
+        "score": 20,
+        "status": "Estável",
+        "detail": "0 atendimentos registrados na CAA."
+      },
+      "geografica": {
+        "score": 25,
+        "status": "Acesso Normal",
+        "detail": "Residência em região de fácil acesso ao campus FECAP."
+      }
+    },
+    "explanation": "Estudante com baixo risco de evasão, bom engajamento institucional e situação financeira regular.",
+    "recommendation": "Manter acompanhamento de rotina e incentivar programas de iniciação científica ou estágio."
+  },
+  {
+    "id": "58e904c4-b219-486f-b159-a7d36da964fb",
+    "name": "Juliana Ferreira Santos (ID 2235)",
+    "ra": "2235",
+    "course": "Mestrado em Ciências Contábeis",
+    "semester": "2º Semestre",
+    "turno": "Noite",
+    "status_academico": "Formado",
+    "category": "Verde",
+    "overallRiskScore": 30,
+    "temporalTrend": "Melhorando",
+    "trendVariation": "-8%",
+    "historyScores": [
+      {
+        "month": "Jun",
+        "score": 26
+      },
+      {
+        "month": "Jul",
+        "score": 28
+      },
+      {
+        "month": "Ago",
+        "score": 30
+      }
+    ],
+    "dimensions": {
+      "financeira": {
+        "score": 10,
+        "status": "Regular",
+        "detail": "Mensalidades em dia sem pendências ativas."
+      },
+      "academica": {
+        "score": 20,
+        "status": "Excelente",
+        "detail": "CR 7.2, 0 DP(s) e 10% de faltas registradas."
+      },
+      "relacionamento": {
+        "score": 20,
+        "status": "Estável",
+        "detail": "0 atendimentos registrados na CAA."
+      },
+      "geografica": {
+        "score": 25,
+        "status": "Acesso Normal",
+        "detail": "Residência em região de fácil acesso ao campus FECAP."
+      }
+    },
+    "explanation": "Estudante com curso concluído (Formado). Estudante com baixo risco de evasão, bom engajamento institucional e situação financeira regular.",
+    "recommendation": "Convidar para rede de ex-alunos Alvaristas e programas de pós-graduação/especialização FECAP."
+  },
+  {
+    "id": "ca781ee2-dd1b-44a6-82e7-3f7f21749fad",
+    "name": "Juliana Ferreira Santos (ID 3926)",
+    "ra": "13926",
+    "course": "Graduação em Publicidade e Propaganda",
+    "semester": "3º Semestre",
+    "turno": "Noite",
+    "status_academico": "Matriculado",
+    "category": "Verde",
+    "overallRiskScore": 16,
+    "temporalTrend": "Melhorando",
+    "trendVariation": "-8%",
+    "historyScores": [
+      {
+        "month": "Jun",
+        "score": 12
+      },
+      {
+        "month": "Jul",
+        "score": 14
+      },
+      {
+        "month": "Ago",
+        "score": 16
+      }
+    ],
+    "dimensions": {
+      "financeira": {
+        "score": 10,
+        "status": "Regular",
+        "detail": "Mensalidades em dia sem pendências ativas."
+      },
+      "academica": {
+        "score": 23,
+        "status": "Excelente",
+        "detail": "CR 8.1, 0 DP(s) e 30% de faltas registradas."
+      },
+      "relacionamento": {
+        "score": 20,
+        "status": "Estável",
+        "detail": "0 atendimentos registrados na CAA."
+      },
+      "geografica": {
+        "score": 25,
+        "status": "Acesso Normal",
+        "detail": "Residência em região de fácil acesso ao campus FECAP."
+      }
+    },
+    "explanation": "Estudante com baixo risco de evasão, bom engajamento institucional e situação financeira regular.",
+    "recommendation": "Manter acompanhamento de rotina e incentivar programas de iniciação científica ou estágio."
+  },
+  {
+    "id": "f14ab13f-59e4-44b6-a739-a056454a6f5d",
+    "name": "Juliana Ferreira Santos (ID 4795)",
+    "ra": "14795",
+    "course": "Mercado de Capitais (LIB)",
+    "semester": "1º Semestre",
+    "turno": "Noite",
+    "status_academico": "Evasão",
+    "category": "Verde",
+    "overallRiskScore": 21,
+    "temporalTrend": "Melhorando",
+    "trendVariation": "-8%",
+    "historyScores": [
+      {
+        "month": "Jun",
+        "score": 17
+      },
+      {
+        "month": "Jul",
+        "score": 19
+      },
+      {
+        "month": "Ago",
+        "score": 21
+      }
+    ],
+    "dimensions": {
+      "financeira": {
+        "score": 10,
+        "status": "Regular",
+        "detail": "Mensalidades em dia sem pendências ativas."
+      },
+      "academica": {
+        "score": 20,
+        "status": "Excelente",
+        "detail": "CR 7.2, 0 DP(s) e 10% de faltas registradas."
+      },
+      "relacionamento": {
+        "score": 20,
+        "status": "Estável",
+        "detail": "0 atendimentos registrados na CAA."
+      },
+      "geografica": {
+        "score": 25,
+        "status": "Acesso Normal",
+        "detail": "Residência em região de fácil acesso ao campus FECAP."
+      }
+    },
+    "explanation": "Estudante com status de Evasão cadastrado no sistema acadêmico. Estudante com baixo risco de evasão, bom engajamento institucional e situação financeira regular.",
+    "recommendation": "Orientar sobre programas de reingresso, destrancamento e renegociação em caso de contato do discente."
+  },
+  {
+    "id": "11362d94-e2fc-404d-b1e5-c012347e4c21",
+    "name": "Juliana Ferreira Santos (ID 6792)",
+    "ra": "6792",
+    "course": "Mestrado em Ciências Contábeis",
+    "semester": "1º Semestre",
+    "turno": "Noite",
+    "status_academico": "Evasão",
+    "category": "Amarelo",
+    "overallRiskScore": 64,
+    "temporalTrend": "Estável",
+    "trendVariation": "±2%",
+    "historyScores": [
+      {
+        "month": "Jun",
+        "score": 60
+      },
+      {
+        "month": "Jul",
+        "score": 62
+      },
+      {
+        "month": "Ago",
+        "score": 64
+      }
+    ],
+    "dimensions": {
+      "financeira": {
+        "score": 10,
+        "status": "Regular",
+        "detail": "Mensalidades em dia sem pendências ativas."
+      },
+      "academica": {
+        "score": 20,
+        "status": "Excelente",
+        "detail": "CR 7.2, 0 DP(s) e 10% de faltas registradas."
+      },
+      "relacionamento": {
+        "score": 35,
+        "status": "Estável",
+        "detail": "1 atendimentos registrados na CAA."
+      },
+      "geografica": {
+        "score": 75,
+        "status": "Distância Elevada",
+        "detail": "Deslocamento de alta distância ao campus Liberdade."
+      }
+    },
+    "explanation": "Estudante com status de Evasão cadastrado no sistema acadêmico. Alerta preventivo de retenção em Mestrado em Ciências Contábeis; requer monitoramento de notas e assiduidade.",
+    "recommendation": "Orientar sobre programas de reingresso, destrancamento e renegociação em caso de contato do discente."
+  },
+  {
+    "id": "210583d8-27e3-401d-b5e1-538c8cc44f4a",
+    "name": "Juliana Ferreira Santos (ID 7088)",
+    "ra": "17088",
+    "course": "Mestrado em Ciências Contábeis",
+    "semester": "1º Semestre",
+    "turno": "Noite",
+    "status_academico": "Evasão",
+    "category": "Verde",
+    "overallRiskScore": 18,
+    "temporalTrend": "Melhorando",
+    "trendVariation": "-8%",
+    "historyScores": [
+      {
+        "month": "Jun",
+        "score": 14
+      },
+      {
+        "month": "Jul",
+        "score": 16
+      },
+      {
+        "month": "Ago",
+        "score": 18
+      }
+    ],
+    "dimensions": {
+      "financeira": {
+        "score": 10,
+        "status": "Regular",
+        "detail": "Mensalidades em dia sem pendências ativas."
+      },
+      "academica": {
+        "score": 20,
+        "status": "Excelente",
+        "detail": "CR 7.2, 0 DP(s) e 10% de faltas registradas."
+      },
+      "relacionamento": {
+        "score": 20,
+        "status": "Estável",
+        "detail": "0 atendimentos registrados na CAA."
+      },
+      "geografica": {
+        "score": 25,
+        "status": "Acesso Normal",
+        "detail": "Residência em região de fácil acesso ao campus FECAP."
+      }
+    },
+    "explanation": "Estudante com status de Evasão cadastrado no sistema acadêmico. Estudante com baixo risco de evasão, bom engajamento institucional e situação financeira regular.",
+    "recommendation": "Orientar sobre programas de reingresso, destrancamento e renegociação em caso de contato do discente."
+  },
+  {
+    "id": "4dcd47dd-3cb5-4625-b650-0f25223d0346",
+    "name": "Juliana Ferreira Santos (ID 9877)",
+    "ra": "9877",
+    "course": "Graduação em Ciências Contábeis",
+    "semester": "3º Semestre",
+    "turno": "Manhã",
+    "status_academico": "Matriculado",
+    "category": "Verde",
+    "overallRiskScore": 22,
+    "temporalTrend": "Melhorando",
+    "trendVariation": "-8%",
+    "historyScores": [
+      {
+        "month": "Jun",
+        "score": 18
+      },
+      {
+        "month": "Jul",
+        "score": 20
+      },
+      {
+        "month": "Ago",
+        "score": 22
+      }
+    ],
+    "dimensions": {
+      "financeira": {
+        "score": 10,
+        "status": "Regular",
+        "detail": "Mensalidades em dia sem pendências ativas."
+      },
+      "academica": {
+        "score": 20,
+        "status": "Excelente",
+        "detail": "CR 7.2, 0 DP(s) e 10% de faltas registradas."
+      },
+      "relacionamento": {
+        "score": 20,
+        "status": "Estável",
+        "detail": "0 atendimentos registrados na CAA."
+      },
+      "geografica": {
+        "score": 25,
+        "status": "Acesso Normal",
+        "detail": "Residência em região de fácil acesso ao campus FECAP."
+      }
+    },
+    "explanation": "Estudante com baixo risco de evasão, bom engajamento institucional e situação financeira regular.",
+    "recommendation": "Manter acompanhamento de rotina e incentivar programas de iniciação científica ou estágio."
+  },
+  {
+    "id": "c0ad3552-f4d2-4d52-80d8-81c43fe71ff8",
+    "name": "Larissa Cristina Prado (ID 1255)",
+    "ra": "1255",
+    "course": "Graduação em Administração",
+    "semester": "8º Semestre",
+    "turno": "Noite",
+    "status_academico": "Matriculado",
+    "category": "Verde",
+    "overallRiskScore": 23,
+    "temporalTrend": "Melhorando",
+    "trendVariation": "-8%",
+    "historyScores": [
+      {
+        "month": "Jun",
+        "score": 19
+      },
+      {
+        "month": "Jul",
+        "score": 21
+      },
+      {
+        "month": "Ago",
+        "score": 23
+      }
+    ],
+    "dimensions": {
+      "financeira": {
+        "score": 10,
+        "status": "Regular",
+        "detail": "Mensalidades em dia sem pendências ativas."
+      },
+      "academica": {
+        "score": 37,
+        "status": "Excelente",
+        "detail": "CR 7.5, 1 DP(s) e 10% de faltas registradas."
+      },
+      "relacionamento": {
+        "score": 95,
+        "status": "Alto Risco",
+        "detail": "5 atendimentos registrados na CAA."
+      },
+      "geografica": {
+        "score": 75,
+        "status": "Distância Elevada",
+        "detail": "Deslocamento de alta distância ao campus Liberdade."
+      }
+    },
+    "explanation": "Estudante com baixo risco de evasão, bom engajamento institucional e situação financeira regular.",
+    "recommendation": "Manter acompanhamento de rotina e incentivar programas de iniciação científica ou estágio."
+  },
+  {
+    "id": "5dc15fdf-8b91-4721-b285-4af27fa93fb3",
+    "name": "Larissa Cristina Prado (ID 2647)",
+    "ra": "2647",
+    "course": "Gestão Financeira - Modalidade EAD (LIB)",
+    "semester": "1º Semestre",
+    "turno": "Noite",
+    "status_academico": "Formado",
+    "category": "Verde",
+    "overallRiskScore": 22,
+    "temporalTrend": "Melhorando",
+    "trendVariation": "-8%",
+    "historyScores": [
+      {
+        "month": "Jun",
+        "score": 18
+      },
+      {
+        "month": "Jul",
+        "score": 20
+      },
+      {
+        "month": "Ago",
+        "score": 22
+      }
+    ],
+    "dimensions": {
+      "financeira": {
+        "score": 10,
+        "status": "Regular",
+        "detail": "Mensalidades em dia sem pendências ativas."
+      },
+      "academica": {
+        "score": 20,
+        "status": "Excelente",
+        "detail": "CR 7.2, 0 DP(s) e 10% de faltas registradas."
+      },
+      "relacionamento": {
+        "score": 20,
+        "status": "Estável",
+        "detail": "0 atendimentos registrados na CAA."
+      },
+      "geografica": {
+        "score": 25,
+        "status": "Acesso Normal",
+        "detail": "Residência em região de fácil acesso ao campus FECAP."
+      }
+    },
+    "explanation": "Estudante com curso concluído (Formado). Estudante com baixo risco de evasão, bom engajamento institucional e situação financeira regular.",
+    "recommendation": "Convidar para rede de ex-alunos Alvaristas e programas de pós-graduação/especialização FECAP."
+  },
+  {
+    "id": "bfaa014b-c80c-4eca-96b8-1fead8ad8a6a",
+    "name": "Larissa Cristina Prado (ID 3895)",
+    "ra": "3895",
+    "course": "Gestão Tributária - Flexível",
+    "semester": "1º Semestre",
+    "turno": "Noite",
+    "status_academico": "Matriculado",
+    "category": "Verde",
+    "overallRiskScore": 30,
+    "temporalTrend": "Melhorando",
+    "trendVariation": "-8%",
+    "historyScores": [
+      {
+        "month": "Jun",
+        "score": 26
+      },
+      {
+        "month": "Jul",
+        "score": 28
+      },
+      {
+        "month": "Ago",
+        "score": 30
+      }
+    ],
+    "dimensions": {
+      "financeira": {
+        "score": 10,
+        "status": "Regular",
+        "detail": "Mensalidades em dia sem pendências ativas."
+      },
+      "academica": {
+        "score": 20,
+        "status": "Excelente",
+        "detail": "CR 7.2, 0 DP(s) e 10% de faltas registradas."
+      },
+      "relacionamento": {
+        "score": 20,
+        "status": "Estável",
+        "detail": "0 atendimentos registrados na CAA."
+      },
+      "geografica": {
+        "score": 25,
+        "status": "Acesso Normal",
+        "detail": "Residência em região de fácil acesso ao campus FECAP."
+      }
+    },
+    "explanation": "Estudante com baixo risco de evasão, bom engajamento institucional e situação financeira regular.",
+    "recommendation": "Manter acompanhamento de rotina e incentivar programas de iniciação científica ou estágio."
+  },
+  {
+    "id": "98e12d31-c96c-4edd-a700-d373fd91bd93",
+    "name": "Larissa Cristina Prado (ID 6207)",
+    "ra": "6207",
+    "course": "Mestrado Profissional em Administração",
+    "semester": "1º Semestre",
+    "turno": "Noite",
+    "status_academico": "Evasão",
+    "category": "Amarelo",
+    "overallRiskScore": 40,
+    "temporalTrend": "Estável",
+    "trendVariation": "±2%",
+    "historyScores": [
+      {
+        "month": "Jun",
+        "score": 36
+      },
+      {
+        "month": "Jul",
+        "score": 38
+      },
+      {
+        "month": "Ago",
+        "score": 40
+      }
+    ],
+    "dimensions": {
+      "financeira": {
+        "score": 10,
+        "status": "Regular",
+        "detail": "Mensalidades em dia sem pendências ativas."
+      },
+      "academica": {
+        "score": 20,
+        "status": "Excelente",
+        "detail": "CR 7.2, 0 DP(s) e 10% de faltas registradas."
+      },
+      "relacionamento": {
+        "score": 20,
+        "status": "Estável",
+        "detail": "0 atendimentos registrados na CAA."
+      },
+      "geografica": {
+        "score": 75,
+        "status": "Distância Elevada",
+        "detail": "Deslocamento de alta distância ao campus Liberdade."
+      }
+    },
+    "explanation": "Estudante com status de Evasão cadastrado no sistema acadêmico. Alerta preventivo de retenção em Mestrado Profissional em Administração; requer monitoramento de notas e assiduidade.",
+    "recommendation": "Orientar sobre programas de reingresso, destrancamento e renegociação em caso de contato do discente."
+  },
+  {
+    "id": "9b8e6ced-b057-45e7-b53a-cb8ac6b65508",
+    "name": "Larissa Cristina Prado (ID 7392)",
+    "ra": "17392",
+    "course": "Graduação em Ciências Contábeis",
+    "semester": "8º Semestre",
+    "turno": "Manhã",
+    "status_academico": "Matriculado",
+    "category": "Verde",
+    "overallRiskScore": 17,
+    "temporalTrend": "Melhorando",
+    "trendVariation": "-8%",
+    "historyScores": [
+      {
+        "month": "Jun",
+        "score": 13
+      },
+      {
+        "month": "Jul",
+        "score": 15
+      },
+      {
+        "month": "Ago",
+        "score": 17
+      }
+    ],
+    "dimensions": {
+      "financeira": {
+        "score": 10,
+        "status": "Regular",
+        "detail": "Mensalidades em dia sem pendências ativas."
+      },
+      "academica": {
+        "score": 20,
+        "status": "Excelente",
+        "detail": "CR 7.2, 0 DP(s) e 10% de faltas registradas."
+      },
+      "relacionamento": {
+        "score": 100,
+        "status": "Alto Risco",
+        "detail": "8 atendimentos registrados na CAA."
+      },
+      "geografica": {
+        "score": 25,
+        "status": "Acesso Normal",
+        "detail": "Residência em região de fácil acesso ao campus FECAP."
+      }
+    },
+    "explanation": "Estudante com baixo risco de evasão, bom engajamento institucional e situação financeira regular.",
+    "recommendation": "Manter acompanhamento de rotina e incentivar programas de iniciação científica ou estágio."
+  },
+  {
+    "id": "ee167791-6615-45df-9e95-6a39ed196ae9",
+    "name": "Larissa Cristina Prado (ID 7488)",
+    "ra": "7488",
+    "course": "Graduação em Ciências Contábeis",
+    "semester": "6º Semestre",
+    "turno": "Manhã",
+    "status_academico": "Matriculado",
+    "category": "Verde",
+    "overallRiskScore": 27,
+    "temporalTrend": "Melhorando",
+    "trendVariation": "-8%",
+    "historyScores": [
+      {
+        "month": "Jun",
+        "score": 23
+      },
+      {
+        "month": "Jul",
+        "score": 25
+      },
+      {
+        "month": "Ago",
+        "score": 27
+      }
+    ],
+    "dimensions": {
+      "financeira": {
+        "score": 10,
+        "status": "Regular",
+        "detail": "Mensalidades em dia sem pendências ativas."
+      },
+      "academica": {
+        "score": 20,
+        "status": "Excelente",
+        "detail": "CR 7.2, 0 DP(s) e 10% de faltas registradas."
+      },
+      "relacionamento": {
+        "score": 80,
+        "status": "Alto Risco",
+        "detail": "4 atendimentos registrados na CAA."
+      },
+      "geografica": {
+        "score": 75,
+        "status": "Distância Elevada",
+        "detail": "Deslocamento de alta distância ao campus Liberdade."
+      }
+    },
+    "explanation": "Estudante com baixo risco de evasão, bom engajamento institucional e situação financeira regular.",
+    "recommendation": "Manter acompanhamento de rotina e incentivar programas de iniciação científica ou estágio."
+  },
+  {
+    "id": "9e6f9801-ddde-4ca3-893f-296e0f19b150",
+    "name": "Larissa Cristina Prado (ID 9609)",
+    "ra": "9609",
+    "course": "Mestrado em Ciências Contábeis",
+    "semester": "1º Semestre",
+    "turno": "Noite",
+    "status_academico": "Evasão",
+    "category": "Verde",
+    "overallRiskScore": 26,
+    "temporalTrend": "Melhorando",
+    "trendVariation": "-8%",
+    "historyScores": [
+      {
+        "month": "Jun",
+        "score": 22
+      },
+      {
+        "month": "Jul",
+        "score": 24
+      },
+      {
+        "month": "Ago",
+        "score": 26
+      }
+    ],
+    "dimensions": {
+      "financeira": {
+        "score": 10,
+        "status": "Regular",
+        "detail": "Mensalidades em dia sem pendências ativas."
+      },
+      "academica": {
+        "score": 20,
+        "status": "Excelente",
+        "detail": "CR 7.2, 0 DP(s) e 10% de faltas registradas."
+      },
+      "relacionamento": {
+        "score": 20,
+        "status": "Estável",
+        "detail": "0 atendimentos registrados na CAA."
+      },
+      "geografica": {
+        "score": 25,
+        "status": "Acesso Normal",
+        "detail": "Residência em região de fácil acesso ao campus FECAP."
+      }
+    },
+    "explanation": "Estudante com status de Evasão cadastrado no sistema acadêmico. Estudante com baixo risco de evasão, bom engajamento institucional e situação financeira regular.",
+    "recommendation": "Orientar sobre programas de reingresso, destrancamento e renegociação em caso de contato do discente."
+  },
+  {
+    "id": "325c4bc4-2cbe-4149-a460-b239d48b370a",
+    "name": "Leonardo Pinheiro Castro (ID 2193)",
+    "ra": "12193",
+    "course": "Mestrado Profissional em Administração",
+    "semester": "1º Semestre",
+    "turno": "Noite",
+    "status_academico": "Matriculado",
+    "category": "Verde",
+    "overallRiskScore": 17,
+    "temporalTrend": "Melhorando",
+    "trendVariation": "-8%",
+    "historyScores": [
+      {
+        "month": "Jun",
+        "score": 13
+      },
+      {
+        "month": "Jul",
+        "score": 15
+      },
+      {
+        "month": "Ago",
+        "score": 17
+      }
+    ],
+    "dimensions": {
+      "financeira": {
+        "score": 10,
+        "status": "Regular",
+        "detail": "Mensalidades em dia sem pendências ativas."
+      },
+      "academica": {
+        "score": 20,
+        "status": "Excelente",
+        "detail": "CR 7.2, 0 DP(s) e 10% de faltas registradas."
+      },
+      "relacionamento": {
+        "score": 20,
+        "status": "Estável",
+        "detail": "0 atendimentos registrados na CAA."
+      },
+      "geografica": {
+        "score": 25,
+        "status": "Acesso Normal",
+        "detail": "Residência em região de fácil acesso ao campus FECAP."
+      }
+    },
+    "explanation": "Estudante com baixo risco de evasão, bom engajamento institucional e situação financeira regular.",
+    "recommendation": "Manter acompanhamento de rotina e incentivar programas de iniciação científica ou estágio."
+  },
+  {
+    "id": "d1af9206-8164-4791-8589-baf1d84c67e1",
+    "name": "Leonardo Pinheiro Castro (ID 3680)",
+    "ra": "3680",
+    "course": "Mestrado Profissional em Administração",
+    "semester": "1º Semestre",
+    "turno": "Noite",
+    "status_academico": "Matriculado",
+    "category": "Verde",
+    "overallRiskScore": 15,
+    "temporalTrend": "Melhorando",
+    "trendVariation": "-8%",
+    "historyScores": [
+      {
+        "month": "Jun",
+        "score": 11
+      },
+      {
+        "month": "Jul",
+        "score": 13
+      },
+      {
+        "month": "Ago",
+        "score": 15
+      }
+    ],
+    "dimensions": {
+      "financeira": {
+        "score": 10,
+        "status": "Regular",
+        "detail": "Mensalidades em dia sem pendências ativas."
+      },
+      "academica": {
+        "score": 20,
+        "status": "Excelente",
+        "detail": "CR 7.2, 0 DP(s) e 10% de faltas registradas."
+      },
+      "relacionamento": {
+        "score": 20,
+        "status": "Estável",
+        "detail": "0 atendimentos registrados na CAA."
+      },
+      "geografica": {
+        "score": 25,
+        "status": "Acesso Normal",
+        "detail": "Residência em região de fácil acesso ao campus FECAP."
+      }
+    },
+    "explanation": "Estudante com baixo risco de evasão, bom engajamento institucional e situação financeira regular.",
+    "recommendation": "Manter acompanhamento de rotina e incentivar programas de iniciação científica ou estágio."
+  },
+  {
+    "id": "6e567f49-d600-4804-ac4e-c893c49f92ed",
+    "name": "Leonardo Pinheiro Castro (ID 3886)",
+    "ra": "3886",
+    "course": "Mestrado em Ciências Contábeis",
+    "semester": "1º Semestre",
+    "turno": "Noite",
+    "status_academico": "Formado",
+    "category": "Verde",
+    "overallRiskScore": 13,
+    "temporalTrend": "Melhorando",
+    "trendVariation": "-8%",
+    "historyScores": [
+      {
+        "month": "Jun",
+        "score": 10
+      },
+      {
+        "month": "Jul",
+        "score": 11
+      },
+      {
+        "month": "Ago",
+        "score": 13
+      }
+    ],
+    "dimensions": {
+      "financeira": {
+        "score": 10,
+        "status": "Regular",
+        "detail": "Mensalidades em dia sem pendências ativas."
+      },
+      "academica": {
+        "score": 20,
+        "status": "Excelente",
+        "detail": "CR 7.2, 0 DP(s) e 10% de faltas registradas."
+      },
+      "relacionamento": {
+        "score": 20,
+        "status": "Estável",
+        "detail": "0 atendimentos registrados na CAA."
+      },
+      "geografica": {
+        "score": 25,
+        "status": "Acesso Normal",
+        "detail": "Residência em região de fácil acesso ao campus FECAP."
+      }
+    },
+    "explanation": "Estudante com curso concluído (Formado). Estudante com baixo risco de evasão, bom engajamento institucional e situação financeira regular.",
+    "recommendation": "Convidar para rede de ex-alunos Alvaristas e programas de pós-graduação/especialização FECAP."
+  },
+  {
+    "id": "8eca0b8b-ec33-44f2-8fa4-770331d052e3",
+    "name": "Leonardo Pinheiro Castro (ID 6464)",
+    "ra": "6464",
+    "course": "Graduação em Ciências Contábeis para Graduados - Modalidade Híbrida",
+    "semester": "5º Semestre",
+    "turno": "Integral",
+    "status_academico": "Evasão",
+    "category": "Amarelo",
+    "overallRiskScore": 41,
+    "temporalTrend": "Estável",
+    "trendVariation": "±2%",
+    "historyScores": [
+      {
+        "month": "Jun",
+        "score": 37
+      },
+      {
+        "month": "Jul",
+        "score": 39
+      },
+      {
+        "month": "Ago",
+        "score": 41
+      }
+    ],
+    "dimensions": {
+      "financeira": {
+        "score": 10,
+        "status": "Regular",
+        "detail": "Mensalidades em dia sem pendências ativas."
+      },
+      "academica": {
+        "score": 20,
+        "status": "Excelente",
+        "detail": "CR 7.2, 0 DP(s) e 10% de faltas registradas."
+      },
+      "relacionamento": {
+        "score": 20,
+        "status": "Estável",
+        "detail": "0 atendimentos registrados na CAA."
+      },
+      "geografica": {
+        "score": 25,
+        "status": "Acesso Normal",
+        "detail": "Residência em região de fácil acesso ao campus FECAP."
+      }
+    },
+    "explanation": "Estudante com status de Evasão cadastrado no sistema acadêmico. Alerta preventivo de retenção em Graduação em Ciências Contábeis para Graduados - Modalidade Híbrida; requer monitoramento de notas e assiduidade.",
+    "recommendation": "Orientar sobre programas de reingresso, destrancamento e renegociação em caso de contato do discente."
+  },
+  {
+    "id": "fa151f3f-d60c-41cd-85ee-f0b2de28abe7",
+    "name": "Lucas Alvarista",
+    "ra": "24026851",
+    "course": "Ciência da Computação",
+    "semester": "5º Semestre",
+    "turno": "Noturno",
+    "status_academico": "Matriculado",
+    "category": "Verde",
+    "overallRiskScore": 23,
+    "temporalTrend": "Melhorando",
+    "trendVariation": "-8%",
+    "historyScores": [
+      {
+        "month": "Jun",
+        "score": 19
+      },
+      {
+        "month": "Jul",
+        "score": 21
+      },
+      {
+        "month": "Ago",
+        "score": 23
+      }
+    ],
+    "dimensions": {
+      "financeira": {
+        "score": 10,
+        "status": "Regular",
+        "detail": "Mensalidades em dia sem pendências ativas."
+      },
+      "academica": {
+        "score": 15,
+        "status": "Excelente",
+        "detail": "CR 8.7, 0 DP(s) e 20% de faltas registradas."
+      },
+      "relacionamento": {
+        "score": 35,
+        "status": "Estável",
+        "detail": "1 atendimentos registrados na CAA."
+      },
+      "geografica": {
+        "score": 25,
+        "status": "Acesso Normal",
+        "detail": "Residência em região de fácil acesso ao campus FECAP."
+      }
+    },
+    "explanation": "Estudante com baixo risco de evasão, bom engajamento institucional e situação financeira regular.",
+    "recommendation": "Manter acompanhamento de rotina e incentivar programas de iniciação científica ou estágio."
+  },
+  {
+    "id": "9024123b-ba06-4a85-a7c1-4c734766b79e",
+    "name": "Lucas Alves Bernardo",
+    "ra": "24026768",
+    "course": "Ciência da Computação",
+    "semester": "5",
+    "turno": "Noturno",
+    "status_academico": "Matriculado",
+    "category": "Verde",
+    "overallRiskScore": 25,
+    "temporalTrend": "Estável",
+    "trendVariation": "±0%",
+    "historyScores": [
+      {
+        "month": "Jun",
+        "score": 21
+      },
+      {
+        "month": "Jul",
+        "score": 23
+      },
+      {
+        "month": "Ago",
+        "score": 25
+      }
+    ],
+    "dimensions": {
+      "financeira": {
+        "score": 20,
+        "status": "Regular",
+        "detail": "Mensalidades em dia."
+      },
+      "academica": {
+        "score": 20,
+        "status": "Regular",
+        "detail": "Rendimento acadêmico regular."
+      },
+      "relacionamento": {
+        "score": 20,
+        "status": "Regular",
+        "detail": "Sem atritos ou solicitações de cancelamento."
+      },
+      "geografica": {
+        "score": 25,
+        "status": "Acesso Normal",
+        "detail": "Deslocamento viável ao campus FECAP."
+      }
+    },
+    "explanation": "Acompanhamento regular de permanência estudantil.",
+    "recommendation": "Manter acompanhamento pedagógico contínuo."
+  },
+  {
+    "id": "71b44f53-7afa-4420-9ea3-a9bc3254d589",
+    "name": "Lucas Fernando Lima (ID 1373)",
+    "ra": "11373",
+    "course": "Controladoria - Flexível",
+    "semester": "1º Semestre",
+    "turno": "Noite",
+    "status_academico": "Formado",
+    "category": "Verde",
+    "overallRiskScore": 21,
+    "temporalTrend": "Melhorando",
+    "trendVariation": "-8%",
+    "historyScores": [
+      {
+        "month": "Jun",
+        "score": 17
+      },
+      {
+        "month": "Jul",
+        "score": 19
+      },
+      {
+        "month": "Ago",
+        "score": 21
+      }
+    ],
+    "dimensions": {
+      "financeira": {
+        "score": 10,
+        "status": "Regular",
+        "detail": "Mensalidades em dia sem pendências ativas."
+      },
+      "academica": {
+        "score": 20,
+        "status": "Excelente",
+        "detail": "CR 7.2, 0 DP(s) e 10% de faltas registradas."
+      },
+      "relacionamento": {
+        "score": 20,
+        "status": "Estável",
+        "detail": "0 atendimentos registrados na CAA."
+      },
+      "geografica": {
+        "score": 25,
+        "status": "Acesso Normal",
+        "detail": "Residência em região de fácil acesso ao campus FECAP."
+      }
+    },
+    "explanation": "Estudante com curso concluído (Formado). Estudante com baixo risco de evasão, bom engajamento institucional e situação financeira regular.",
+    "recommendation": "Convidar para rede de ex-alunos Alvaristas e programas de pós-graduação/especialização FECAP."
+  },
+  {
+    "id": "21f914f1-60da-4196-b3e3-20600c26ebd6",
+    "name": "Lucas Fernando Lima (ID 1809)",
+    "ra": "1809",
+    "course": "Graduação em Ciências Contábeis para Graduados - Modalidade Híbrida",
+    "semester": "1º Semestre",
+    "turno": "Integral",
+    "status_academico": "Matriculado",
+    "category": "Amarelo",
+    "overallRiskScore": 44,
+    "temporalTrend": "Estável",
+    "trendVariation": "±2%",
+    "historyScores": [
+      {
+        "month": "Jun",
+        "score": 40
+      },
+      {
+        "month": "Jul",
+        "score": 42
+      },
+      {
+        "month": "Ago",
+        "score": 44
+      }
+    ],
+    "dimensions": {
+      "financeira": {
+        "score": 10,
+        "status": "Regular",
+        "detail": "Mensalidades em dia sem pendências ativas."
+      },
+      "academica": {
+        "score": 20,
+        "status": "Excelente",
+        "detail": "CR 7.2, 0 DP(s) e 10% de faltas registradas."
+      },
+      "relacionamento": {
+        "score": 20,
+        "status": "Estável",
+        "detail": "0 atendimentos registrados na CAA."
+      },
+      "geografica": {
+        "score": 25,
+        "status": "Acesso Normal",
+        "detail": "Residência em região de fácil acesso ao campus FECAP."
+      }
+    },
+    "explanation": "Alerta preventivo de retenção em Graduação em Ciências Contábeis para Graduados - Modalidade Híbrida; requer monitoramento de notas e assiduidade.",
+    "recommendation": "Oferecer apoio pedagógico e renegociação preventiva de mensalidades."
+  },
+  {
+    "id": "ac865cbe-45bb-4e5f-af1f-5e4f8ef557a9",
+    "name": "Lucas Fernando Lima (ID 2299)",
+    "ra": "2299",
+    "course": "Graduação em Ciências Contábeis para Graduados",
+    "semester": "4º Semestre",
+    "turno": "Manhã",
+    "status_academico": "Evasão",
+    "category": "Amarelo",
+    "overallRiskScore": 40,
+    "temporalTrend": "Estável",
+    "trendVariation": "±2%",
+    "historyScores": [
+      {
+        "month": "Jun",
+        "score": 36
+      },
+      {
+        "month": "Jul",
+        "score": 38
+      },
+      {
+        "month": "Ago",
+        "score": 40
+      }
+    ],
+    "dimensions": {
+      "financeira": {
+        "score": 10,
+        "status": "Regular",
+        "detail": "Mensalidades em dia sem pendências ativas."
+      },
+      "academica": {
+        "score": 20,
+        "status": "Excelente",
+        "detail": "CR 7.2, 0 DP(s) e 10% de faltas registradas."
+      },
+      "relacionamento": {
+        "score": 20,
+        "status": "Estável",
+        "detail": "0 atendimentos registrados na CAA."
+      },
+      "geografica": {
+        "score": 25,
+        "status": "Acesso Normal",
+        "detail": "Residência em região de fácil acesso ao campus FECAP."
+      }
+    },
+    "explanation": "Estudante com status de Evasão cadastrado no sistema acadêmico. Alerta preventivo de retenção em Graduação em Ciências Contábeis para Graduados; requer monitoramento de notas e assiduidade.",
+    "recommendation": "Orientar sobre programas de reingresso, destrancamento e renegociação em caso de contato do discente."
+  },
+  {
+    "id": "754b2191-108b-485e-b190-4c61c3247768",
+    "name": "Lucas Fernando Lima (ID 2925)",
+    "ra": "12925",
+    "course": "Graduação em Ciências Contábeis para Graduados - Modalidade Híbrida",
+    "semester": "15º Semestre",
+    "turno": "Integral",
+    "status_academico": "Matriculado",
+    "category": "Verde",
+    "overallRiskScore": 15,
+    "temporalTrend": "Melhorando",
+    "trendVariation": "-8%",
+    "historyScores": [
+      {
+        "month": "Jun",
+        "score": 11
+      },
+      {
+        "month": "Jul",
+        "score": 13
+      },
+      {
+        "month": "Ago",
+        "score": 15
+      }
+    ],
+    "dimensions": {
+      "financeira": {
+        "score": 10,
+        "status": "Regular",
+        "detail": "Mensalidades em dia sem pendências ativas."
+      },
+      "academica": {
+        "score": 20,
+        "status": "Excelente",
+        "detail": "CR 7.2, 0 DP(s) e 10% de faltas registradas."
+      },
+      "relacionamento": {
+        "score": 95,
+        "status": "Alto Risco",
+        "detail": "5 atendimentos registrados na CAA."
+      },
+      "geografica": {
+        "score": 25,
+        "status": "Acesso Normal",
+        "detail": "Residência em região de fácil acesso ao campus FECAP."
+      }
+    },
+    "explanation": "Estudante com baixo risco de evasão, bom engajamento institucional e situação financeira regular.",
+    "recommendation": "Manter acompanhamento de rotina e incentivar programas de iniciação científica ou estágio."
+  },
+  {
+    "id": "274dac30-6ffc-47c2-b7ef-b6dabc320f9e",
+    "name": "Lucas Fernando Lima (ID 3119)",
+    "ra": "3119",
+    "course": "Mestrado em Ciências Contábeis",
+    "semester": "1º Semestre",
+    "turno": "Noite",
+    "status_academico": "Matriculado",
+    "category": "Verde",
+    "overallRiskScore": 28,
+    "temporalTrend": "Melhorando",
+    "trendVariation": "-8%",
+    "historyScores": [
+      {
+        "month": "Jun",
+        "score": 24
+      },
+      {
+        "month": "Jul",
+        "score": 26
+      },
+      {
+        "month": "Ago",
+        "score": 28
+      }
+    ],
+    "dimensions": {
+      "financeira": {
+        "score": 10,
+        "status": "Regular",
+        "detail": "Mensalidades em dia sem pendências ativas."
+      },
+      "academica": {
+        "score": 20,
+        "status": "Excelente",
+        "detail": "CR 7.2, 0 DP(s) e 10% de faltas registradas."
+      },
+      "relacionamento": {
+        "score": 50,
+        "status": "Atenção",
+        "detail": "2 atendimentos registrados na CAA."
+      },
+      "geografica": {
+        "score": 75,
+        "status": "Distância Elevada",
+        "detail": "Deslocamento de alta distância ao campus Liberdade."
+      }
+    },
+    "explanation": "Estudante com baixo risco de evasão, bom engajamento institucional e situação financeira regular.",
+    "recommendation": "Manter acompanhamento de rotina e incentivar programas de iniciação científica ou estágio."
+  },
+  {
+    "id": "664edf45-8a65-4474-98d0-261cd124061e",
+    "name": "Lucas Fernando Lima (ID 6836)",
+    "ra": "6836",
+    "course": "Graduação em Administração",
+    "semester": "8º Semestre",
+    "turno": "Manhã",
+    "status_academico": "Matriculado",
+    "category": "Verde",
+    "overallRiskScore": 24,
+    "temporalTrend": "Melhorando",
+    "trendVariation": "-8%",
+    "historyScores": [
+      {
+        "month": "Jun",
+        "score": 20
+      },
+      {
+        "month": "Jul",
+        "score": 22
+      },
+      {
+        "month": "Ago",
+        "score": 24
+      }
+    ],
+    "dimensions": {
+      "financeira": {
+        "score": 10,
+        "status": "Regular",
+        "detail": "Mensalidades em dia sem pendências ativas."
+      },
+      "academica": {
+        "score": 20,
+        "status": "Excelente",
+        "detail": "CR 7.2, 0 DP(s) e 10% de faltas registradas."
+      },
+      "relacionamento": {
+        "score": 20,
+        "status": "Estável",
+        "detail": "0 atendimentos registrados na CAA."
+      },
+      "geografica": {
+        "score": 25,
+        "status": "Acesso Normal",
+        "detail": "Residência em região de fácil acesso ao campus FECAP."
+      }
+    },
+    "explanation": "Estudante com baixo risco de evasão, bom engajamento institucional e situação financeira regular.",
+    "recommendation": "Manter acompanhamento de rotina e incentivar programas de iniciação científica ou estágio."
+  },
+  {
+    "id": "5e7e39fc-14d7-49dc-b512-0571463406e1",
+    "name": "Mariana Duarte Souza (ID 1735)",
+    "ra": "11735",
+    "course": "Mestrado Profissional em Administração",
+    "semester": "1º Semestre",
+    "turno": "Noite",
+    "status_academico": "Formado",
+    "category": "Verde",
+    "overallRiskScore": 25,
+    "temporalTrend": "Melhorando",
+    "trendVariation": "-8%",
+    "historyScores": [
+      {
+        "month": "Jun",
+        "score": 21
+      },
+      {
+        "month": "Jul",
+        "score": 23
+      },
+      {
+        "month": "Ago",
+        "score": 25
+      }
+    ],
+    "dimensions": {
+      "financeira": {
+        "score": 10,
+        "status": "Regular",
+        "detail": "Mensalidades em dia sem pendências ativas."
+      },
+      "academica": {
+        "score": 20,
+        "status": "Excelente",
+        "detail": "CR 7.2, 0 DP(s) e 10% de faltas registradas."
+      },
+      "relacionamento": {
+        "score": 20,
+        "status": "Estável",
+        "detail": "0 atendimentos registrados na CAA."
+      },
+      "geografica": {
+        "score": 25,
+        "status": "Acesso Normal",
+        "detail": "Residência em região de fácil acesso ao campus FECAP."
+      }
+    },
+    "explanation": "Estudante com curso concluído (Formado). Estudante com baixo risco de evasão, bom engajamento institucional e situação financeira regular.",
+    "recommendation": "Convidar para rede de ex-alunos Alvaristas e programas de pós-graduação/especialização FECAP."
+  },
+  {
+    "id": "5c75cb97-c3ba-46c4-903e-a76be617af62",
+    "name": "Mariana Duarte Souza (ID 4058)",
+    "ra": "4058",
+    "course": "Mestrado em Ciências Contábeis",
+    "semester": "1º Semestre",
+    "turno": "Noite",
+    "status_academico": "Matriculado",
+    "category": "Verde",
+    "overallRiskScore": 21,
+    "temporalTrend": "Melhorando",
+    "trendVariation": "-8%",
+    "historyScores": [
+      {
+        "month": "Jun",
+        "score": 17
+      },
+      {
+        "month": "Jul",
+        "score": 19
+      },
+      {
+        "month": "Ago",
+        "score": 21
+      }
+    ],
+    "dimensions": {
+      "financeira": {
+        "score": 10,
+        "status": "Regular",
+        "detail": "Mensalidades em dia sem pendências ativas."
+      },
+      "academica": {
+        "score": 20,
+        "status": "Excelente",
+        "detail": "CR 7.2, 0 DP(s) e 10% de faltas registradas."
+      },
+      "relacionamento": {
+        "score": 20,
+        "status": "Estável",
+        "detail": "0 atendimentos registrados na CAA."
+      },
+      "geografica": {
+        "score": 25,
+        "status": "Acesso Normal",
+        "detail": "Residência em região de fácil acesso ao campus FECAP."
+      }
+    },
+    "explanation": "Estudante com baixo risco de evasão, bom engajamento institucional e situação financeira regular.",
+    "recommendation": "Manter acompanhamento de rotina e incentivar programas de iniciação científica ou estágio."
+  },
+  {
+    "id": "f57a28e6-c8cf-4cb4-afff-c1caed5af800",
+    "name": "Mariana Duarte Souza (ID 4222)",
+    "ra": "4222",
+    "course": "Mestrado em Ciências Contábeis",
+    "semester": "1º Semestre",
+    "turno": "Noite",
+    "status_academico": "Formado",
+    "category": "Verde",
+    "overallRiskScore": 13,
+    "temporalTrend": "Melhorando",
+    "trendVariation": "-8%",
+    "historyScores": [
+      {
+        "month": "Jun",
+        "score": 10
+      },
+      {
+        "month": "Jul",
+        "score": 11
+      },
+      {
+        "month": "Ago",
+        "score": 13
+      }
+    ],
+    "dimensions": {
+      "financeira": {
+        "score": 10,
+        "status": "Regular",
+        "detail": "Mensalidades em dia sem pendências ativas."
+      },
+      "academica": {
+        "score": 20,
+        "status": "Excelente",
+        "detail": "CR 7.2, 0 DP(s) e 10% de faltas registradas."
+      },
+      "relacionamento": {
+        "score": 20,
+        "status": "Estável",
+        "detail": "0 atendimentos registrados na CAA."
+      },
+      "geografica": {
+        "score": 25,
+        "status": "Acesso Normal",
+        "detail": "Residência em região de fácil acesso ao campus FECAP."
+      }
+    },
+    "explanation": "Estudante com curso concluído (Formado). Estudante com baixo risco de evasão, bom engajamento institucional e situação financeira regular.",
+    "recommendation": "Convidar para rede de ex-alunos Alvaristas e programas de pós-graduação/especialização FECAP."
+  },
+  {
+    "id": "a5b9b6d2-a6a0-4ffb-ac41-4ef3f2500d7b",
+    "name": "Mariana Duarte Souza (ID 4510)",
+    "ra": "14510",
+    "course": "Graduação em Ciências Econômicas",
+    "semester": "9º Semestre",
+    "turno": "Manhã",
+    "status_academico": "Matriculado",
+    "category": "Verde",
+    "overallRiskScore": 24,
+    "temporalTrend": "Melhorando",
+    "trendVariation": "-8%",
+    "historyScores": [
+      {
+        "month": "Jun",
+        "score": 20
+      },
+      {
+        "month": "Jul",
+        "score": 22
+      },
+      {
+        "month": "Ago",
+        "score": 24
+      }
+    ],
+    "dimensions": {
+      "financeira": {
+        "score": 10,
+        "status": "Regular",
+        "detail": "Mensalidades em dia sem pendências ativas."
+      },
+      "academica": {
+        "score": 49,
+        "status": "Atenção",
+        "detail": "CR 7.4, 1 DP(s) e 40% de faltas registradas."
+      },
+      "relacionamento": {
+        "score": 20,
+        "status": "Estável",
+        "detail": "0 atendimentos registrados na CAA."
+      },
+      "geografica": {
+        "score": 25,
+        "status": "Acesso Normal",
+        "detail": "Residência em região de fácil acesso ao campus FECAP."
+      }
+    },
+    "explanation": "Estudante com baixo risco de evasão, bom engajamento institucional e situação financeira regular.",
+    "recommendation": "Manter acompanhamento de rotina e incentivar programas de iniciação científica ou estágio."
+  },
+  {
+    "id": "05e564c6-01ae-4ff5-a338-6470dbe8dfa3",
+    "name": "Mariana Duarte Souza (ID 6847)",
+    "ra": "6847",
+    "course": "Contabilidade Financeira em IFRS e USGAAP (LIB) - EAD",
+    "semester": "1º Semestre",
+    "turno": "Noite",
+    "status_academico": "Formado",
+    "category": "Verde",
+    "overallRiskScore": 21,
+    "temporalTrend": "Melhorando",
+    "trendVariation": "-8%",
+    "historyScores": [
+      {
+        "month": "Jun",
+        "score": 17
+      },
+      {
+        "month": "Jul",
+        "score": 19
+      },
+      {
+        "month": "Ago",
+        "score": 21
+      }
+    ],
+    "dimensions": {
+      "financeira": {
+        "score": 10,
+        "status": "Regular",
+        "detail": "Mensalidades em dia sem pendências ativas."
+      },
+      "academica": {
+        "score": 20,
+        "status": "Excelente",
+        "detail": "CR 7.2, 0 DP(s) e 10% de faltas registradas."
+      },
+      "relacionamento": {
+        "score": 20,
+        "status": "Estável",
+        "detail": "0 atendimentos registrados na CAA."
+      },
+      "geografica": {
+        "score": 25,
+        "status": "Acesso Normal",
+        "detail": "Residência em região de fácil acesso ao campus FECAP."
+      }
+    },
+    "explanation": "Estudante com curso concluído (Formado). Estudante com baixo risco de evasão, bom engajamento institucional e situação financeira regular.",
+    "recommendation": "Convidar para rede de ex-alunos Alvaristas e programas de pós-graduação/especialização FECAP."
+  },
+  {
+    "id": "5399209a-acdb-4453-a88f-f82347d9d5a1",
+    "name": "Mariana Duarte Souza (ID 7776)",
+    "ra": "7776",
+    "course": "Gestão Tributária (LIB)",
+    "semester": "1º Semestre",
+    "turno": "Noite",
+    "status_academico": "Matriculado",
+    "category": "Verde",
+    "overallRiskScore": 21,
+    "temporalTrend": "Melhorando",
+    "trendVariation": "-8%",
+    "historyScores": [
+      {
+        "month": "Jun",
+        "score": 17
+      },
+      {
+        "month": "Jul",
+        "score": 19
+      },
+      {
+        "month": "Ago",
+        "score": 21
+      }
+    ],
+    "dimensions": {
+      "financeira": {
+        "score": 10,
+        "status": "Regular",
+        "detail": "Mensalidades em dia sem pendências ativas."
+      },
+      "academica": {
+        "score": 20,
+        "status": "Excelente",
+        "detail": "CR 7.2, 0 DP(s) e 10% de faltas registradas."
+      },
+      "relacionamento": {
+        "score": 20,
+        "status": "Estável",
+        "detail": "0 atendimentos registrados na CAA."
+      },
+      "geografica": {
+        "score": 75,
+        "status": "Distância Elevada",
+        "detail": "Deslocamento de alta distância ao campus Liberdade."
+      }
+    },
+    "explanation": "Estudante com baixo risco de evasão, bom engajamento institucional e situação financeira regular.",
+    "recommendation": "Manter acompanhamento de rotina e incentivar programas de iniciação científica ou estágio."
+  },
+  {
+    "id": "22392719-7cea-4719-8814-50e733ece24e",
+    "name": "Matheus Henrique Silveira (ID 3111)",
+    "ra": "13111",
+    "course": "Graduação em Ciências Contábeis para Graduados",
+    "semester": "7º Semestre",
+    "turno": "Manhã",
+    "status_academico": "Matriculado",
+    "category": "Verde",
+    "overallRiskScore": 14,
+    "temporalTrend": "Melhorando",
+    "trendVariation": "-8%",
+    "historyScores": [
+      {
+        "month": "Jun",
+        "score": 10
+      },
+      {
+        "month": "Jul",
+        "score": 12
+      },
+      {
+        "month": "Ago",
+        "score": 14
+      }
+    ],
+    "dimensions": {
+      "financeira": {
+        "score": 10,
+        "status": "Regular",
+        "detail": "Mensalidades em dia sem pendências ativas."
+      },
+      "academica": {
+        "score": 20,
+        "status": "Excelente",
+        "detail": "CR 7.2, 0 DP(s) e 10% de faltas registradas."
+      },
+      "relacionamento": {
+        "score": 100,
+        "status": "Alto Risco",
+        "detail": "7 atendimentos registrados na CAA."
+      },
+      "geografica": {
+        "score": 25,
+        "status": "Acesso Normal",
+        "detail": "Residência em região de fácil acesso ao campus FECAP."
+      }
+    },
+    "explanation": "Estudante com baixo risco de evasão, bom engajamento institucional e situação financeira regular.",
+    "recommendation": "Manter acompanhamento de rotina e incentivar programas de iniciação científica ou estágio."
+  },
+  {
+    "id": "0e9958ee-6b19-41cb-b353-f42caeb4aff7",
+    "name": "Matheus Henrique Silveira (ID 7493)",
+    "ra": "17493",
+    "course": "Graduação em Ciências Contábeis",
+    "semester": "8º Semestre",
+    "turno": "Manhã",
+    "status_academico": "Matriculado",
+    "category": "Verde",
+    "overallRiskScore": 18,
+    "temporalTrend": "Melhorando",
+    "trendVariation": "-8%",
+    "historyScores": [
+      {
+        "month": "Jun",
+        "score": 14
+      },
+      {
+        "month": "Jul",
+        "score": 16
+      },
+      {
+        "month": "Ago",
+        "score": 18
+      }
+    ],
+    "dimensions": {
+      "financeira": {
+        "score": 10,
+        "status": "Regular",
+        "detail": "Mensalidades em dia sem pendências ativas."
+      },
+      "academica": {
+        "score": 55,
+        "status": "Atenção",
+        "detail": "CR 6.4, 1 DP(s) e 40% de faltas registradas."
+      },
+      "relacionamento": {
+        "score": 65,
+        "status": "Atenção",
+        "detail": "3 atendimentos registrados na CAA."
+      },
+      "geografica": {
+        "score": 75,
+        "status": "Distância Elevada",
+        "detail": "Deslocamento de alta distância ao campus Liberdade."
+      }
+    },
+    "explanation": "Estudante com baixo risco de evasão, bom engajamento institucional e situação financeira regular.",
+    "recommendation": "Manter acompanhamento de rotina e incentivar programas de iniciação científica ou estágio."
+  },
+  {
+    "id": "3239a333-131b-49b7-86db-4fc1c38fb191",
+    "name": "Matheus Henrique Silveira (ID 7675)",
+    "ra": "17675",
+    "course": "MBA em Gestão de Riscos e Compliance (PIN)",
+    "semester": "1º Semestre",
+    "turno": "Noite",
+    "status_academico": "Evasão",
+    "category": "Vermelho",
+    "overallRiskScore": 73,
+    "temporalTrend": "Piorando",
+    "trendVariation": "+15%",
+    "historyScores": [
+      {
+        "month": "Jun",
+        "score": 69
+      },
+      {
+        "month": "Jul",
+        "score": 71
+      },
+      {
+        "month": "Ago",
+        "score": 73
+      }
+    ],
+    "dimensions": {
+      "financeira": {
+        "score": 54,
+        "status": "Atenção",
+        "detail": "1 mensalidade(s) pendente(s). Débito estimado: R$ 1732.00."
+      },
+      "academica": {
+        "score": 20,
+        "status": "Excelente",
+        "detail": "CR 7.2, 0 DP(s) e 10% de faltas registradas."
+      },
+      "relacionamento": {
+        "score": 20,
+        "status": "Estável",
+        "detail": "0 atendimentos registrados na CAA."
+      },
+      "geografica": {
+        "score": 25,
+        "status": "Acesso Normal",
+        "detail": "Residência em região de fácil acesso ao campus FECAP."
+      }
+    },
+    "explanation": "Estudante com status de Evasão cadastrado no sistema acadêmico. Predição de alto risco pelo Random Forest impulsionada por atenção no financeiro e CR 7.2.",
+    "recommendation": "Orientar sobre programas de reingresso, destrancamento e renegociação em caso de contato do discente."
+  },
+  {
+    "id": "938e79c8-7d36-46e4-8e40-b4bf53f22cba",
+    "name": "Rafael Albuquerque Costa (ID 103)",
+    "ra": "103",
+    "course": "Mestrado Profissional em Administração",
+    "semester": "1º Semestre",
+    "turno": "Noite",
+    "status_academico": "Formado",
+    "category": "Verde",
+    "overallRiskScore": 13,
+    "temporalTrend": "Melhorando",
+    "trendVariation": "-8%",
+    "historyScores": [
+      {
+        "month": "Jun",
+        "score": 10
+      },
+      {
+        "month": "Jul",
+        "score": 11
+      },
+      {
+        "month": "Ago",
+        "score": 13
+      }
+    ],
+    "dimensions": {
+      "financeira": {
+        "score": 10,
+        "status": "Regular",
+        "detail": "Mensalidades em dia sem pendências ativas."
+      },
+      "academica": {
+        "score": 20,
+        "status": "Excelente",
+        "detail": "CR 7.2, 0 DP(s) e 10% de faltas registradas."
+      },
+      "relacionamento": {
+        "score": 20,
+        "status": "Estável",
+        "detail": "0 atendimentos registrados na CAA."
+      },
+      "geografica": {
+        "score": 25,
+        "status": "Acesso Normal",
+        "detail": "Residência em região de fácil acesso ao campus FECAP."
+      }
+    },
+    "explanation": "Estudante com curso concluído (Formado). Estudante com baixo risco de evasão, bom engajamento institucional e situação financeira regular.",
+    "recommendation": "Convidar para rede de ex-alunos Alvaristas e programas de pós-graduação/especialização FECAP."
+  },
+  {
+    "id": "c04d29d6-d84c-42eb-a7ed-1cce4d72d75c",
+    "name": "Rafael Albuquerque Costa (ID 2621)",
+    "ra": "12621",
+    "course": "Graduação em Ciências Contábeis",
+    "semester": "7º Semestre",
+    "turno": "Manhã",
+    "status_academico": "Matriculado",
+    "category": "Verde",
+    "overallRiskScore": 17,
+    "temporalTrend": "Melhorando",
+    "trendVariation": "-8%",
+    "historyScores": [
+      {
+        "month": "Jun",
+        "score": 13
+      },
+      {
+        "month": "Jul",
+        "score": 15
+      },
+      {
+        "month": "Ago",
+        "score": 17
+      }
+    ],
+    "dimensions": {
+      "financeira": {
+        "score": 10,
+        "status": "Regular",
+        "detail": "Mensalidades em dia sem pendências ativas."
+      },
+      "academica": {
+        "score": 20,
+        "status": "Excelente",
+        "detail": "CR 7.2, 0 DP(s) e 10% de faltas registradas."
+      },
+      "relacionamento": {
+        "score": 35,
+        "status": "Estável",
+        "detail": "1 atendimentos registrados na CAA."
+      },
+      "geografica": {
+        "score": 25,
+        "status": "Acesso Normal",
+        "detail": "Residência em região de fácil acesso ao campus FECAP."
+      }
+    },
+    "explanation": "Estudante com baixo risco de evasão, bom engajamento institucional e situação financeira regular.",
+    "recommendation": "Manter acompanhamento de rotina e incentivar programas de iniciação científica ou estágio."
+  },
+  {
+    "id": "8a84aa72-a075-4d4e-beff-33ab6c7ab7fb",
+    "name": "Rafael Albuquerque Costa (ID 6403)",
+    "ra": "6403",
+    "course": "Graduação em Ciências Contábeis",
+    "semester": "7º Semestre",
+    "turno": "Manhã",
+    "status_academico": "Matriculado",
+    "category": "Verde",
+    "overallRiskScore": 36,
+    "temporalTrend": "Melhorando",
+    "trendVariation": "-8%",
+    "historyScores": [
+      {
+        "month": "Jun",
+        "score": 32
+      },
+      {
+        "month": "Jul",
+        "score": 34
+      },
+      {
+        "month": "Ago",
+        "score": 36
+      }
+    ],
+    "dimensions": {
+      "financeira": {
+        "score": 10,
+        "status": "Regular",
+        "detail": "Mensalidades em dia sem pendências ativas."
+      },
+      "academica": {
+        "score": 20,
+        "status": "Excelente",
+        "detail": "CR 7.2, 0 DP(s) e 10% de faltas registradas."
+      },
+      "relacionamento": {
+        "score": 20,
+        "status": "Estável",
+        "detail": "0 atendimentos registrados na CAA."
+      },
+      "geografica": {
+        "score": 25,
+        "status": "Acesso Normal",
+        "detail": "Residência em região de fácil acesso ao campus FECAP."
+      }
+    },
+    "explanation": "Estudante com baixo risco de evasão, bom engajamento institucional e situação financeira regular.",
+    "recommendation": "Manter acompanhamento de rotina e incentivar programas de iniciação científica ou estágio."
+  },
+  {
+    "id": "1eae3e12-ccd3-4ec0-805b-ab110b20d425",
+    "name": "Rafael Albuquerque Costa (ID 9885)",
+    "ra": "9885",
+    "course": "Curso Aluno Especial (Disciplinas Isoladas)",
+    "semester": "1º Semestre",
+    "turno": "Noite",
+    "status_academico": "Matriculado",
+    "category": "Verde",
+    "overallRiskScore": 13,
+    "temporalTrend": "Melhorando",
+    "trendVariation": "-8%",
+    "historyScores": [
+      {
+        "month": "Jun",
+        "score": 10
+      },
+      {
+        "month": "Jul",
+        "score": 11
+      },
+      {
+        "month": "Ago",
+        "score": 13
+      }
+    ],
+    "dimensions": {
+      "financeira": {
+        "score": 10,
+        "status": "Regular",
+        "detail": "Mensalidades em dia sem pendências ativas."
+      },
+      "academica": {
+        "score": 20,
+        "status": "Excelente",
+        "detail": "CR 7.2, 0 DP(s) e 10% de faltas registradas."
+      },
+      "relacionamento": {
+        "score": 35,
+        "status": "Estável",
+        "detail": "1 atendimentos registrados na CAA."
+      },
+      "geografica": {
+        "score": 25,
+        "status": "Acesso Normal",
+        "detail": "Residência em região de fácil acesso ao campus FECAP."
+      }
+    },
+    "explanation": "Estudante com baixo risco de evasão, bom engajamento institucional e situação financeira regular.",
+    "recommendation": "Manter acompanhamento de rotina e incentivar programas de iniciação científica ou estágio."
+  },
+  {
+    "id": "a99b162a-6b44-47d3-a060-17570e27e9ef",
+    "name": "Rodrigo Santoro Peixoto (ID 3196)",
+    "ra": "3196",
+    "course": "Gestão Tributária (LIB)",
+    "semester": "1º Semestre",
+    "turno": "Noite",
+    "status_academico": "Formado",
+    "category": "Verde",
+    "overallRiskScore": 21,
+    "temporalTrend": "Melhorando",
+    "trendVariation": "-8%",
+    "historyScores": [
+      {
+        "month": "Jun",
+        "score": 17
+      },
+      {
+        "month": "Jul",
+        "score": 19
+      },
+      {
+        "month": "Ago",
+        "score": 21
+      }
+    ],
+    "dimensions": {
+      "financeira": {
+        "score": 10,
+        "status": "Regular",
+        "detail": "Mensalidades em dia sem pendências ativas."
+      },
+      "academica": {
+        "score": 20,
+        "status": "Excelente",
+        "detail": "CR 7.2, 0 DP(s) e 10% de faltas registradas."
+      },
+      "relacionamento": {
+        "score": 20,
+        "status": "Estável",
+        "detail": "0 atendimentos registrados na CAA."
+      },
+      "geografica": {
+        "score": 25,
+        "status": "Acesso Normal",
+        "detail": "Residência em região de fácil acesso ao campus FECAP."
+      }
+    },
+    "explanation": "Estudante com curso concluído (Formado). Estudante com baixo risco de evasão, bom engajamento institucional e situação financeira regular.",
+    "recommendation": "Convidar para rede de ex-alunos Alvaristas e programas de pós-graduação/especialização FECAP."
+  },
+  {
+    "id": "8fc1c1dd-f304-40cd-b193-41d3d422f7ac",
+    "name": "Rodrigo Santoro Peixoto (ID 5635)",
+    "ra": "5635",
+    "course": "Mestrado em Ciências Contábeis",
+    "semester": "1º Semestre",
+    "turno": "Noite",
+    "status_academico": "Matriculado",
+    "category": "Verde",
+    "overallRiskScore": 19,
+    "temporalTrend": "Melhorando",
+    "trendVariation": "-8%",
+    "historyScores": [
+      {
+        "month": "Jun",
+        "score": 15
+      },
+      {
+        "month": "Jul",
+        "score": 17
+      },
+      {
+        "month": "Ago",
+        "score": 19
+      }
+    ],
+    "dimensions": {
+      "financeira": {
+        "score": 10,
+        "status": "Regular",
+        "detail": "Mensalidades em dia sem pendências ativas."
+      },
+      "academica": {
+        "score": 20,
+        "status": "Excelente",
+        "detail": "CR 7.2, 0 DP(s) e 10% de faltas registradas."
+      },
+      "relacionamento": {
+        "score": 20,
+        "status": "Estável",
+        "detail": "0 atendimentos registrados na CAA."
+      },
+      "geografica": {
+        "score": 25,
+        "status": "Acesso Normal",
+        "detail": "Residência em região de fácil acesso ao campus FECAP."
+      }
+    },
+    "explanation": "Estudante com baixo risco de evasão, bom engajamento institucional e situação financeira regular.",
+    "recommendation": "Manter acompanhamento de rotina e incentivar programas de iniciação científica ou estágio."
+  },
+  {
+    "id": "0c2adeed-c715-4e94-bf35-5455476fe4b9",
+    "name": "Rodrigo Santoro Peixoto (ID 7415)",
+    "ra": "17415",
+    "course": "Mestrado Profissional em Administração",
+    "semester": "1º Semestre",
+    "turno": "Noite",
+    "status_academico": "Evasão",
+    "category": "Amarelo",
+    "overallRiskScore": 40,
+    "temporalTrend": "Estável",
+    "trendVariation": "±2%",
+    "historyScores": [
+      {
+        "month": "Jun",
+        "score": 36
+      },
+      {
+        "month": "Jul",
+        "score": 38
+      },
+      {
+        "month": "Ago",
+        "score": 40
+      }
+    ],
+    "dimensions": {
+      "financeira": {
+        "score": 10,
+        "status": "Regular",
+        "detail": "Mensalidades em dia sem pendências ativas."
+      },
+      "academica": {
+        "score": 20,
+        "status": "Excelente",
+        "detail": "CR 7.2, 0 DP(s) e 10% de faltas registradas."
+      },
+      "relacionamento": {
+        "score": 20,
+        "status": "Estável",
+        "detail": "0 atendimentos registrados na CAA."
+      },
+      "geografica": {
+        "score": 25,
+        "status": "Acesso Normal",
+        "detail": "Residência em região de fácil acesso ao campus FECAP."
+      }
+    },
+    "explanation": "Estudante com status de Evasão cadastrado no sistema acadêmico. Alerta preventivo de retenção em Mestrado Profissional em Administração; requer monitoramento de notas e assiduidade.",
+    "recommendation": "Orientar sobre programas de reingresso, destrancamento e renegociação em caso de contato do discente."
+  },
+  {
+    "id": "baac0f37-401c-4743-a73d-fad663e14f37",
+    "name": "Rodrigo Santoro Peixoto (ID 7896)",
+    "ra": "7896",
+    "course": "Contabilidade Empresarial com IFRS e USGAAP (LIB)",
+    "semester": "1º Semestre",
+    "turno": "Noite",
+    "status_academico": "Evasão",
+    "category": "Verde",
+    "overallRiskScore": 30,
+    "temporalTrend": "Melhorando",
+    "trendVariation": "-8%",
+    "historyScores": [
+      {
+        "month": "Jun",
+        "score": 26
+      },
+      {
+        "month": "Jul",
+        "score": 28
+      },
+      {
+        "month": "Ago",
+        "score": 30
+      }
+    ],
+    "dimensions": {
+      "financeira": {
+        "score": 10,
+        "status": "Regular",
+        "detail": "Mensalidades em dia sem pendências ativas."
+      },
+      "academica": {
+        "score": 20,
+        "status": "Excelente",
+        "detail": "CR 7.2, 0 DP(s) e 10% de faltas registradas."
+      },
+      "relacionamento": {
+        "score": 20,
+        "status": "Estável",
+        "detail": "0 atendimentos registrados na CAA."
+      },
+      "geografica": {
+        "score": 25,
+        "status": "Acesso Normal",
+        "detail": "Residência em região de fácil acesso ao campus FECAP."
+      }
+    },
+    "explanation": "Estudante com status de Evasão cadastrado no sistema acadêmico. Estudante com baixo risco de evasão, bom engajamento institucional e situação financeira regular.",
+    "recommendation": "Orientar sobre programas de reingresso, destrancamento e renegociação em caso de contato do discente."
+  },
+  {
+    "id": "4917f689-a528-4fba-a338-c0ebe2d9a65e",
+    "name": "Rodrigo Santoro Peixoto (ID 884)",
+    "ra": "884",
+    "course": "MBA Executivo em Finanças (PIN)",
+    "semester": "1º Semestre",
+    "turno": "Noite",
+    "status_academico": "Evasão",
+    "category": "Verde",
+    "overallRiskScore": 30,
+    "temporalTrend": "Melhorando",
+    "trendVariation": "-8%",
+    "historyScores": [
+      {
+        "month": "Jun",
+        "score": 26
+      },
+      {
+        "month": "Jul",
+        "score": 28
+      },
+      {
+        "month": "Ago",
+        "score": 30
+      }
+    ],
+    "dimensions": {
+      "financeira": {
+        "score": 10,
+        "status": "Regular",
+        "detail": "Mensalidades em dia sem pendências ativas."
+      },
+      "academica": {
+        "score": 20,
+        "status": "Excelente",
+        "detail": "CR 7.2, 0 DP(s) e 10% de faltas registradas."
+      },
+      "relacionamento": {
+        "score": 20,
+        "status": "Estável",
+        "detail": "0 atendimentos registrados na CAA."
+      },
+      "geografica": {
+        "score": 25,
+        "status": "Acesso Normal",
+        "detail": "Residência em região de fácil acesso ao campus FECAP."
+      }
+    },
+    "explanation": "Estudante com status de Evasão cadastrado no sistema acadêmico. Estudante com baixo risco de evasão, bom engajamento institucional e situação financeira regular.",
+    "recommendation": "Orientar sobre programas de reingresso, destrancamento e renegociação em caso de contato do discente."
+  },
+  {
+    "id": "605645d2-e960-4bdb-b8c0-e2c9dc59bb11",
+    "name": "Thiago Vinicius Ramos (ID 1422)",
+    "ra": "1422",
+    "course": "Gestão Financeira - Modalidade EAD (LIB)",
+    "semester": "1º Semestre",
+    "turno": "Noite",
+    "status_academico": "Matriculado",
+    "category": "Verde",
+    "overallRiskScore": 29,
+    "temporalTrend": "Melhorando",
+    "trendVariation": "-8%",
+    "historyScores": [
+      {
+        "month": "Jun",
+        "score": 25
+      },
+      {
+        "month": "Jul",
+        "score": 27
+      },
+      {
+        "month": "Ago",
+        "score": 29
+      }
+    ],
+    "dimensions": {
+      "financeira": {
+        "score": 10,
+        "status": "Regular",
+        "detail": "Mensalidades em dia sem pendências ativas."
+      },
+      "academica": {
+        "score": 20,
+        "status": "Excelente",
+        "detail": "CR 7.2, 0 DP(s) e 10% de faltas registradas."
+      },
+      "relacionamento": {
+        "score": 20,
+        "status": "Estável",
+        "detail": "0 atendimentos registrados na CAA."
+      },
+      "geografica": {
+        "score": 75,
+        "status": "Distância Elevada",
+        "detail": "Deslocamento de alta distância ao campus Liberdade."
+      }
+    },
+    "explanation": "Estudante com baixo risco de evasão, bom engajamento institucional e situação financeira regular.",
+    "recommendation": "Manter acompanhamento de rotina e incentivar programas de iniciação científica ou estágio."
+  },
+  {
+    "id": "58952a06-3377-493e-982f-0875ccfa478b",
+    "name": "Thiago Vinicius Ramos (ID 1854)",
+    "ra": "1854",
+    "course": "Curso Aluno Especial (Disciplinas Isoladas)",
+    "semester": "1º Semestre",
+    "turno": "Noite",
+    "status_academico": "Matriculado",
+    "category": "Verde",
+    "overallRiskScore": 38,
+    "temporalTrend": "Melhorando",
+    "trendVariation": "-8%",
+    "historyScores": [
+      {
+        "month": "Jun",
+        "score": 34
+      },
+      {
+        "month": "Jul",
+        "score": 36
+      },
+      {
+        "month": "Ago",
+        "score": 38
+      }
+    ],
+    "dimensions": {
+      "financeira": {
+        "score": 10,
+        "status": "Regular",
+        "detail": "Mensalidades em dia sem pendências ativas."
+      },
+      "academica": {
+        "score": 20,
+        "status": "Excelente",
+        "detail": "CR 7.2, 0 DP(s) e 10% de faltas registradas."
+      },
+      "relacionamento": {
+        "score": 20,
+        "status": "Estável",
+        "detail": "0 atendimentos registrados na CAA."
+      },
+      "geografica": {
+        "score": 75,
+        "status": "Distância Elevada",
+        "detail": "Deslocamento de alta distância ao campus Liberdade."
+      }
+    },
+    "explanation": "Estudante com baixo risco de evasão, bom engajamento institucional e situação financeira regular.",
+    "recommendation": "Manter acompanhamento de rotina e incentivar programas de iniciação científica ou estágio."
+  },
+  {
+    "id": "674ed0da-1e6f-426d-8ff5-a0a438058277",
+    "name": "Thiago Vinicius Ramos (ID 450)",
+    "ra": "450",
+    "course": "Gestão Financeira - Modalidade EAD (LIB)",
+    "semester": "1º Semestre",
+    "turno": "Noite",
+    "status_academico": "Matriculado",
+    "category": "Verde",
+    "overallRiskScore": 19,
+    "temporalTrend": "Melhorando",
+    "trendVariation": "-8%",
+    "historyScores": [
+      {
+        "month": "Jun",
+        "score": 15
+      },
+      {
+        "month": "Jul",
+        "score": 17
+      },
+      {
+        "month": "Ago",
+        "score": 19
+      }
+    ],
+    "dimensions": {
+      "financeira": {
+        "score": 10,
+        "status": "Regular",
+        "detail": "Mensalidades em dia sem pendências ativas."
+      },
+      "academica": {
+        "score": 20,
+        "status": "Excelente",
+        "detail": "CR 7.2, 0 DP(s) e 10% de faltas registradas."
+      },
+      "relacionamento": {
+        "score": 20,
+        "status": "Estável",
+        "detail": "0 atendimentos registrados na CAA."
+      },
+      "geografica": {
+        "score": 25,
+        "status": "Acesso Normal",
+        "detail": "Residência em região de fácil acesso ao campus FECAP."
+      }
+    },
+    "explanation": "Estudante com baixo risco de evasão, bom engajamento institucional e situação financeira regular.",
+    "recommendation": "Manter acompanhamento de rotina e incentivar programas de iniciação científica ou estágio."
+  },
+  {
+    "id": "f2763dd6-5906-4073-937b-fe794315b041",
+    "name": "Thiago Vinicius Ramos (ID 6578)",
+    "ra": "6578",
+    "course": "Mestrado Profissional em Administração",
+    "semester": "1º Semestre",
+    "turno": "Noite",
+    "status_academico": "Evasão",
+    "category": "Vermelho",
+    "overallRiskScore": 73,
+    "temporalTrend": "Piorando",
+    "trendVariation": "+15%",
+    "historyScores": [
+      {
+        "month": "Jun",
+        "score": 69
+      },
+      {
+        "month": "Jul",
+        "score": 71
+      },
+      {
+        "month": "Ago",
+        "score": 73
+      }
+    ],
+    "dimensions": {
+      "financeira": {
+        "score": 10,
+        "status": "Regular",
+        "detail": "Mensalidades em dia sem pendências ativas."
+      },
+      "academica": {
+        "score": 20,
+        "status": "Excelente",
+        "detail": "CR 7.2, 0 DP(s) e 10% de faltas registradas."
+      },
+      "relacionamento": {
+        "score": 20,
+        "status": "Estável",
+        "detail": "0 atendimentos registrados na CAA."
+      },
+      "geografica": {
+        "score": 75,
+        "status": "Distância Elevada",
+        "detail": "Deslocamento de alta distância ao campus Liberdade."
+      }
+    },
+    "explanation": "Estudante com status de Evasão cadastrado no sistema acadêmico. Predição de alto risco pelo Random Forest impulsionada por regular no financeiro e CR 7.2.",
+    "recommendation": "Orientar sobre programas de reingresso, destrancamento e renegociação em caso de contato do discente."
+  }
+]

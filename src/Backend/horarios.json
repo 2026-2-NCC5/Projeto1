@@ -1,0 +1,2619 @@
+[
+  {
+    "turma_id": "1na_eixo_comum",
+    "codigo": "1NA - ADM+CC+CE",
+    "apelidos": [
+      "1na",
+      "1na adm",
+      "1na contabeis",
+      "1na cc",
+      "1na economia",
+      "1na econo",
+      "1na ce",
+      "1o semestre adm",
+      "1o semestre economia",
+      "1o semestre contabeis"
+    ],
+    "curso": "Eixo Comum (Administração, Ciências Contábeis e Ciências Econômicas)",
+    "semestre": 1,
+    "periodo": "Noturno",
+    "grade": [
+      {
+        "dia": "Segunda-feira",
+        "horario": "19:00 às 22:40",
+        "disciplina": "Cálculo I",
+        "professor": "João Pedro da Costa Pinto",
+        "sala_lab": "534-C"
+      },
+      {
+        "dia": "Terça-feira",
+        "horario": "19:00 às 22:40",
+        "disciplina": "Business Technology",
+        "professor": "Adriano Felix Valente",
+        "sala_lab": "LAB 321"
+      },
+      {
+        "dia": "Quarta-feira",
+        "horario": "19:00 às 22:40",
+        "disciplina": "Microeconomia",
+        "professor": "Jobson Monteiro de Souza",
+        "sala_lab": "534-C"
+      },
+      {
+        "dia": "Quinta-feira",
+        "horario": "19:00 às 22:40",
+        "disciplina": "Fundamentos de Administração",
+        "professor": "Jesus de Lisboa Gomes",
+        "sala_lab": "534-C"
+      },
+      {
+        "dia": "Sexta-feira",
+        "horario": "19:00 às 22:40",
+        "disciplina": "Fundamentos de Contabilidade",
+        "professor": "Lucineide Bispo dos Reis Luz",
+        "sala_lab": "534-C"
+      }
+    ]
+  },
+  {
+    "turma_id": "1nb_eixo_comum",
+    "codigo": "1NB - ADM+CC+CE",
+    "apelidos": [
+      "1nb",
+      "1nb adm",
+      "1nb contabeis",
+      "1nb cc",
+      "1nb economia",
+      "1nb econo",
+      "1nb ce"
+    ],
+    "curso": "Eixo Comum (Administração, Ciências Contábeis e Ciências Econômicas)",
+    "semestre": 1,
+    "periodo": "Noturno",
+    "grade": [
+      {
+        "dia": "Segunda-feira",
+        "horario": "19:00 às 22:40",
+        "disciplina": "Microeconomia",
+        "professor": "Renata Muniz do Nascimento",
+        "sala_lab": "510-A"
+      },
+      {
+        "dia": "Terça-feira",
+        "horario": "19:00 às 22:40",
+        "disciplina": "Business Technology",
+        "professor": "Adriano Felix Valente",
+        "sala_lab": "LAB 321"
+      },
+      {
+        "dia": "Quarta-feira",
+        "horario": "19:00 às 22:40",
+        "disciplina": "Cálculo I",
+        "professor": "João Pedro da Costa Pinto",
+        "sala_lab": "510-A"
+      },
+      {
+        "dia": "Quinta-feira",
+        "horario": "19:00 às 22:40",
+        "disciplina": "Fundamentos de Contabilidade",
+        "professor": "Paula Sanchez Astorino",
+        "sala_lab": "510-A"
+      },
+      {
+        "dia": "Sexta-feira",
+        "horario": "19:00 às 22:40",
+        "disciplina": "Fundamentos de Administração",
+        "professor": "João Paulo Vergueiro",
+        "sala_lab": "334-C"
+      }
+    ]
+  },
+  {
+    "turma_id": "2na_eixo_comum",
+    "codigo": "2NA - ADM+CC+CE",
+    "apelidos": [
+      "2na",
+      "2na adm",
+      "2na contabeis",
+      "2na cc",
+      "2na economia",
+      "2na econo",
+      "2na ce"
+    ],
+    "curso": "Eixo Comum (Administração, Ciências Contábeis e Ciências Econômicas)",
+    "semestre": 2,
+    "periodo": "Noturno",
+    "grade": [
+      {
+        "dia": "Segunda-feira",
+        "horario": "19:00 às 22:40",
+        "disciplina": "Comunicação Aplicada",
+        "professor": "Angélica Miyuki Farias",
+        "sala_lab": "634-C"
+      },
+      {
+        "dia": "Terça-feira",
+        "horario": "19:00 às 22:40",
+        "disciplina": "Raciocínio Lógico e Analítico",
+        "professor": "Elaine Cristina Camunha",
+        "sala_lab": "634-C"
+      },
+      {
+        "dia": "Quarta-feira",
+        "horario": "19:00 às 22:40",
+        "disciplina": "Macroeconomia",
+        "professor": "Erivaldo Costa Vieira",
+        "sala_lab": "634-C"
+      },
+      {
+        "dia": "Quinta-feira",
+        "horario": "19:00 às 22:40",
+        "disciplina": "Cálculo II",
+        "professor": "Cristina Machado Corrêa Leite",
+        "sala_lab": "634-C"
+      },
+      {
+        "dia": "Sexta-feira",
+        "horario": "19:00 às 22:40",
+        "disciplina": "Análise das Demonstrações Financeiras",
+        "professor": "Verônica de Fátima Santana",
+        "sala_lab": "634-C"
+      }
+    ]
+  },
+  {
+    "turma_id": "2nb_eixo_comum",
+    "codigo": "2NB - ADM+CC+CE",
+    "apelidos": [
+      "2nb",
+      "2nb adm",
+      "2nb contabeis",
+      "2nb cc",
+      "2nb economia",
+      "2nb econo",
+      "2nb ce"
+    ],
+    "curso": "Eixo Comum (Administração, Ciências Contábeis e Ciências Econômicas)",
+    "semestre": 2,
+    "periodo": "Noturno",
+    "grade": [
+      {
+        "dia": "Segunda-feira",
+        "horario": "19:00 às 22:40",
+        "disciplina": "Análise das Demonstrações Financeiras",
+        "professor": "Lucineide Bispo dos Reis Luz",
+        "sala_lab": "632-C"
+      },
+      {
+        "dia": "Terça-feira",
+        "horario": "19:00 às 22:40",
+        "disciplina": "Macroeconomia",
+        "professor": "Allan Silveira Carvalho",
+        "sala_lab": "632-C"
+      },
+      {
+        "dia": "Quarta-feira",
+        "horario": "19:00 às 22:40",
+        "disciplina": "Raciocínio Lógico e Analítico",
+        "professor": "Elaine Cristina Camunha",
+        "sala_lab": "632-C"
+      },
+      {
+        "dia": "Quinta-feira",
+        "horario": "19:00 às 22:40",
+        "disciplina": "Comunicação Aplicada",
+        "professor": "Renira Appa",
+        "sala_lab": "632-C"
+      },
+      {
+        "dia": "Sexta-feira",
+        "horario": "19:00 às 22:40",
+        "disciplina": "Cálculo II",
+        "professor": "João Pedro da Costa Pinto",
+        "sala_lab": "632-C"
+      }
+    ]
+  },
+  {
+    "turma_id": "2nc_eixo_comum",
+    "codigo": "2NC - ADM+CC+CE",
+    "apelidos": [
+      "2nc",
+      "2nc adm",
+      "2nc contabeis",
+      "2nc cc",
+      "2nc economia",
+      "2nc econo",
+      "2nc ce"
+    ],
+    "curso": "Eixo Comum (Administração, Ciências Contábeis e Ciências Econômicas)",
+    "semestre": 2,
+    "periodo": "Noturno",
+    "grade": [
+      {
+        "dia": "Segunda-feira",
+        "horario": "19:00 às 22:40",
+        "disciplina": "Raciocínio Lógico e Analítico",
+        "professor": "Elaine Cristina Camunha",
+        "sala_lab": "232-C"
+      },
+      {
+        "dia": "Terça-feira",
+        "horario": "19:00 às 22:40",
+        "disciplina": "Cálculo II",
+        "professor": "Renata Muniz do Nascimento",
+        "sala_lab": "232-C"
+      },
+      {
+        "dia": "Quarta-feira",
+        "horario": "19:00 às 22:40",
+        "disciplina": "Análise das Demonstrações Financeiras",
+        "professor": "Giovana Carrer",
+        "sala_lab": "232-C"
+      },
+      {
+        "dia": "Quinta-feira",
+        "horario": "19:00 às 22:40",
+        "disciplina": "Comunicação Aplicada",
+        "professor": "Luciana Paula Bento Luciani",
+        "sala_lab": "232-C"
+      },
+      {
+        "dia": "Sexta-feira",
+        "horario": "19:00 às 22:40",
+        "disciplina": "Macroeconomia",
+        "professor": "Erivaldo Costa Vieira",
+        "sala_lab": "232-C"
+      }
+    ]
+  },
+  {
+    "turma_id": "2nd_eixo_comum",
+    "codigo": "2ND - ADM+CC+CE",
+    "apelidos": [
+      "2nd",
+      "2nd adm",
+      "2nd contabeis",
+      "2nd cc",
+      "2nd economia",
+      "2nd econo",
+      "2nd ce"
+    ],
+    "curso": "Eixo Comum (Administração, Ciências Contábeis e Ciências Econômicas)",
+    "semestre": 2,
+    "periodo": "Noturno",
+    "grade": [
+      {
+        "dia": "Segunda-feira",
+        "horario": "19:00 às 22:40",
+        "disciplina": "Macroeconomia",
+        "professor": "Jefferson do Prado",
+        "sala_lab": "503-A"
+      },
+      {
+        "dia": "Terça-feira",
+        "horario": "19:00 às 22:40",
+        "disciplina": "Análise das Demonstrações Financeiras",
+        "professor": "Lucineide Bispo dos Reis Luz",
+        "sala_lab": "503-A"
+      },
+      {
+        "dia": "Quarta-feira",
+        "horario": "19:00 às 22:40",
+        "disciplina": "Comunicação Aplicada",
+        "professor": "Renira Appa",
+        "sala_lab": "503-A"
+      },
+      {
+        "dia": "Quinta-feira",
+        "horario": "19:00 às 22:40",
+        "disciplina": "Cálculo II",
+        "professor": "João Pedro da Costa Pinto",
+        "sala_lab": "503-A"
+      },
+      {
+        "dia": "Sexta-feira",
+        "horario": "19:00 às 22:40",
+        "disciplina": "Raciocínio Lógico e Analítico",
+        "professor": "Elaine Cristina Camunha",
+        "sala_lab": "503-A"
+      }
+    ]
+  },
+  {
+    "turma_id": "3na_adm_cc",
+    "codigo": "3NA - ADM/CC",
+    "apelidos": [
+      "3na adm",
+      "3na contabeis",
+      "3na cc",
+      "3o semestre adm",
+      "3o semestre contabeis"
+    ],
+    "curso": "Administração e Ciências Contábeis",
+    "semestre": 3,
+    "periodo": "Noturno",
+    "grade": [
+      {
+        "dia": "Segunda-feira",
+        "horario": "19:00 às 22:40",
+        "disciplina": "Psicologia, Liderança e Soft Skills",
+        "professor": "Maria de Lurdes Zamora Damião",
+        "sala_lab": "332-C"
+      },
+      {
+        "dia": "Terça-feira",
+        "horario": "19:00 às 22:40",
+        "disciplina": "Análise Descritiva de Dados",
+        "professor": "Cristina Machado Corrêa Leite",
+        "sala_lab": "332-C"
+      },
+      {
+        "dia": "Quarta-feira",
+        "horario": "19:00 às 22:40",
+        "disciplina": "Controladoria e Custos (Só ADM) / Contabilidade Intermediária (Só Contábeis)",
+        "professor": "Lucineide Bispo (ADM) / Régis Cesar Cunha (Contábeis)",
+        "sala_lab": "201-B (ADM) / 205-B (CC)"
+      },
+      {
+        "dia": "Quinta-feira",
+        "horario": "19:00 às 22:40",
+        "disciplina": "Fundamentos de Direito Empresarial",
+        "professor": "Luís Carlos Felipone",
+        "sala_lab": "332-C"
+      },
+      {
+        "dia": "Sexta-feira",
+        "horario": "19:00 às 22:40",
+        "disciplina": "Business English I",
+        "professor": "Instituto de Idiomas",
+        "sala_lab": "Sala de Origem"
+      }
+    ]
+  },
+  {
+    "turma_id": "4na_adm_cc",
+    "codigo": "4NA - ADM/CC",
+    "apelidos": [
+      "4na adm",
+      "4na contabeis",
+      "4na cc",
+      "4o semestre adm",
+      "4o semestre contabeis"
+    ],
+    "curso": "Administração e Ciências Contábeis",
+    "semestre": 4,
+    "periodo": "Noturno",
+    "grade": [
+      {
+        "dia": "Segunda-feira",
+        "horario": "19:00 às 22:40",
+        "disciplina": "Fundamentos de Marketing (Só ADM) / Lab. Práticas Contábeis (Só CC)",
+        "professor": "Carlos Loures (ADM) / Maurício Cunha (CC)",
+        "sala_lab": "531-C (ADM) / LAB 350E (CC)"
+      },
+      {
+        "dia": "Terça-feira",
+        "horario": "19:00 às 22:40",
+        "disciplina": "Gestão de Pessoas (Só ADM) / Contabilidade Financeira (Só CC)",
+        "professor": "Marcelo Treff (ADM) / Régis Cunha (CC)",
+        "sala_lab": "531-C (ADM) / 207-B (CC)"
+      },
+      {
+        "dia": "Quarta-feira",
+        "horario": "19:00 às 22:40",
+        "disciplina": "Fundamentos de Finanças",
+        "professor": "Flávia Silva",
+        "sala_lab": "533-C"
+      },
+      {
+        "dia": "Quinta-feira",
+        "horario": "19:00 às 22:40",
+        "disciplina": "Análise Inferencial de Dados",
+        "professor": "Marco Aurélio Lima Barbosa",
+        "sala_lab": "533-C"
+      },
+      {
+        "dia": "Sexta-feira",
+        "horario": "19:00 às 22:40",
+        "disciplina": "Business English II",
+        "professor": "Instituto de Idiomas",
+        "sala_lab": "Sala de Origem"
+      }
+    ]
+  },
+  {
+    "turma_id": "4nb_adm_cc",
+    "codigo": "4NB - ADM/CC",
+    "apelidos": [
+      "4nb adm",
+      "4nb contabeis",
+      "4nb cc"
+    ],
+    "curso": "Administração e Ciências Contábeis",
+    "semestre": 4,
+    "periodo": "Noturno",
+    "grade": [
+      {
+        "dia": "Segunda-feira",
+        "horario": "19:00 às 22:40",
+        "disciplina": "Fundamentos de Marketing (Só ADM) / Contabilidade Financeira (Só CC)",
+        "professor": "Carlos Loures (ADM) / Régis Cunha (CC)",
+        "sala_lab": "531-C (ADM) / 207-B (CC)"
+      },
+      {
+        "dia": "Terça-feira",
+        "horario": "19:00 às 22:40",
+        "disciplina": "Gestão de Pessoas (Só ADM) / Lab. Práticas Contábeis (Só CC)",
+        "professor": "Marcelo Treff (ADM) / Maurício Cunha (CC)",
+        "sala_lab": "531-C (ADM) / LAB 350E (CC)"
+      },
+      {
+        "dia": "Quarta-feira",
+        "horario": "19:00 às 22:40",
+        "disciplina": "Análise Inferencial de Dados",
+        "professor": "Marco Aurélio Lima Barbosa",
+        "sala_lab": "531-C"
+      },
+      {
+        "dia": "Quinta-feira",
+        "horario": "19:00 às 22:40",
+        "disciplina": "Fundamentos de Finanças",
+        "professor": "Flávia Silva",
+        "sala_lab": "531-C"
+      },
+      {
+        "dia": "Sexta-feira",
+        "horario": "19:00 às 22:40",
+        "disciplina": "Business English II",
+        "professor": "Instituto de Idiomas",
+        "sala_lab": "Sala de Origem"
+      }
+    ]
+  },
+  {
+    "turma_id": "5na_adm",
+    "codigo": "5NA - ADM",
+    "apelidos": [
+      "5na adm",
+      "5na administracao",
+      "5o semestre adm"
+    ],
+    "curso": "Administração",
+    "semestre": 5,
+    "periodo": "Noturno",
+    "grade": [
+      {
+        "dia": "Segunda-feira",
+        "horario": "19:00 às 22:40",
+        "disciplina": "Marketing de Serviços & Varejo",
+        "professor": "Roberto Falcão",
+        "sala_lab": "509-B"
+      },
+      {
+        "dia": "Terça-feira",
+        "horario": "19:00 às 22:40",
+        "disciplina": "Operações e Serviços",
+        "professor": "Paulo Giuliani",
+        "sala_lab": "509-B"
+      },
+      {
+        "dia": "Quarta-feira",
+        "horario": "19:00 às 22:40",
+        "disciplina": "Algoritmos e Lógica de Programação",
+        "professor": "Robson de Oliveira Cardoso",
+        "sala_lab": "LAB 311/320"
+      },
+      {
+        "dia": "Quinta-feira",
+        "horario": "19:00 às 22:40",
+        "disciplina": "Empreendedorismo Digital e DNP",
+        "professor": "Yan Lopes",
+        "sala_lab": "509-B"
+      },
+      {
+        "dia": "Sexta-feira",
+        "horario": "19:00 às 22:40",
+        "disciplina": "Finanças Corporativas",
+        "professor": "Jefferson do Prado",
+        "sala_lab": "509-B"
+      }
+    ]
+  },
+  {
+    "turma_id": "6na_adm",
+    "codigo": "6NA - ADM",
+    "apelidos": [
+      "6na adm",
+      "6na administracao",
+      "6o semestre adm"
+    ],
+    "curso": "Administração",
+    "semestre": 6,
+    "periodo": "Noturno",
+    "grade": [
+      {
+        "dia": "Segunda-feira",
+        "horario": "19:00 às 22:40",
+        "disciplina": "Logística e Supply Chain",
+        "professor": "Sandra Façanha",
+        "sala_lab": "604-B"
+      },
+      {
+        "dia": "Terça-feira",
+        "horario": "19:00 às 22:40",
+        "disciplina": "Risco e Estrutura de Capital",
+        "professor": "Edison Simoni",
+        "sala_lab": "Bib 1/Bib 2"
+      },
+      {
+        "dia": "Quarta-feira",
+        "horario": "19:00 às 22:40",
+        "disciplina": "Marketing Digital e B2B",
+        "professor": "Tatiana Ferrara",
+        "sala_lab": "604-B"
+      },
+      {
+        "dia": "Quinta-feira",
+        "horario": "19:00 às 22:40",
+        "disciplina": "Gestão de Pessoas",
+        "professor": "Marcelo Treff",
+        "sala_lab": "604-B"
+      },
+      {
+        "dia": "Sexta-feira",
+        "horario": "19:00 às 22:40",
+        "disciplina": "Gestão de Big Data",
+        "professor": "Yan Lopes",
+        "sala_lab": "LAB 350E"
+      }
+    ]
+  },
+  {
+    "turma_id": "7na_adm",
+    "codigo": "7NA - ADM",
+    "apelidos": [
+      "7na adm",
+      "7na administracao",
+      "7o semestre adm"
+    ],
+    "curso": "Administração",
+    "semestre": 7,
+    "periodo": "Noturno",
+    "grade": [
+      {
+        "dia": "Segunda-feira",
+        "horario": "19:00 às 22:40",
+        "disciplina": "Estratégia Organizacional",
+        "professor": "Fabiano Rodrigues",
+        "sala_lab": "105-B"
+      },
+      {
+        "dia": "Terça-feira",
+        "horario": "19:00 às 20:40",
+        "disciplina": "Processos (BPM)",
+        "professor": "Sandra Façanha",
+        "sala_lab": "105-B"
+      },
+      {
+        "dia": "Terça-feira",
+        "horario": "21:00 às 22:40",
+        "disciplina": "Gestão de Projetos",
+        "professor": "Wanderley Carneiro",
+        "sala_lab": "105-B"
+      },
+      {
+        "dia": "Quarta-feira",
+        "horario": "19:00 às 22:40",
+        "disciplina": "Eletivas (Análise Financeira LAB 307 / Agronegócio 503-B / Fund. Comex 610-B / Investimentos 610-B / Analytics LAB 350E)",
+        "professor": "Pedro Barros / Rafael Barisauskas / Michele Candeloro / Janaina Grossi / Yan Lopes",
+        "sala_lab": "Conforme Eletiva"
+      },
+      {
+        "dia": "Quinta-feira",
+        "horario": "19:00 às 22:40",
+        "disciplina": "Gestão de Vendas e Negociação",
+        "professor": "Tatiana Ferrara",
+        "sala_lab": "105-B"
+      },
+      {
+        "dia": "Sexta-feira",
+        "horario": "19:00 às 22:40",
+        "disciplina": "Eletivas (IA Aplicada a Negócios / Valuation / Narrativas / Gestão de Compras / Análise de Dados com R / Finanças Internacionais / Trade Marketing / Gestão Tributária)",
+        "professor": "Diversos Professores",
+        "sala_lab": "Conforme Eletiva"
+      }
+    ]
+  },
+  {
+    "turma_id": "8na_adm",
+    "codigo": "8NA - ADM",
+    "apelidos": [
+      "8na adm",
+      "8na administracao",
+      "8o semestre adm"
+    ],
+    "curso": "Administração",
+    "semestre": 8,
+    "periodo": "Noturno",
+    "grade": [
+      {
+        "dia": "Segunda-feira",
+        "horario": "19:00 às 22:40",
+        "disciplina": "Laboratório de Gestão (Business Game)",
+        "professor": "Taiguara Langrafe",
+        "sala_lab": "LAB 200"
+      },
+      {
+        "dia": "Terça-feira",
+        "horario": "19:00 às 22:40",
+        "disciplina": "Técnicas de Resolução de Problemas",
+        "professor": "Leonardo Fabris Lugoboni",
+        "sala_lab": "507-A"
+      },
+      {
+        "dia": "Quarta-feira",
+        "horario": "19:00 às 22:40",
+        "disciplina": "Eletivas (Análise Financeira LAB 307 / Agronegócio 503-B / Fund. Comex 105-B / Investimentos 610-B / Analytics LAB 350E)",
+        "professor": "Pedro Barros / Rafael Barisauskas / Michele Candeloro / Janaina Grossi / Yan Lopes",
+        "sala_lab": "Conforme Eletiva"
+      },
+      {
+        "dia": "Quinta-feira",
+        "horario": "19:00 às 20:40",
+        "disciplina": "Negócios Internacionais",
+        "professor": "Miriam Vale",
+        "sala_lab": "507-A"
+      },
+      {
+        "dia": "Quinta-feira",
+        "horario": "21:00 às 22:40",
+        "disciplina": "Sustentabilidade e Responsabilidade Social Corporativa",
+        "professor": "João Paulo Vergueiro",
+        "sala_lab": "507-A"
+      },
+      {
+        "dia": "Sexta-feira",
+        "horario": "19:00 às 22:40",
+        "disciplina": "Eletivas (IA Aplicada a Negócios / Valuation / Narrativas / Gestão de Compras / Análise de Dados com R / Finanças Internacionais / Trade Marketing / Gestão Tributária)",
+        "professor": "Diversos Professores",
+        "sala_lab": "Conforme Eletiva"
+      }
+    ]
+  },
+  {
+    "turma_id": "3na_ce",
+    "codigo": "3NA - Economia (CE)",
+    "apelidos": [
+      "3na ce",
+      "3na economia",
+      "3na econo",
+      "3na econ",
+      "3o semestre economia",
+      "3o semestre econo"
+    ],
+    "curso": "Ciências Econômicas",
+    "semestre": 3,
+    "periodo": "Noturno",
+    "grade": [
+      {
+        "dia": "Segunda-feira",
+        "horario": "19:00 às 22:40",
+        "disciplina": "Microeconomia II",
+        "professor": "Erivaldo Costa Vieira",
+        "sala_lab": "334-C"
+      },
+      {
+        "dia": "Terça-feira",
+        "horario": "19:00 às 20:40",
+        "disciplina": "Macroeconomia II",
+        "professor": "Andres Vivas Frontana",
+        "sala_lab": "334-C"
+      },
+      {
+        "dia": "Terça-feira",
+        "horario": "21:00 às 22:40",
+        "disciplina": "Álgebra Linear",
+        "professor": "Denis Barreto de Souza",
+        "sala_lab": "334-C"
+      },
+      {
+        "dia": "Quarta-feira",
+        "horario": "19:00 às 22:40",
+        "disciplina": "Análise Descritiva de Dados",
+        "professor": "Cristina Machado Corrêa Leite",
+        "sala_lab": "334-C"
+      },
+      {
+        "dia": "Quinta-feira",
+        "horario": "19:00 às 20:40",
+        "disciplina": "Macroeconomia II",
+        "professor": "Andres Vivas Frontana",
+        "sala_lab": "334-C"
+      },
+      {
+        "dia": "Quinta-feira",
+        "horario": "21:00 às 22:40",
+        "disciplina": "Álgebra Linear",
+        "professor": "Denis Barreto de Souza",
+        "sala_lab": "334-C"
+      },
+      {
+        "dia": "Sexta-feira",
+        "horario": "19:00 às 22:40",
+        "disciplina": "Business English I",
+        "professor": "Instituto de Idiomas",
+        "sala_lab": "Sala de Origem"
+      }
+    ]
+  },
+  {
+    "turma_id": "4na_ce",
+    "codigo": "4NA - Economia (CE)",
+    "apelidos": [
+      "4na ce",
+      "4na economia",
+      "4na econo",
+      "4na econ",
+      "4o semestre economia",
+      "4o semestre econo"
+    ],
+    "curso": "Ciências Econômicas",
+    "semestre": 4,
+    "periodo": "Noturno",
+    "grade": [
+      {
+        "dia": "Segunda-feira",
+        "horario": "19:00 às 22:40",
+        "disciplina": "Microeconomia III",
+        "professor": "Denis Barreto de Souza",
+        "sala_lab": "606-B"
+      },
+      {
+        "dia": "Terça-feira",
+        "horario": "19:00 às 22:40",
+        "disciplina": "Fundamentos de Finanças",
+        "professor": "Flávia Silva",
+        "sala_lab": "606-B"
+      },
+      {
+        "dia": "Quarta-feira",
+        "horario": "19:00 às 22:40",
+        "disciplina": "Análise Inferencial de Dados",
+        "professor": "Jefferson do Prado",
+        "sala_lab": "606-B"
+      },
+      {
+        "dia": "Quinta-feira",
+        "horario": "19:00 às 22:40",
+        "disciplina": "Macroeconomia III",
+        "professor": "Allexandro Emmanuel Mori Coelho",
+        "sala_lab": "606-B"
+      },
+      {
+        "dia": "Sexta-feira",
+        "horario": "19:00 às 22:40",
+        "disciplina": "Business English II",
+        "professor": "Instituto de Idiomas",
+        "sala_lab": "Sala de Origem"
+      }
+    ]
+  },
+  {
+    "turma_id": "4nb_ce",
+    "codigo": "4NB - Economia (CE)",
+    "apelidos": [
+      "4nb ce",
+      "4nb economia",
+      "4nb econo",
+      "4nb econ"
+    ],
+    "curso": "Ciências Econômicas",
+    "semestre": 4,
+    "periodo": "Noturno",
+    "grade": [
+      {
+        "dia": "Segunda-feira",
+        "horario": "19:00 às 22:40",
+        "disciplina": "Fundamentos de Finanças",
+        "professor": "Flávia Silva",
+        "sala_lab": "609-B"
+      },
+      {
+        "dia": "Terça-feira",
+        "horario": "19:00 às 22:40",
+        "disciplina": "Macroeconomia III",
+        "professor": "Allexandro Emmanuel Mori Coelho",
+        "sala_lab": "609-B"
+      },
+      {
+        "dia": "Quarta-feira",
+        "horario": "19:00 às 22:40",
+        "disciplina": "Microeconomia III",
+        "professor": "Denis Barreto de Souza",
+        "sala_lab": "609-B"
+      },
+      {
+        "dia": "Quinta-feira",
+        "horario": "19:00 às 22:40",
+        "disciplina": "Análise Inferencial de Dados",
+        "professor": "Gustavo Batista Araújo",
+        "sala_lab": "609-B"
+      },
+      {
+        "dia": "Sexta-feira",
+        "horario": "19:00 às 22:40",
+        "disciplina": "Business English II",
+        "professor": "Instituto de Idiomas",
+        "sala_lab": "Sala de Origem"
+      }
+    ]
+  },
+  {
+    "turma_id": "5na_ce",
+    "codigo": "5NA - Economia (CE)",
+    "apelidos": [
+      "5na ce",
+      "5na economia",
+      "5na econo",
+      "5na econ",
+      "5o semestre economia",
+      "5o semestre econo"
+    ],
+    "curso": "Ciências Econômicas",
+    "semestre": 5,
+    "periodo": "Noturno",
+    "grade": [
+      {
+        "dia": "Segunda-feira",
+        "horario": "19:00 às 22:40",
+        "disciplina": "Macroeconomia IV",
+        "professor": "José Carlos da Silva",
+        "sala_lab": "605-B"
+      },
+      {
+        "dia": "Terça-feira",
+        "horario": "19:00 às 22:40",
+        "disciplina": "Modelagem Preditiva - Cross Section",
+        "professor": "Gustavo Batista Araújo",
+        "sala_lab": "605-B"
+      },
+      {
+        "dia": "Quarta-feira",
+        "horario": "19:00 às 22:40",
+        "disciplina": "Algoritmos e Lógica de Programação",
+        "professor": "Antonio Carlos Noguero",
+        "sala_lab": "LAB Bib1 e Bib2"
+      },
+      {
+        "dia": "Quinta-feira",
+        "horario": "19:00 às 22:40",
+        "disciplina": "Microeconomia IV",
+        "professor": "Erivaldo Costa Vieira",
+        "sala_lab": "605-B"
+      },
+      {
+        "dia": "Sexta-feira",
+        "horario": "19:00 às 22:40",
+        "disciplina": "Finanças Corporativas",
+        "professor": "Janaína Cássia Grossi",
+        "sala_lab": "605-B"
+      }
+    ]
+  },
+  {
+    "turma_id": "6na_ce",
+    "codigo": "6NA - Economia (CE)",
+    "apelidos": [
+      "6na ce",
+      "6na economia",
+      "6na econo",
+      "6na econ",
+      "6o semestre economia",
+      "6o semestre econo"
+    ],
+    "curso": "Ciências Econômicas",
+    "semestre": 6,
+    "periodo": "Noturno",
+    "grade": [
+      {
+        "dia": "Segunda-feira",
+        "horario": "19:00 às 22:40",
+        "disciplina": "Economia Internacional",
+        "professor": "Jobson Monteiro de Souza",
+        "sala_lab": "603-B"
+      },
+      {
+        "dia": "Terça-feira",
+        "horario": "19:00 às 22:40",
+        "disciplina": "Risco e Estrutura de Capital",
+        "professor": "Héber Pessoa da Silveira",
+        "sala_lab": "603-B"
+      },
+      {
+        "dia": "Quarta-feira",
+        "horario": "19:00 às 22:40",
+        "disciplina": "Modelagem Preditiva: Time Series",
+        "professor": "José Carlos da Silva",
+        "sala_lab": "603-B"
+      },
+      {
+        "dia": "Quinta-feira",
+        "horario": "19:00 às 20:40",
+        "disciplina": "Modelagem Preditiva - Panel Data",
+        "professor": "Denis Barreto de Souza",
+        "sala_lab": "LAB 350E"
+      },
+      {
+        "dia": "Quinta-feira",
+        "horario": "21:00 às 22:40",
+        "disciplina": "Macroeconometria",
+        "professor": "José Carlos da Silva",
+        "sala_lab": "LAB 350E"
+      },
+      {
+        "dia": "Sexta-feira",
+        "horario": "19:00 às 22:40",
+        "disciplina": "História Econômica Geral",
+        "professor": "Daniel Pereira da Silva",
+        "sala_lab": "603-B"
+      }
+    ]
+  },
+  {
+    "turma_id": "7na_ce",
+    "codigo": "7NA - Economia (CE)",
+    "apelidos": [
+      "7na ce",
+      "7na economia",
+      "7na econo",
+      "7na econ",
+      "7o semestre economia",
+      "7o semestre econo"
+    ],
+    "curso": "Ciências Econômicas",
+    "semestre": 7,
+    "periodo": "Noturno",
+    "grade": [
+      {
+        "dia": "Segunda-feira",
+        "horario": "19:00 às 22:40",
+        "disciplina": "Formação Econômica do Brasil",
+        "professor": "Vinícius Bragança",
+        "sala_lab": "610-B"
+      },
+      {
+        "dia": "Terça-feira",
+        "horario": "19:00 às 20:40",
+        "disciplina": "Trabalho de Conclusão de Curso I (TCC I)",
+        "professor": "José Carlos da Silva",
+        "sala_lab": "610-B"
+      },
+      {
+        "dia": "Terça-feira",
+        "horario": "21:00 às 22:40",
+        "disciplina": "História do Pensamento Econômico I",
+        "professor": "Jobson Monteiro de Souza",
+        "sala_lab": "610-B"
+      },
+      {
+        "dia": "Quarta-feira",
+        "horario": "19:00 às 22:40",
+        "disciplina": "Eletivas (Análise Financeira LAB 307 / Agronegócio 503-B / Investimentos 610-B / Analytics LAB 350E / Derivativos 508-A / Conjuntura Internacional 207-B)",
+        "professor": "Diversos Professores",
+        "sala_lab": "Conforme Eletiva"
+      },
+      {
+        "dia": "Quinta-feira",
+        "horario": "19:00 às 20:40",
+        "disciplina": "Trabalho de Conclusão de Curso I (TCC I)",
+        "professor": "José Carlos da Silva",
+        "sala_lab": "610-B"
+      },
+      {
+        "dia": "Quinta-feira",
+        "horario": "21:00 às 22:40",
+        "disciplina": "História do Pensamento Econômico I",
+        "professor": "Jobson Monteiro de Souza",
+        "sala_lab": "610-B"
+      },
+      {
+        "dia": "Sexta-feira",
+        "horario": "19:00 às 22:40",
+        "disciplina": "Eletivas (IA Aplicada a Negócios / Valuation / Introdução ao Mercado Financeiro / Macroeconometria no R / Análise de Dados com R / Finanças Internacionais / Gestão Tributária)",
+        "professor": "Diversos Professores",
+        "sala_lab": "Conforme Eletiva"
+      }
+    ]
+  },
+  {
+    "turma_id": "8na_ce",
+    "codigo": "8NA - Economia (CE)",
+    "apelidos": [
+      "8na ce",
+      "8na economia",
+      "8na econo",
+      "8na econ",
+      "8o semestre economia",
+      "8o semestre econo"
+    ],
+    "curso": "Ciências Econômicas",
+    "semestre": 8,
+    "periodo": "Noturno",
+    "grade": [
+      {
+        "dia": "Segunda-feira",
+        "horario": "19:00 às 20:40",
+        "disciplina": "Desenvolvimento Econômico",
+        "professor": "Allexandro Emmanuel Mori Coelho",
+        "sala_lab": "233-C"
+      },
+      {
+        "dia": "Segunda-feira",
+        "horario": "21:00 às 22:40",
+        "disciplina": "Trabalho de Conclusão de Curso II (TCC II)",
+        "professor": "Auxiliares",
+        "sala_lab": "233-C"
+      },
+      {
+        "dia": "Terça-feira",
+        "horario": "19:00 às 20:40",
+        "disciplina": "História do Pensamento Econômico II",
+        "professor": "Jobson Monteiro de Souza",
+        "sala_lab": "233-C"
+      },
+      {
+        "dia": "Terça-feira",
+        "horario": "21:00 às 22:40",
+        "disciplina": "Economia Brasileira",
+        "professor": "Andres Vivas Frontana",
+        "sala_lab": "233-C"
+      },
+      {
+        "dia": "Quarta-feira",
+        "horario": "19:00 às 22:40",
+        "disciplina": "Eletivas (Análise Financeira LAB 307 / Agronegócio 503-B / Investimentos 610-B / Analytics LAB 350E / Derivativos 508-A / Conjuntura Internacional 207-B)",
+        "professor": "Diversos Professores",
+        "sala_lab": "Conforme Eletiva"
+      },
+      {
+        "dia": "Quinta-feira",
+        "horario": "19:00 às 20:40",
+        "disciplina": "Trabalho de Conclusão de Curso II (TCC II)",
+        "professor": "Auxiliares",
+        "sala_lab": "233-C"
+      },
+      {
+        "dia": "Quinta-feira",
+        "horario": "21:00 às 22:40",
+        "disciplina": "Economia Brasileira",
+        "professor": "Andres Vivas Frontana",
+        "sala_lab": "233-C"
+      },
+      {
+        "dia": "Sexta-feira",
+        "horario": "19:00 às 22:40",
+        "disciplina": "Eletivas (IA Aplicada a Negócios / Valuation / Introdução ao Mercado Financeiro / Macroeconometria no R / Análise de Dados com R / Finanças Internacionais / Gestão Tributária)",
+        "professor": "Diversos Professores",
+        "sala_lab": "Conforme Eletiva"
+      }
+    ]
+  },
+  {
+    "turma_id": "5na_cc",
+    "codigo": "5NA - Contábeis (CC)",
+    "apelidos": [
+      "5na cc",
+      "5na contabeis",
+      "5na contabilidade",
+      "5o semestre contabeis"
+    ],
+    "curso": "Ciências Contábeis",
+    "semestre": 5,
+    "periodo": "Noturno",
+    "grade": [
+      {
+        "dia": "Segunda-feira",
+        "horario": "19:00 às 20:40",
+        "disciplina": "Introdução às Ciências Atuariais",
+        "professor": "Olívio Luccas",
+        "sala_lab": "208-B"
+      },
+      {
+        "dia": "Segunda-feira",
+        "horario": "21:00 às 22:40",
+        "disciplina": "Teoria da Contabilidade",
+        "professor": "Davi Ciasca",
+        "sala_lab": "208-B"
+      },
+      {
+        "dia": "Terça-feira",
+        "horario": "19:00 às 22:40",
+        "disciplina": "Contabilidade Avançada I",
+        "professor": "Pedro Henrique de Barros",
+        "sala_lab": "208-B"
+      },
+      {
+        "dia": "Quarta-feira",
+        "horario": "19:00 às 22:40",
+        "disciplina": "Contabilidade de Custos",
+        "professor": "Juliana Milan",
+        "sala_lab": "208-B"
+      },
+      {
+        "dia": "Quinta-feira",
+        "horario": "19:00 às 22:40",
+        "disciplina": "Finanças Corporativas",
+        "professor": "Márcio Wu",
+        "sala_lab": "208-B"
+      },
+      {
+        "dia": "Sexta-feira",
+        "horario": "19:00 às 22:40",
+        "disciplina": "Algoritmos e Lógica de Programação",
+        "professor": "Robson de Oliveira Cardoso",
+        "sala_lab": "LAB 311"
+      }
+    ]
+  },
+  {
+    "turma_id": "6na_cc",
+    "codigo": "6NA - Contábeis (CC)",
+    "apelidos": [
+      "6na cc",
+      "6na contabeis",
+      "6na contabilidade",
+      "6o semestre contabeis"
+    ],
+    "curso": "Ciências Contábeis",
+    "semestre": 6,
+    "periodo": "Noturno",
+    "grade": [
+      {
+        "dia": "Segunda-feira",
+        "horario": "19:00 às 22:40",
+        "disciplina": "Risco e Estrutura de Capital",
+        "professor": "Allan Silveira Carvalho",
+        "sala_lab": "532-C"
+      },
+      {
+        "dia": "Terça-feira",
+        "horario": "19:00 às 22:40",
+        "disciplina": "Gestão de Big Data",
+        "professor": "Yan Lopes",
+        "sala_lab": "LAB 312/319"
+      },
+      {
+        "dia": "Quarta-feira",
+        "horario": "19:00 às 22:40",
+        "disciplina": "Contabilidade Gerencial",
+        "professor": "Alessandra Segatelli",
+        "sala_lab": "532-C"
+      },
+      {
+        "dia": "Quinta-feira",
+        "horario": "19:00 às 22:40",
+        "disciplina": "Contabilidade Avançada II",
+        "professor": "Régis Cesar Cunha",
+        "sala_lab": "532-C"
+      },
+      {
+        "dia": "Sexta-feira",
+        "horario": "19:00 às 22:40",
+        "disciplina": "Contabilidade Pública",
+        "professor": "Denis Carvalho",
+        "sala_lab": "532-C"
+      }
+    ]
+  },
+  {
+    "turma_id": "7na_cc",
+    "codigo": "7NA - Contábeis (CC)",
+    "apelidos": [
+      "7na cc",
+      "7na contabeis",
+      "7na contabilidade",
+      "7o semestre contabeis"
+    ],
+    "curso": "Ciências Contábeis",
+    "semestre": 7,
+    "periodo": "Noturno",
+    "grade": [
+      {
+        "dia": "Segunda-feira",
+        "horario": "19:00 às 20:40",
+        "disciplina": "Perícia Contábil",
+        "professor": "Pedro Henrique de Barros",
+        "sala_lab": "205-B"
+      },
+      {
+        "dia": "Segunda-feira",
+        "horario": "21:00 às 22:40",
+        "disciplina": "Controladoria",
+        "professor": "Ahmed Sameer El Khatib",
+        "sala_lab": "205-B"
+      },
+      {
+        "dia": "Terça-feira",
+        "horario": "19:00 às 22:40",
+        "disciplina": "Contabilidade Tributária: Indiretos",
+        "professor": "Giovana Carrer",
+        "sala_lab": "205-B"
+      },
+      {
+        "dia": "Quarta-feira",
+        "horario": "19:00 às 22:40",
+        "disciplina": "Eletivas (Análise Financeira LAB 307 / Agronegócio 503-B / Comex 105-B / Investimentos 610-B / Analytics LAB 350E / Derivativos 508-A / Instrumentos Financeiros 509-B)",
+        "professor": "Diversos Professores",
+        "sala_lab": "Conforme Eletiva"
+      },
+      {
+        "dia": "Quinta-feira",
+        "horario": "19:00 às 22:40",
+        "disciplina": "Técnicas de Resolução de Problemas",
+        "professor": "Paulo Giuliani",
+        "sala_lab": "205-B"
+      },
+      {
+        "dia": "Sexta-feira",
+        "horario": "19:00 às 22:40",
+        "disciplina": "Eletivas (IA Aplicada a Negócios / Valuation / Narrativas / Gestão de Compras / Mercado Financeiro / Macroeconometria no R / Análise de Dados com R / Finanças Internacionais / Gestão Tributária)",
+        "professor": "Diversos Professores",
+        "sala_lab": "Conforme Eletiva"
+      }
+    ]
+  },
+  {
+    "turma_id": "8na_cc",
+    "codigo": "8NA - Contábeis (CC)",
+    "apelidos": [
+      "8na cc",
+      "8na contabeis",
+      "8na contabilidade",
+      "8o semestre contabeis"
+    ],
+    "curso": "Ciências Contábeis",
+    "semestre": 8,
+    "periodo": "Noturno",
+    "grade": [
+      {
+        "dia": "Segunda-feira",
+        "horario": "19:00 às 22:40",
+        "disciplina": "Contabilidade: Tópicos Contemporâneos",
+        "professor": "Ronaldo Fróes",
+        "sala_lab": "633-C"
+      },
+      {
+        "dia": "Terça-feira",
+        "horario": "19:00 às 22:40",
+        "disciplina": "Ética e Governança Corporativa",
+        "professor": "Elionor Weffort",
+        "sala_lab": "633-C"
+      },
+      {
+        "dia": "Quarta-feira",
+        "horario": "19:00 às 22:40",
+        "disciplina": "Eletivas (Análise Financeira LAB 307 / Agronegócio 503-B / Comex 105-B / Investimentos 610-B / Analytics LAB 350E / Derivativos 508-A / Instrumentos Financeiros 509-B)",
+        "professor": "Diversos Professores",
+        "sala_lab": "Conforme Eletiva"
+      },
+      {
+        "dia": "Quinta-feira",
+        "horario": "19:00 às 22:40",
+        "disciplina": "Contabilidade Tributária",
+        "professor": "Tiago Slavov",
+        "sala_lab": "633-C"
+      },
+      {
+        "dia": "Sexta-feira",
+        "horario": "19:00 às 20:40",
+        "disciplina": "Eletivas (IA Aplicada a Negócios / Valuation / Narrativas / Gestão de Compras / Mercado Financeiro / Macroeconometria no R)",
+        "professor": "Diversos Professores",
+        "sala_lab": "Conforme Eletiva"
+      },
+      {
+        "dia": "Sexta-feira",
+        "horario": "21:00 às 22:40",
+        "disciplina": "Auditoria",
+        "professor": "Ahmed Sameer El Khatib",
+        "sala_lab": "608-B"
+      }
+    ]
+  },
+  {
+    "turma_id": "2na_ccomp",
+    "codigo": "2NA - Ciência da Computação",
+    "apelidos": [
+      "2na ccomp",
+      "2na computacao",
+      "2na comp",
+      "ccomp 2",
+      "2o semestre ccomp",
+      "2o semestre computacao"
+    ],
+    "curso": "Ciência da Computação",
+    "semestre": 2,
+    "periodo": "Noturno",
+    "grade": [
+      {
+        "dia": "Segunda-feira",
+        "horario": "19:00 às 22:40",
+        "disciplina": "Cálculo II",
+        "professor": "Paula Sanchez Astorino",
+        "sala_lab": "201-B"
+      },
+      {
+        "dia": "Terça-feira",
+        "horario": "19:00 às 22:40",
+        "disciplina": "Projetos em Banco de Dados",
+        "professor": "Kátia Milani Lara Bossi",
+        "sala_lab": "LAB 310"
+      },
+      {
+        "dia": "Quarta-feira",
+        "horario": "19:00 às 22:40",
+        "disciplina": "Desenvolvimento Web Full Stack",
+        "professor": "Francisco de Souza Escobar",
+        "sala_lab": "LAB 310"
+      },
+      {
+        "dia": "Quinta-feira",
+        "horario": "19:00 às 22:40",
+        "disciplina": "Projeto Interdisciplinar: Programação Web",
+        "professor": "David de Oliveira Lemes",
+        "sala_lab": "LAB 200"
+      },
+      {
+        "dia": "Sexta-feira",
+        "horario": "19:00 às 22:40",
+        "disciplina": "Gestão Empresarial e Dinâmica das Organizações",
+        "professor": "Jesus de Lisboa Gomes",
+        "sala_lab": "201-B"
+      }
+    ]
+  },
+  {
+    "turma_id": "3na_ccomp",
+    "codigo": "3NA - Ciência da Computação",
+    "apelidos": [
+      "3na ccomp",
+      "3na computacao",
+      "3na comp",
+      "ccomp 3",
+      "3o semestre ccomp",
+      "3o semestre computacao"
+    ],
+    "curso": "Ciência da Computação",
+    "semestre": 3,
+    "periodo": "Noturno",
+    "grade": [
+      {
+        "dia": "Segunda-feira",
+        "horario": "19:00 às 22:40",
+        "disciplina": "Análise Descritiva de Dados",
+        "professor": "Marco Aurélio Lima Barbosa",
+        "sala_lab": "504-A"
+      },
+      {
+        "dia": "Terça-feira",
+        "horario": "19:00 às 22:40",
+        "disciplina": "Business English I",
+        "professor": "Instituto de Idiomas",
+        "sala_lab": "Sala de Origem"
+      },
+      {
+        "dia": "Quarta-feira",
+        "horario": "19:00 às 22:40",
+        "disciplina": "Programação Orientada a Objetos e Estrutura de Dados",
+        "professor": "Kátia Milani Lara Bossi",
+        "sala_lab": "LAB 303"
+      },
+      {
+        "dia": "Quinta-feira",
+        "horario": "19:00 às 22:40",
+        "disciplina": "Programação para Dispositivos Móveis",
+        "professor": "Rodrigo da Rosa",
+        "sala_lab": "LAB 305"
+      },
+      {
+        "dia": "Sexta-feira",
+        "horario": "19:00 às 22:40",
+        "disciplina": "Projeto Interdisciplinar: Aplicativo Móvel",
+        "professor": "Victor Bruno Alexander Rosetti de Quiroz",
+        "sala_lab": "LAB 303"
+      }
+    ]
+  },
+  {
+    "turma_id": "4na_ccomp",
+    "codigo": "4NA - Ciência da Computação",
+    "apelidos": [
+      "4na ccomp",
+      "4na computacao",
+      "4na comp",
+      "ccomp 4",
+      "4o semestre ccomp",
+      "4o semestre computacao"
+    ],
+    "curso": "Ciência da Computação",
+    "semestre": 4,
+    "periodo": "Noturno",
+    "grade": [
+      {
+        "dia": "Segunda-feira",
+        "horario": "19:00 às 22:40",
+        "disciplina": "Projeto Interdisciplinar: Ciência de Dados",
+        "professor": "Eduardo Savino Gomes",
+        "sala_lab": "LAB 301"
+      },
+      {
+        "dia": "Terça-feira",
+        "horario": "19:00 às 22:40",
+        "disciplina": "Business English II",
+        "professor": "Instituto de Idiomas",
+        "sala_lab": "Sala de Origem"
+      },
+      {
+        "dia": "Quarta-feira",
+        "horario": "19:00 às 22:40",
+        "disciplina": "Engenharia de Software e Arquitetura de Sistemas",
+        "professor": "Luís Fernando dos Santos Pires",
+        "sala_lab": "LAB 301"
+      },
+      {
+        "dia": "Quinta-feira",
+        "horario": "19:00 às 22:40",
+        "disciplina": "Análise Inferencial de Dados",
+        "professor": "Rodnil da Silva Moreira Lisboa",
+        "sala_lab": "LAB 301"
+      },
+      {
+        "dia": "Sexta-feira",
+        "horario": "19:00 às 22:40",
+        "disciplina": "Contabilidade e Finanças",
+        "professor": "Maurício Lopes da Cunha",
+        "sala_lab": "504-A"
+      }
+    ]
+  },
+  {
+    "turma_id": "5na_ccomp",
+    "codigo": "5NA - Ciência da Computação",
+    "apelidos": [
+      "5na ccomp",
+      "5na computacao",
+      "5na comp",
+      "ccomp 5",
+      "5o semestre ccomp",
+      "5o semestre computacao"
+    ],
+    "curso": "Ciência da Computação",
+    "semestre": 5,
+    "periodo": "Noturno",
+    "grade": [
+      {
+        "dia": "Segunda-feira",
+        "horario": "19:00 às 22:40",
+        "disciplina": "Álgebra Linear, Vetores e Geometria Analítica",
+        "professor": "Rodnil da Silva Moreira Lisboa",
+        "sala_lab": "LAB 304"
+      },
+      {
+        "dia": "Terça-feira",
+        "horario": "19:00 às 22:40",
+        "disciplina": "Inteligência Artificial e Aprendizado de Máquina",
+        "professor": "Marcelo de Moura Amorim",
+        "sala_lab": "LAB 304"
+      },
+      {
+        "dia": "Quarta-feira",
+        "horario": "19:00 às 22:40",
+        "disciplina": "Sistemas Operacionais e Computação em Nuvem",
+        "professor": "Rodrigo da Rosa",
+        "sala_lab": "LAB 304"
+      },
+      {
+        "dia": "Quinta-feira",
+        "horario": "19:00 às 22:40",
+        "disciplina": "Projeto Interdisciplinar: Inteligência Artificial",
+        "professor": "Rafael Diogo Rossetti",
+        "sala_lab": "LAB 304"
+      },
+      {
+        "dia": "Sexta-feira",
+        "horario": "19:00 às 22:40",
+        "disciplina": "Psicologia, Liderança e Soft Skills",
+        "professor": "Marcos Minoru Nakatsugawa",
+        "sala_lab": "508-A"
+      }
+    ]
+  },
+  {
+    "turma_id": "6na_ccomp",
+    "codigo": "6NA - Ciência da Computação",
+    "apelidos": [
+      "6na ccomp",
+      "6na computacao",
+      "6na comp",
+      "ccomp 6",
+      "6o semestre ccomp",
+      "6o semestre computacao"
+    ],
+    "curso": "Ciência da Computação",
+    "semestre": 6,
+    "periodo": "Noturno",
+    "grade": [
+      {
+        "dia": "Segunda-feira",
+        "horario": "19:00 às 22:40",
+        "disciplina": "Inovação e Empreendedorismo (Turma Ímpar: 508-A) / Projeto Interdisciplinar IoT (Turma Par: LAB MAKER)",
+        "professor": "Edson Barbero (Ímpar) / João Trencher (Par)",
+        "sala_lab": "508-A (Ímpar) / LAB MAKER (Par)"
+      },
+      {
+        "dia": "Terça-feira",
+        "horario": "19:00 às 22:40",
+        "disciplina": "Sistemas Embarcados e Robótica",
+        "professor": "Rodnil da Silva Moreira Lisboa",
+        "sala_lab": "LAB 200"
+      },
+      {
+        "dia": "Quarta-feira",
+        "horario": "19:00 às 22:40",
+        "disciplina": "Redes de Computadores e Cibersegurança",
+        "professor": "Victor Bruno Alexander Rosetti de Quiroz",
+        "sala_lab": "LAB 200"
+      },
+      {
+        "dia": "Quinta-feira",
+        "horario": "19:00 às 22:40",
+        "disciplina": "Projeto Interdisciplinar IoT (Turma Ímpar: LAB MAKER) / Inovação e Empreendedorismo (Turma Par: 508-A)",
+        "professor": "João Trencher (Ímpar) / Edson Barbero (Par)",
+        "sala_lab": "LAB MAKER (Ímpar) / 508-A (Par)"
+      },
+      {
+        "dia": "Sexta-feira",
+        "horario": "19:00 às 22:40",
+        "disciplina": "Teoria da Computação e Linguagens Formais",
+        "professor": "Kátia Milani Lara Bossi",
+        "sala_lab": "LAB 200"
+      }
+    ]
+  },
+  {
+    "turma_id": "7na_ccomp",
+    "codigo": "7NA - Ciência da Computação",
+    "apelidos": [
+      "7na ccomp",
+      "7na computacao",
+      "7na comp",
+      "ccomp 7",
+      "7o semestre ccomp",
+      "7o semestre computacao"
+    ],
+    "curso": "Ciência da Computação",
+    "semestre": 7,
+    "periodo": "Noturno",
+    "grade": [
+      {
+        "dia": "Segunda-feira",
+        "horario": "19:00 às 22:40",
+        "disciplina": "Laboratório de Programação Avançada I",
+        "professor": "Rodrigo da Rosa",
+        "sala_lab": "LAB 303"
+      },
+      {
+        "dia": "Terça-feira",
+        "horario": "19:00 às 22:40",
+        "disciplina": "Temas Contemporâneos I (Eletiva)",
+        "professor": "Rafael Diogo Rossetti",
+        "sala_lab": "LAB 305"
+      },
+      {
+        "dia": "Quarta-feira",
+        "horario": "19:00 às 22:40",
+        "disciplina": "Projeto Interdisciplinar: Startup I",
+        "professor": "Leonardo Fabris Lugoboni",
+        "sala_lab": "LAB 312"
+      },
+      {
+        "dia": "Quinta-feira",
+        "horario": "19:00 às 22:40",
+        "disciplina": "Gestão de Projetos de Software e Metodologias Ágeis",
+        "professor": "Luís Fernando dos Santos Pires",
+        "sala_lab": "LAB 305"
+      },
+      {
+        "dia": "Sexta-feira",
+        "horario": "19:00 às 22:40",
+        "disciplina": "Teoria e Aplicabilidade dos Grafos",
+        "professor": "João Francisco Trencher Martins",
+        "sala_lab": "LAB 305"
+      }
+    ]
+  },
+  {
+    "turma_id": "8na_ccomp",
+    "codigo": "8NA - Ciência da Computação",
+    "apelidos": [
+      "8na ccomp",
+      "8na computacao",
+      "8na comp",
+      "ccomp 8",
+      "8o semestre ccomp",
+      "8o semestre computacao"
+    ],
+    "curso": "Ciência da Computação",
+    "semestre": 8,
+    "periodo": "Noturno",
+    "grade": [
+      {
+        "dia": "Segunda-feira",
+        "horario": "19:00 às 22:40",
+        "disciplina": "Computação Gráfica: Realidade Virtual e Realidade Aumentada",
+        "professor": "Adriano Felix Valente",
+        "sala_lab": "LAB 311"
+      },
+      {
+        "dia": "Terça-feira",
+        "horario": "19:00 às 22:40",
+        "disciplina": "Temas Contemporâneos II (Eletiva)",
+        "professor": "João Francisco Trencher Martins",
+        "sala_lab": "LAB 303"
+      },
+      {
+        "dia": "Quarta-feira",
+        "horario": "19:00 às 22:40",
+        "disciplina": "Projeto Interdisciplinar: Startup II",
+        "professor": "Eduardo Savino Gomes",
+        "sala_lab": "LAB 318"
+      },
+      {
+        "dia": "Quinta-feira",
+        "horario": "19:00 às 22:40",
+        "disciplina": "Laboratório de Programação Avançada II",
+        "professor": "Marcelo de Moura Amorim",
+        "sala_lab": "LAB 303"
+      },
+      {
+        "dia": "Sexta-feira",
+        "horario": "19:00 às 22:40",
+        "disciplina": "Inteligência Artificial e Deep Learning",
+        "professor": "Alexandre Aparecido Neves",
+        "sala_lab": "LAB 304"
+      }
+    ]
+  },
+  {
+    "turma_id": "1na_ads",
+    "codigo": "1NA - ADS",
+    "apelidos": [
+      "1na ads",
+      "ads 1",
+      "1o semestre ads"
+    ],
+    "curso": "Análise e Desenvolvimento de Sistemas (ADS)",
+    "semestre": 1,
+    "periodo": "Noturno",
+    "grade": [
+      {
+        "dia": "Segunda-feira",
+        "horario": "19:00 às 22:40",
+        "disciplina": "Redes de Computadores",
+        "professor": "Victor Bruno Alexander Rosetti de Quiroz",
+        "sala_lab": "LAB 307"
+      },
+      {
+        "dia": "Terça-feira",
+        "horario": "19:00 às 22:40",
+        "disciplina": "Modelagem de Software e Arquitetura de Sistemas",
+        "professor": "Aimar Martins Lopes",
+        "sala_lab": "LAB 307"
+      },
+      {
+        "dia": "Quarta-feira",
+        "horario": "19:00 às 22:40",
+        "disciplina": "Matemática Discreta",
+        "professor": "Renata Muniz do Nascimento",
+        "sala_lab": "507-A"
+      },
+      {
+        "dia": "Quinta-feira",
+        "horario": "19:00 às 22:40",
+        "disciplina": "Fundamentos de Bancos de Dados",
+        "professor": "Ronaldo Araújo Pinto",
+        "sala_lab": "LAB 307"
+      },
+      {
+        "dia": "Sexta-feira",
+        "horario": "19:00 às 22:40",
+        "disciplina": "Algoritmos e Lógica de Programação",
+        "professor": "Marcelo de Moura Amorim",
+        "sala_lab": "LAB 302B"
+      }
+    ]
+  },
+  {
+    "turma_id": "2na_ads",
+    "codigo": "2NA - ADS",
+    "apelidos": [
+      "2na ads",
+      "ads 2",
+      "2o semestre ads"
+    ],
+    "curso": "Análise e Desenvolvimento de Sistemas (ADS)",
+    "semestre": 2,
+    "periodo": "Noturno",
+    "grade": [
+      {
+        "dia": "Segunda-feira",
+        "horario": "19:00 às 22:40",
+        "disciplina": "Banco de Dados",
+        "professor": "Ronaldo Araújo Pinto",
+        "sala_lab": "LAB 106B"
+      },
+      {
+        "dia": "Terça-feira",
+        "horario": "19:00 às 22:40",
+        "disciplina": "Desenvolvimento Full Stack",
+        "professor": "Francisco de Souza Escobar",
+        "sala_lab": "LAB 106B"
+      },
+      {
+        "dia": "Quarta-feira",
+        "horario": "19:00 às 22:40",
+        "disciplina": "Design de Interface Digital",
+        "professor": "José Buesso",
+        "sala_lab": "LAB 106B"
+      },
+      {
+        "dia": "Quinta-feira",
+        "horario": "19:00 às 22:40",
+        "disciplina": "Estrutura de Dados",
+        "professor": "Eduardo Savino Gomes",
+        "sala_lab": "LAB 106B"
+      },
+      {
+        "dia": "Sexta-feira",
+        "horario": "19:00 às 22:40",
+        "disciplina": "Programação Orientada a Objetos",
+        "professor": "Adriano Felix Valente",
+        "sala_lab": "LAB 307"
+      }
+    ]
+  },
+  {
+    "turma_id": "3na_ads",
+    "codigo": "3NA - ADS",
+    "apelidos": [
+      "3na ads",
+      "ads 3",
+      "3o semestre ads"
+    ],
+    "curso": "Análise e Desenvolvimento de Sistemas (ADS)",
+    "semestre": 3,
+    "periodo": "Noturno",
+    "grade": [
+      {
+        "dia": "Segunda-feira",
+        "horario": "19:00 às 22:40",
+        "disciplina": "User Experience Digital",
+        "professor": "Francisco de Souza Escobar",
+        "sala_lab": "LAB 305"
+      },
+      {
+        "dia": "Terça-feira",
+        "horario": "19:00 às 22:40",
+        "disciplina": "Programação Mobile",
+        "professor": "Rodrigo da Rosa",
+        "sala_lab": "LAB 318"
+      },
+      {
+        "dia": "Quarta-feira",
+        "horario": "19:00 às 22:40",
+        "disciplina": "Sistemas Operacionais Cloud Native",
+        "professor": "Jefferson Silva",
+        "sala_lab": "LAB 321"
+      },
+      {
+        "dia": "Quinta-feira",
+        "horario": "19:00 às 22:40",
+        "disciplina": "Teste e Qualidade de Software",
+        "professor": "Aimar Martins Lopes",
+        "sala_lab": "LAB 318"
+      },
+      {
+        "dia": "Sexta-feira",
+        "horario": "19:00 às 22:40",
+        "disciplina": "Business English",
+        "professor": "Instituto de Idiomas",
+        "sala_lab": "Sala de Origem"
+      }
+    ]
+  },
+  {
+    "turma_id": "4na_ads",
+    "codigo": "4NA - ADS",
+    "apelidos": [
+      "4na ads",
+      "ads 4",
+      "4o semestre ads"
+    ],
+    "curso": "Análise e Desenvolvimento de Sistemas (ADS)",
+    "semestre": 4,
+    "periodo": "Noturno",
+    "grade": [
+      {
+        "dia": "Segunda-feira",
+        "horario": "19:00 às 22:40",
+        "disciplina": "Gestão de Projetos de Software",
+        "professor": "Aimar Martins Lopes",
+        "sala_lab": "LAB 308"
+      },
+      {
+        "dia": "Terça-feira",
+        "horario": "19:00 às 22:40",
+        "disciplina": "Ciência de Dados e Big Data",
+        "professor": "Eduardo Savino Gomes",
+        "sala_lab": "LAB 301"
+      },
+      {
+        "dia": "Quarta-feira",
+        "horario": "19:00 às 22:40",
+        "disciplina": "Cibersegurança e Defesa Cibernética",
+        "professor": "Ronaldo Araújo Pinto",
+        "sala_lab": "LAB 308"
+      },
+      {
+        "dia": "Quinta-feira",
+        "horario": "19:00 às 22:40",
+        "disciplina": "Inteligência Artificial e Machine Learning",
+        "professor": "Victor Bruno Alexander Rosetti de Quiroz",
+        "sala_lab": "LAB 308"
+      },
+      {
+        "dia": "Sexta-feira",
+        "horario": "19:00 às 22:40",
+        "disciplina": "Empreendedorismo e Transformação Digital",
+        "professor": "Rafael Diogo Rossetti",
+        "sala_lab": "LAB 308"
+      }
+    ]
+  },
+  {
+    "turma_id": "1na_ri_pp_rp",
+    "codigo": "1NA - RI / PP / RP",
+    "apelidos": [
+      "1na ri",
+      "1na pp",
+      "1na rp",
+      "1o semestre ri",
+      "1o semestre relacoes internacionais"
+    ],
+    "curso": "Relações Internacionais, Publicidade e Propaganda e Relações Públicas",
+    "semestre": 1,
+    "periodo": "Noturno",
+    "grade": [
+      {
+        "dia": "Segunda-feira",
+        "horario": "19:00 às 22:40",
+        "disciplina": "Pensamento Contemporâneo",
+        "professor": "Fábio Adorno Esposito",
+        "sala_lab": "631-C"
+      },
+      {
+        "dia": "Terça-feira",
+        "horario": "19:00 às 22:40",
+        "disciplina": "Introdução a RI (504-A, Prof. Orion Noda) / Introdução a PP (503-B, Prof. Cássio Ozires) / Introdução a RP (508-A, Profa. Renata Calonego)",
+        "professor": "Orion Noda (RI) / Cássio Ozires (PP) / Renata Calonego (RP)",
+        "sala_lab": "504-A (RI) / 503-B (PP) / 508-A (RP)"
+      },
+      {
+        "dia": "Quarta-feira",
+        "horario": "19:00 às 22:40",
+        "disciplina": "Lógica e Métodos de Pesquisa",
+        "professor": "Luís Mauro",
+        "sala_lab": "631-C"
+      },
+      {
+        "dia": "Quinta-feira",
+        "horario": "19:00 às 22:40",
+        "disciplina": "Fundamentos de Economia",
+        "professor": "Janaína Cássia Grossi",
+        "sala_lab": "631-C"
+      },
+      {
+        "dia": "Sexta-feira",
+        "horario": "19:00 às 22:40",
+        "disciplina": "Linguagem, Criatividade e Expressão I",
+        "professor": "Angélica Miyuki Farias",
+        "sala_lab": "631-C"
+      }
+    ]
+  },
+  {
+    "turma_id": "2na_ri",
+    "codigo": "2NA/2NB/2NC - RI",
+    "apelidos": [
+      "2na ri",
+      "2nb ri",
+      "2nc ri",
+      "2o semestre ri",
+      "2o semestre relacoes internacionais"
+    ],
+    "curso": "Relações Internacionais",
+    "semestre": 2,
+    "periodo": "Noturno",
+    "grade": [
+      {
+        "dia": "Segunda-feira",
+        "horario": "19:00 às 22:40",
+        "disciplina": "História das Relações Internacionais I",
+        "professor": "Daniela Medeiros",
+        "sala_lab": "501-B"
+      },
+      {
+        "dia": "Terça-feira",
+        "horario": "19:00 às 22:40",
+        "disciplina": "Ciência Política",
+        "professor": "Rafael Miranda",
+        "sala_lab": "501-B"
+      },
+      {
+        "dia": "Quarta-feira",
+        "horario": "19:00 às 22:40",
+        "disciplina": "Realidade Socioeconômica e Política Brasileira",
+        "professor": "Daniel Pereira da Silva",
+        "sala_lab": "501-B"
+      },
+      {
+        "dia": "Quinta-feira",
+        "horario": "19:00 às 22:40",
+        "disciplina": "Business Technology",
+        "professor": "Francisco de Souza Escobar",
+        "sala_lab": "LAB 308"
+      },
+      {
+        "dia": "Sexta-feira",
+        "horario": "19:00 às 22:40",
+        "disciplina": "Teoria das Relações Internacionais I",
+        "professor": "Orion Noda",
+        "sala_lab": "501-B"
+      }
+    ]
+  },
+  {
+    "turma_id": "3na_ri",
+    "codigo": "3NA - RI",
+    "apelidos": [
+      "3na ri",
+      "3o semestre ri",
+      "3o semestre relacoes internacionais"
+    ],
+    "curso": "Relações Internacionais",
+    "semestre": 3,
+    "periodo": "Noturno",
+    "grade": [
+      {
+        "dia": "Segunda-feira",
+        "horario": "19:00 às 22:40",
+        "disciplina": "Macroeconomia",
+        "professor": "Andres Vivas Frontana",
+        "sala_lab": "209-B"
+      },
+      {
+        "dia": "Terça-feira",
+        "horario": "19:00 às 20:40",
+        "disciplina": "Teoria Política Contemporânea",
+        "professor": "Cláudia Marconi",
+        "sala_lab": "209-B"
+      },
+      {
+        "dia": "Terça-feira",
+        "horario": "21:00 às 22:40",
+        "disciplina": "História das Relações Internacionais II",
+        "professor": "Daniela Medeiros",
+        "sala_lab": "209-B"
+      },
+      {
+        "dia": "Quarta-feira",
+        "horario": "19:00 às 22:40",
+        "disciplina": "Fundamentos do Direito",
+        "professor": "Evorah Cardoso",
+        "sala_lab": "209-B"
+      },
+      {
+        "dia": "Quinta-feira",
+        "horario": "19:00 às 22:40",
+        "disciplina": "Teoria das Relações Internacionais II",
+        "professor": "Orion Noda",
+        "sala_lab": "209-B"
+      },
+      {
+        "dia": "Sexta-feira",
+        "horario": "19:00 às 22:40",
+        "disciplina": "Business English I",
+        "professor": "Instituto de Idiomas",
+        "sala_lab": "Sala de Origem"
+      }
+    ]
+  },
+  {
+    "turma_id": "4na_ri",
+    "codigo": "4NA - RI",
+    "apelidos": [
+      "4na ri",
+      "4o semestre ri",
+      "4o semestre relacoes internacionais"
+    ],
+    "curso": "Relações Internacionais",
+    "semestre": 4,
+    "periodo": "Noturno",
+    "grade": [
+      {
+        "dia": "Segunda-feira",
+        "horario": "19:00 às 20:40",
+        "disciplina": "Direito Internacional Público",
+        "professor": "Evorah Cardoso",
+        "sala_lab": "331-C"
+      },
+      {
+        "dia": "Segunda-feira",
+        "horario": "21:00 às 22:40",
+        "disciplina": "Estudos Regionais: Política e Sociedade na América Latina",
+        "professor": "Helena Moreira",
+        "sala_lab": "331-C"
+      },
+      {
+        "dia": "Terça-feira",
+        "horario": "19:00 às 20:40",
+        "disciplina": "Direito Internacional Público",
+        "professor": "Evorah Cardoso",
+        "sala_lab": "331-C"
+      },
+      {
+        "dia": "Terça-feira",
+        "horario": "21:00 às 22:40",
+        "disciplina": "Seminários e Projetos de Extensão I",
+        "professor": "Cláudia Marconi",
+        "sala_lab": "331-C"
+      },
+      {
+        "dia": "Quarta-feira",
+        "horario": "19:00 às 22:40",
+        "disciplina": "Estatística e Análise de Dados I",
+        "professor": "Renato Rienzo",
+        "sala_lab": "331-C"
+      },
+      {
+        "dia": "Quinta-feira",
+        "horario": "19:00 às 22:40",
+        "disciplina": "Instituições, Regimes e Organizações Internacionais",
+        "professor": "Isabela Agostinelli",
+        "sala_lab": "331-C"
+      },
+      {
+        "dia": "Sexta-feira",
+        "horario": "19:00 às 22:40",
+        "disciplina": "Business English II",
+        "professor": "Instituto de Idiomas",
+        "sala_lab": "Sala de Origem"
+      }
+    ]
+  },
+  {
+    "turma_id": "4nb_ri",
+    "codigo": "4NB - RI",
+    "apelidos": [
+      "4nb ri"
+    ],
+    "curso": "Relações Internacionais",
+    "semestre": 4,
+    "periodo": "Noturno",
+    "grade": [
+      {
+        "dia": "Segunda-feira",
+        "horario": "19:00 às 22:40",
+        "disciplina": "Instituições, Regimes e Organizações Internacionais",
+        "professor": "Isabela Agostinelli",
+        "sala_lab": "505-B"
+      },
+      {
+        "dia": "Terça-feira",
+        "horario": "19:00 às 22:40",
+        "disciplina": "Business English II",
+        "professor": "Instituto de Idiomas",
+        "sala_lab": "Sala de Origem"
+      },
+      {
+        "dia": "Quarta-feira",
+        "horario": "19:00 às 20:40",
+        "disciplina": "Estudos Regionais: Política e Sociedade na América Latina",
+        "professor": "Helena Moreira",
+        "sala_lab": "505-B"
+      },
+      {
+        "dia": "Quarta-feira",
+        "horario": "21:00 às 22:40",
+        "disciplina": "Seminários e Projetos de Extensão I",
+        "professor": "Júlia Henrique",
+        "sala_lab": "505-B"
+      },
+      {
+        "dia": "Quinta-feira",
+        "horario": "19:00 às 22:40",
+        "disciplina": "Estatística e Análise de Dados I",
+        "professor": "Renato Rienzo",
+        "sala_lab": "505-B"
+      },
+      {
+        "dia": "Sexta-feira",
+        "horario": "19:00 às 22:40",
+        "disciplina": "Direito Internacional Público",
+        "professor": "Evorah Cardoso",
+        "sala_lab": "610-B"
+      }
+    ]
+  },
+  {
+    "turma_id": "5na_ri",
+    "codigo": "5NA - RI",
+    "apelidos": [
+      "5na ri",
+      "5o semestre ri",
+      "5o semestre relacoes internacionais"
+    ],
+    "curso": "Relações Internacionais",
+    "semestre": 5,
+    "periodo": "Noturno",
+    "grade": [
+      {
+        "dia": "Segunda-feira",
+        "horario": "19:00 às 22:40",
+        "disciplina": "Estatística",
+        "professor": "Renato Rienzo",
+        "sala_lab": "508-B"
+      },
+      {
+        "dia": "Terça-feira",
+        "horario": "19:00 às 22:40",
+        "disciplina": "Instituições, Regimes e Organizações Internacionais",
+        "professor": "Júlia Henrique",
+        "sala_lab": "508-B"
+      },
+      {
+        "dia": "Quarta-feira",
+        "horario": "19:00 às 22:40",
+        "disciplina": "Análise de Política Externa",
+        "professor": "Rafael Miranda",
+        "sala_lab": "508-B"
+      },
+      {
+        "dia": "Quinta-feira",
+        "horario": "19:00 às 20:40",
+        "disciplina": "Seminários e Visitas Técnicas I",
+        "professor": "Helena Moreira",
+        "sala_lab": "508-B"
+      },
+      {
+        "dia": "Quinta-feira",
+        "horario": "21:00 às 22:40",
+        "disciplina": "Fundamentos de Comércio Exterior",
+        "professor": "Sabrina Navarrete",
+        "sala_lab": "508-B"
+      },
+      {
+        "dia": "Sexta-feira",
+        "horario": "19:00 às 22:40",
+        "disciplina": "Economia Internacional",
+        "professor": "Jobson Monteiro de Souza",
+        "sala_lab": "508-B"
+      }
+    ]
+  },
+  {
+    "turma_id": "6na_ri",
+    "codigo": "6NA - RI",
+    "apelidos": [
+      "6na ri",
+      "6o semestre ri",
+      "6o semestre relacoes internacionais"
+    ],
+    "curso": "Relações Internacionais",
+    "semestre": 6,
+    "periodo": "Noturno",
+    "grade": [
+      {
+        "dia": "Segunda-feira",
+        "horario": "19:00 às 20:40",
+        "disciplina": "Seminários e Visitas Técnicas II",
+        "professor": "Sabrina Navarrete",
+        "sala_lab": "431-C"
+      },
+      {
+        "dia": "Segunda-feira",
+        "horario": "21:00 às 22:40",
+        "disciplina": "Método Científico em Relações Internacionais",
+        "professor": "Orion Noda",
+        "sala_lab": "431-C"
+      },
+      {
+        "dia": "Terça-feira",
+        "horario": "19:00 às 22:40",
+        "disciplina": "Internacionalização de Empresas",
+        "professor": "Sabrina Navarrete",
+        "sala_lab": "431-C"
+      },
+      {
+        "dia": "Quarta-feira",
+        "horario": "19:00 às 22:40",
+        "disciplina": "Economia Política Internacional",
+        "professor": "Gustavo Batista Araújo",
+        "sala_lab": "431-C"
+      },
+      {
+        "dia": "Quinta-feira",
+        "horario": "19:00 às 22:40",
+        "disciplina": "História da Política Externa Brasileira",
+        "professor": "Daniela Medeiros",
+        "sala_lab": "431-C"
+      },
+      {
+        "dia": "Sexta-feira",
+        "horario": "19:00 às 22:40",
+        "disciplina": "Processos de Integração Regional",
+        "professor": "Helena Moreira",
+        "sala_lab": "431-C"
+      }
+    ]
+  },
+  {
+    "turma_id": "7na_ri",
+    "codigo": "7NA - RI",
+    "apelidos": [
+      "7na ri",
+      "7o semestre ri",
+      "7o semestre relacoes internacionais"
+    ],
+    "curso": "Relações Internacionais",
+    "semestre": 7,
+    "periodo": "Noturno",
+    "grade": [
+      {
+        "dia": "Segunda-feira",
+        "horario": "19:00 às 20:40",
+        "disciplina": "Orientação de TCC I",
+        "professor": "Vários Professores",
+        "sala_lab": "601-B"
+      },
+      {
+        "dia": "Segunda-feira",
+        "horario": "21:00 às 22:40",
+        "disciplina": "Cadeias Globais de Valor e Marketing Global",
+        "professor": "Sabrina Navarrete",
+        "sala_lab": "601-B"
+      },
+      {
+        "dia": "Terça-feira",
+        "horario": "19:00 às 22:40",
+        "disciplina": "Estudos da Paz, Segurança e Defesa",
+        "professor": "Isabela Agostinelli",
+        "sala_lab": "601-B"
+      },
+      {
+        "dia": "Quarta-feira",
+        "horario": "19:00 às 20:40",
+        "disciplina": "Cadeias Globais de Valor e Marketing Global",
+        "professor": "Sabrina Navarrete",
+        "sala_lab": "601-B"
+      },
+      {
+        "dia": "Quarta-feira",
+        "horario": "21:00 às 22:40",
+        "disciplina": "Política Externa Brasileira Contemporânea",
+        "professor": "Helena Moreira",
+        "sala_lab": "601-B"
+      },
+      {
+        "dia": "Quinta-feira",
+        "horario": "19:00 às 20:40",
+        "disciplina": "Elaboração de Projetos Internacionais I",
+        "professor": "Sabrina Navarrete",
+        "sala_lab": "601-B"
+      },
+      {
+        "dia": "Quinta-feira",
+        "horario": "21:00 às 22:40",
+        "disciplina": "Política Externa Brasileira Contemporânea",
+        "professor": "Helena Moreira",
+        "sala_lab": "601-B"
+      },
+      {
+        "dia": "Sexta-feira",
+        "horario": "19:00 às 22:40",
+        "disciplina": "Eletiva I",
+        "professor": "Isabela Agostinelli / Fábio Esposito / Rafael Miranda / Bruno Capuzzi",
+        "sala_lab": "502-B / 505-B / 601-B / 233-C"
+      }
+    ]
+  },
+  {
+    "turma_id": "8na_ri",
+    "codigo": "8NA - RI",
+    "apelidos": [
+      "8na ri",
+      "8o semestre ri",
+      "8o semestre relacoes internacionais"
+    ],
+    "curso": "Relações Internacionais",
+    "semestre": 8,
+    "periodo": "Noturno",
+    "grade": [
+      {
+        "dia": "Segunda-feira",
+        "horario": "19:00 às 20:40",
+        "disciplina": "Elaboração de Projetos Internacionais II",
+        "professor": "Helena Moreira",
+        "sala_lab": "502-B"
+      },
+      {
+        "dia": "Segunda-feira",
+        "horario": "21:00 às 22:40",
+        "disciplina": "Orientação de TCC II",
+        "professor": "Vários Professores",
+        "sala_lab": "502-B"
+      },
+      {
+        "dia": "Terça-feira",
+        "horario": "19:00 às 20:40",
+        "disciplina": "Elaboração de Projetos Internacionais II",
+        "professor": "Helena Moreira",
+        "sala_lab": "502-B"
+      },
+      {
+        "dia": "Terça-feira",
+        "horario": "21:00 às 22:40",
+        "disciplina": "Sistema Financeiro Internacional",
+        "professor": "Verônica de Fátima Santana",
+        "sala_lab": "502-B"
+      },
+      {
+        "dia": "Quarta-feira",
+        "horario": "19:00 às 22:40",
+        "disciplina": "Avaliação de Cenários e Análise de Conjuntura",
+        "professor": "Orion Noda",
+        "sala_lab": "502-B"
+      },
+      {
+        "dia": "Quinta-feira",
+        "horario": "19:00 às 20:40",
+        "disciplina": "Sistema Financeiro Internacional",
+        "professor": "Verônica de Fátima Santana",
+        "sala_lab": "502-B"
+      },
+      {
+        "dia": "Quinta-feira",
+        "horario": "21:00 às 22:40",
+        "disciplina": "Relações Públicas Internacionais",
+        "professor": "Renata Calonego",
+        "sala_lab": "502-B"
+      },
+      {
+        "dia": "Sexta-feira",
+        "horario": "19:00 às 22:40",
+        "disciplina": "Eletiva II",
+        "professor": "Isabela Agostinelli / Fábio Esposito / Rafael Miranda / Bruno Capuzzi",
+        "sala_lab": "502-B / 505-B / 601-B / 233-C"
+      }
+    ]
+  },
+  {
+    "turma_id": "8nb_ri",
+    "codigo": "8NB - RI",
+    "apelidos": [
+      "8nb ri"
+    ],
+    "curso": "Relações Internacionais",
+    "semestre": 8,
+    "periodo": "Noturno",
+    "grade": [
+      {
+        "dia": "Segunda-feira",
+        "horario": "19:00 às 20:40",
+        "disciplina": "Orientação de TCC II",
+        "professor": "Vários Professores",
+        "sala_lab": "510-B"
+      },
+      {
+        "dia": "Segunda-feira",
+        "horario": "21:00 às 22:40",
+        "disciplina": "Avaliação de Cenários e Análise de Conjuntura",
+        "professor": "Evorah Cardoso",
+        "sala_lab": "510-B"
+      },
+      {
+        "dia": "Terça-feira",
+        "horario": "19:00 às 20:40",
+        "disciplina": "Sistema Financeiro Internacional",
+        "professor": "Verônica de Fátima Santana",
+        "sala_lab": "510-B"
+      },
+      {
+        "dia": "Terça-feira",
+        "horario": "21:00 às 22:40",
+        "disciplina": "Avaliação de Cenários e Análise de Conjuntura",
+        "professor": "Evorah Cardoso",
+        "sala_lab": "510-B"
+      },
+      {
+        "dia": "Quarta-feira",
+        "horario": "19:00 às 22:40",
+        "disciplina": "Elaboração de Projetos Internacionais II",
+        "professor": "Cláudia Marconi",
+        "sala_lab": "510-B"
+      },
+      {
+        "dia": "Quinta-feira",
+        "horario": "19:00 às 20:40",
+        "disciplina": "Relações Públicas Internacionais",
+        "professor": "Renata Calonego",
+        "sala_lab": "510-B"
+      },
+      {
+        "dia": "Quinta-feira",
+        "horario": "21:00 às 22:40",
+        "disciplina": "Sistema Financeiro Internacional",
+        "professor": "Verônica de Fátima Santana",
+        "sala_lab": "510-B"
+      },
+      {
+        "dia": "Sexta-feira",
+        "horario": "19:00 às 22:40",
+        "disciplina": "Eletiva II",
+        "professor": "Isabela Agostinelli / Fábio Esposito / Rafael Miranda / Bruno Capuzzi",
+        "sala_lab": "502-B / 505-B / 601-B / 233-C"
+      }
+    ]
+  },
+  {
+    "turma_id": "4naccg_direito",
+    "codigo": "4NACCG - Contábeis para Graduados em Direito",
+    "apelidos": [
+      "4naccg",
+      "3nacc",
+      "contabeis graduados direito",
+      "contabeis segunda graduacao"
+    ],
+    "curso": "Ciências Contábeis para Graduados",
+    "semestre": 4,
+    "periodo": "Noturno",
+    "grade": [
+      {
+        "dia": "Segunda-feira",
+        "horario": "19:00 às 22:40",
+        "disciplina": "Análise Descritiva de Dados (Turma 3NACC)",
+        "professor": "Marco Aurélio Lima Barbosa",
+        "sala_lab": "234-C"
+      },
+      {
+        "dia": "Terça-feira",
+        "horario": "19:00 às 22:40",
+        "disciplina": "Fundamentos de Contabilidade (Turma 4NACCG)",
+        "professor": "Pedro Henrique de Barros",
+        "sala_lab": "603-B"
+      },
+      {
+        "dia": "Quarta-feira",
+        "horario": "19:00 às 22:40",
+        "disciplina": "Fundamentos de Finanças (Turma 4NACC)",
+        "professor": "Flávia Silva",
+        "sala_lab": "533-C"
+      },
+      {
+        "dia": "Quinta-feira",
+        "horario": "19:00 às 22:40",
+        "disciplina": "Cálculo I (Turma 4NACCG)",
+        "professor": "Paula Sanchez Astorino",
+        "sala_lab": "503-A"
+      }
+    ]
+  },
+  {
+    "turma_id": "5naccg_adm_econ",
+    "codigo": "5º Semestre CC - Contábeis para Graduados em ADM ou Economia",
+    "apelidos": [
+      "5naccg",
+      "contabeis graduados adm",
+      "contabeis graduados economia"
+    ],
+    "curso": "Ciências Contábeis para Graduados",
+    "semestre": 5,
+    "periodo": "Noturno",
+    "grade": [
+      {
+        "dia": "Segunda-feira",
+        "horario": "19:00 às 20:40",
+        "disciplina": "Introdução às Ciências Atuariais",
+        "professor": "Olívio Luccas",
+        "sala_lab": "505-B"
+      },
+      {
+        "dia": "Segunda-feira",
+        "horario": "21:00 às 22:40",
+        "disciplina": "Teoria da Contabilidade",
+        "professor": "Davi Ciasca",
+        "sala_lab": "505-B"
+      },
+      {
+        "dia": "Terça-feira",
+        "horario": "19:00 às 22:40",
+        "disciplina": "Finanças Corporativas",
+        "professor": "Flávia Silva",
+        "sala_lab": "609-B"
+      },
+      {
+        "dia": "Quarta-feira",
+        "horario": "19:00 às 22:40",
+        "disciplina": "Contabilidade de Custos",
+        "professor": "Juliana Milan",
+        "sala_lab": "609-B"
+      },
+      {
+        "dia": "Quinta-feira",
+        "horario": "19:00 às 22:40",
+        "disciplina": "Contabilidade Intermediária",
+        "professor": "Edmauro Oliveira",
+        "sala_lab": "607-B"
+      },
+      {
+        "dia": "Sexta-feira",
+        "horario": "19:00 às 22:40",
+        "disciplina": "Análise das Demonstrações Financeiras (Turma 2NA)",
+        "professor": "Verônica de Fátima Santana",
+        "sala_lab": "331-C"
+      }
+    ]
+  },
+  {
+    "turma_id": "7naccg",
+    "codigo": "7NA - CCG (Contábeis para Graduados)",
+    "apelidos": [
+      "7naccg",
+      "7na ccg",
+      "7o semestre contabeis graduados"
+    ],
+    "curso": "Ciências Contábeis para Graduados",
+    "semestre": 7,
+    "periodo": "Noturno",
+    "grade": [
+      {
+        "dia": "Segunda-feira",
+        "horario": "19:00 às 20:40",
+        "disciplina": "Controladoria",
+        "professor": "Denis Carvalho",
+        "sala_lab": "231-C"
+      },
+      {
+        "dia": "Segunda-feira",
+        "horario": "21:00 às 22:40",
+        "disciplina": "Perícia Contábil",
+        "professor": "Pedro Henrique de Barros",
+        "sala_lab": "231-C"
+      },
+      {
+        "dia": "Terça-feira",
+        "horario": "19:00 às 22:40",
+        "disciplina": "Contabilidade Tributária: Indiretos",
+        "professor": "Amauri Liba",
+        "sala_lab": "231-C"
+      },
+      {
+        "dia": "Quinta-feira",
+        "horario": "19:00 às 22:40",
+        "disciplina": "Contabilidade Avançada II",
+        "professor": "Régis Cesar Cunha",
+        "sala_lab": "207-B"
+      }
+    ]
+  }
+]
