@@ -642,17 +642,67 @@ def listar_lacunas_conhecimento():
     return {"gaps": obter_relatorio_lacunas(), "status": "success"}
 
 
-try:
-    app.mount("/static", StaticFiles(directory="static"), name="static")
+# ==========================================
+# CONFIGURAÇÃO DE ARQUIVOS ESTÁTICOS E SPA FRONTEND
+# ==========================================
+BACKEND_DIR = os.path.dirname(os.path.abspath(__file__))
+STATIC_DIR = os.path.join(BACKEND_DIR, "static")
+ROOT_SRC_DIR = os.path.dirname(BACKEND_DIR)
+FRONTEND_DIST_DIR = os.path.join(ROOT_SRC_DIR, "Frontend", "dist")
 
-    @app.get("/")
+# Sempre monta /static caso exista o diretório legado de arquivos estáticos
+if os.path.isdir(STATIC_DIR):
+    try:
+        app.mount("/static", StaticFiles(directory=STATIC_DIR), name="static")
+    except Exception as e:
+        print(f"[!] Aviso ao montar /static: {e}")
+
+# Se o Frontend compilado (Expo Web) estiver disponível em Frontend/dist
+if os.path.isdir(FRONTEND_DIST_DIR) and os.path.exists(os.path.join(FRONTEND_DIST_DIR, "index.html")):
+    expo_assets_dir = os.path.join(FRONTEND_DIST_DIR, "_expo")
+    if os.path.isdir(expo_assets_dir):
+        app.mount("/_expo", StaticFiles(directory=expo_assets_dir), name="expo-static")
+
+    frontend_assets_dir = os.path.join(FRONTEND_DIST_DIR, "assets")
+    if os.path.isdir(frontend_assets_dir):
+        app.mount("/assets", StaticFiles(directory=frontend_assets_dir), name="frontend-assets")
+
+    @app.get("/favicon.ico", include_in_schema=False)
+    def favicon():
+        fav_candidate = os.path.join(FRONTEND_DIST_DIR, "favicon.ico")
+        if os.path.exists(fav_candidate):
+            return FileResponse(fav_candidate)
+        static_fav = os.path.join(STATIC_DIR, "favicon.ico")
+        if os.path.exists(static_fav):
+            return FileResponse(static_fav)
+        raise HTTPException(status_code=404, detail="Favicon not found")
+
+    @app.get("/metadata.json", include_in_schema=False)
+    def metadata():
+        meta_candidate = os.path.join(FRONTEND_DIST_DIR, "metadata.json")
+        if os.path.exists(meta_candidate):
+            return FileResponse(meta_candidate)
+        raise HTTPException(status_code=404, detail="Metadata not found")
+
+    @app.get("/{full_path:path}", include_in_schema=False)
+    def serve_frontend_spa(full_path: str):
+        # Isola rotas de API, documentação Swagger e OpenAPI
+        if full_path.startswith("api") or full_path.startswith("docs") or full_path.startswith("redoc") or full_path == "openapi.json":
+            raise HTTPException(status_code=404, detail="Not Found")
+        file_candidate = os.path.join(FRONTEND_DIST_DIR, full_path)
+        if full_path and os.path.isfile(file_candidate):
+            return FileResponse(file_candidate)
+        # Roteamento SPA fallback: redireciona navegação interna para index.html
+        return FileResponse(os.path.join(FRONTEND_DIST_DIR, "index.html"))
+
+elif os.path.isdir(STATIC_DIR) and os.path.exists(os.path.join(STATIC_DIR, "index.html")):
+    @app.get("/", include_in_schema=False)
     def index():
-        return FileResponse("static/index.html")
-except Exception:
-    pass
+        return FileResponse(os.path.join(STATIC_DIR, "index.html"))
 
 if __name__ == "__main__":
     host = os.getenv("HOST", "0.0.0.0")
     port = int(os.getenv("PORT", 8000))
-    print(f"Iniciando Servidor SISA FECAP em http://{host}:{port}")
-    uvicorn.run("server:app", host=host, port=port, reload=True)
+    is_dev = os.getenv("FASTAPI_ENV", "development").lower() == "development" and not os.getenv("RAILWAY_ENVIRONMENT")
+    print(f"Iniciando Servidor SISA FECAP em http://{host}:{port} (Ambiente: {'dev' if is_dev else 'production'})")
+    uvicorn.run("server:app", host=host, port=port, reload=is_dev)

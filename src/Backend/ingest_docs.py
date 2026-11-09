@@ -66,7 +66,11 @@ def run_ingestion():
     print(f"[+] Base Markdown salva no backend: {backend_output}")
 
     app_dir = os.path.dirname(base_dir)
-    frontend_output_dir = os.path.join(app_dir, "src", "services", "ai-agent", "data")
+    frontend_candidates = [
+        os.path.join(app_dir, "Frontend", "src", "services", "ai-agent", "data"),
+        os.path.join(app_dir, "src", "services", "ai-agent", "data"),
+    ]
+    frontend_output_dir = next((c for c in frontend_candidates if os.path.isdir(c)), frontend_candidates[0])
     os.makedirs(frontend_output_dir, exist_ok=True)
 
     summary_docs = [

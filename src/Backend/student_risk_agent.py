@@ -14,8 +14,12 @@ except ImportError:
 from typing import Dict, List, Any, Optional
 
 BASE_PATH = os.getenv("BASE_ALUNOS_DIR", os.path.join(os.path.dirname(__file__), 'dados_ficticios'))
+_candidates_frontend = [
+    os.path.join(os.path.dirname(__file__), '..', 'Frontend', 'src', 'services', 'ai-agent', 'data', 'studentsRiskData.json'),
+    os.path.join(os.path.dirname(__file__), '..', 'src', 'services', 'ai-agent', 'data', 'studentsRiskData.json'),
+]
 OUTPUT_JSON_FRONTEND = os.path.abspath(
-    os.path.join(os.path.dirname(__file__), '..', 'src', 'services', 'ai-agent', 'data', 'studentsRiskData.json')
+    next((c for c in _candidates_frontend if os.path.isdir(os.path.dirname(c))), _candidates_frontend[0])
 )
 
 def normalizar_score(valor: float, min_val: float = 0.0, max_val: float = 100.0) -> int:

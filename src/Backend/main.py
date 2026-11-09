@@ -1,4 +1,5 @@
 # main.py
+import os
 import sys
 import uvicorn
 from agent import agente_academico
@@ -27,10 +28,11 @@ def iniciar_servidor_web():
     print("Servidor do Agente SISA FECAP Iniciado!")
     host = os.getenv("HOST", "0.0.0.0")
     port = int(os.getenv("PORT", 8000))
+    is_dev = os.getenv("FASTAPI_ENV", "development").lower() == "development" and not os.getenv("RAILWAY_ENVIRONMENT")
     print(f"Servidor SISA FECAP ativo em http://{host}:{port}")
     print(f"Documentacao Swagger disponivel em http://{host}:{port}/docs")
     print("=" * 60)
-    uvicorn.run("server:app", host="0.0.0.0", port=8000, reload=True)
+    uvicorn.run("server:app", host=host, port=port, reload=is_dev)
 
 if __name__ == "__main__":
     if "--cli" in sys.argv:

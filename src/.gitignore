@@ -1,0 +1,47 @@
+# Node / Frontend
+node_modules/
+Frontend/node_modules/
+dist/
+Frontend/dist/
+.expo/
+Frontend/.expo/
+.metro-health-check*
+*.tsbuildinfo
+
+# Python / Backend
+__pycache__/
+Backend/__pycache__/
+*.py[cod]
+*$py.class
+venv/
+.venv/
+Backend/.venv/
+Backend/venv/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.cache/
+
+# Ambientes e segredos locais (NUNCA commitar)
+.env
+.env.*
+!.env.example
+Frontend/.env
+Frontend/.env.*
+!Frontend/.env.example
+Backend/.env
+Backend/.env.*
+!Backend/.env.example
+
+# Dados institucionais reais
+Backend/base_alunos/*
+!Backend/base_alunos/.gitkeep
+
+# Logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+
+# Sistema
+.DS_Store
+Thumbs.db

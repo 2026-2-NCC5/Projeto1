@@ -1,4 +1,4 @@
-﻿{
+{
   "name": "asa-mobile",
   "version": "1.0.0",
   "main": "index.ts",
@@ -51,7 +51,9 @@
     "generate:embeddings": "python ../Backend/export_mobile_knowledge_graph.py",
     "backend:server": "python ../Backend/server.py",
     "build:standalone": "expo export",
-    "serve:standalone": "npx serve dist"
+    "serve:standalone": "npx serve dist",
+    "build": "expo export --platform web",
+    "build:web": "expo export --platform web"
   },
   "private": true
 }

@@ -1,0 +1,23 @@
+{
+  "name": "sisa-fecap",
+  "version": "1.0.0",
+  "private": true,
+  "description": "SISA FECAP - Sistema Integrado de Sucesso Alvarista (Fullstack Railway Deploy)",
+  "scripts": {
+    "postinstall": "npm --prefix Frontend install",
+    "install:frontend": "npm --prefix Frontend install",
+    "install:backend": "pip install -r Backend/requirements.txt",
+    "install:all": "npm install && npm run install:backend",
+    "build:frontend": "npm --prefix Frontend run build",
+    "build": "npm run build:frontend",
+    "start:backend": "python Backend/server.py",
+    "start": "python Backend/server.py",
+    "dev:frontend": "npm --prefix Frontend run start",
+    "dev:backend": "python Backend/server.py",
+    "test:backend": "python -m unittest discover -s Backend -p \"test_*.py\""
+  },
+  "engines": {
+    "node": ">=18.0.0",
+    "npm": ">=9.0.0"
+  }
+}

@@ -1,0 +1,25 @@
+# Nixpacks configuration for SISA FECAP on Railway
+[phases.setup]
+nixPkgs = ["nodejs_20", "python311", "python311Packages.pip"]
+
+[phases.install]
+cmds = [
+  "npm install",
+  "python -m venv --copies /opt/venv",
+  ". /opt/venv/bin/activate && pip install --no-cache-dir -r Backend/requirements.txt"
+]
+
+[phases.build]
+cmds = [
+  "npm run build"
+]
+
+[start]
+cmd = ". /opt/venv/bin/activate && python Backend/server.py"
+
+[variables]
+PATH = "/opt/venv/bin:$PATH"
+PYTHONUNBUFFERED = "1"
+PORT = "8000"
+HOST = "0.0.0.0"
+FASTAPI_ENV = "production"
